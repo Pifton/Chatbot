@@ -30,5 +30,5 @@ def scraper(url, output_file):
 
 # Exemple d'utilisation
 url = "https://www.lanutrition.fr/"
-output_file = "donnees_extraites.txt"
+output_file = "scappé.txt"
 scraper(url, output_file)

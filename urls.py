@@ -1,22 +1,29 @@
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 import time
 import pickle
+import os
 
 # Fonction pour obtenir les liens à partir d'une page
 def get_links_from_page(url):
-    response = requests.get(url)
-    links = set()  # Utiliser un ensemble pour éviter les doublons
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
-        # Extraire tous les liens de la page
-        for link in soup.find_all('a', href=True):
-            absolute_link = urljoin(url, link['href'])
-            # Ignorer les liens avec un schéma invalide
-            if absolute_link.startswith("http://") or absolute_link.startswith("https://"):
-                links.add(absolute_link)
-    return links
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an exception for bad status codes
+        links = set()  # Utiliser un ensemble pour éviter les doublons
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            # Extraire tous les liens de la page
+            for link in soup.find_all('a', href=True):
+                absolute_link = urljoin(url, link['href'])
+                parsed_link = urlparse(absolute_link)
+                # Ignorer les liens qui ne commencent pas par le préfixe spécifié
+                if absolute_link.startswith("https://www.lanutrition.fr/") and len(parsed_link.path.split('/')) <= 2 and not parsed_link.fragment:
+                    links.add(absolute_link)
+        return links
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching URL: {url}. {e}")
+        return set()
 
 # Fonction pour enregistrer les URL dans un fichier
 def save_visited_urls(urls, filename):
@@ -51,13 +58,13 @@ def find_pages_with_path(start_url, path_prefix, visited_urls_filename):
 
         # Ajouter les nouveaux liens à visiter
         for link in links:
-            if link not in visited_urls and "bien-etre" not in link:
+            if link not in visited_urls:
                 to_visit.add(link)
 
         # Enregistrer les URL visités en cas de plantage
         save_visited_urls(visited_urls, visited_urls_filename)
 
-        test = test +1
+        test += 1
         print(test)
 
         # Pause de 0.5 seconde
@@ -71,7 +78,7 @@ start_url = "https://www.lanutrition.fr/les-aliments-a-la-loupe"
 path_prefix = "https://www.lanutrition.fr/"
 
 # Nom du fichier pour enregistrer les URL visités
-visited_urls_filename = "visited_urls.txt"
+visited_urls_filename = "test.txt"
 
 # Trouver toutes les pages contenant le préfixe de chemin spécifié
 relevant_pages = find_pages_with_path(start_url, path_prefix, visited_urls_filename)
