@@ -10,7 +10,7 @@ def load_visited_urls(filename):
         return set()
 
 # Chargement des URLs visités depuis le fichier
-visited_urls_filename = "test.txt"
+visited_urls_filename = "links.txt"
 visited_urls = load_visited_urls(visited_urls_filename)
 
 # Création d'un ensemble pour stocker les URLs uniques et un autre pour les doublons
