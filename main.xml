@@ -60,4 +60,14 @@
         <glucides></glucides>
         <fibres></fibres>
     </aliment>
+
+    <aliment type="autre">
+        <nom>Flan à la banane</nom>
+        <portion>100g</portion>
+        <calories>100g</calories>
+        <proteins></proteins>
+        <lipides></lipides>
+        <glucides></glucides>
+        <fibres></fibres>
+    </aliment>
 </Aliments>
