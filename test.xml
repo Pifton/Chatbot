@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Aliments>
 
-    <aliment type="seafood">
+    <aliment type="autre">
         <nom>Éperlan</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -21,7 +21,7 @@
         <fibres>2 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="autre">
         <nom>Féta</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -201,7 +201,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="dairys">
         <nom>Laitue-tige</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -211,7 +211,7 @@
         <fibres>1.7 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="sauce">
         <nom>Tamari (sauce soja)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -221,7 +221,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Saucisse fumée (porc)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -241,7 +241,7 @@
         <fibres>1.7 g</fibres>
     </aliment>
 
-    <aliment type="seafood">
+    <aliment type="autre">
         <nom>Truite</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -261,7 +261,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="egg">
+    <aliment type="autre">
         <nom>Oeuf poché</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -271,7 +271,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Pain de seigle foncé (Pumpernickel)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -341,7 +341,7 @@
         <fibres>1.1 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait de chèvre</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -381,7 +381,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Épinard (conserve)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -451,7 +451,7 @@
         <fibres>1.9 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou rouge cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -481,7 +481,7 @@
         <fibres>5.3 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="fruit">
         <nom>Jus d'ananas</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -491,7 +491,7 @@
         <fibres>0.7 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Café instantané</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -501,7 +501,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Café expresso</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -571,7 +571,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Beurre fermier</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -591,7 +591,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="cereals">
         <nom>Sablé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -611,7 +611,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Poivron vert cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -621,7 +621,7 @@
         <fibres>1.51 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>crème fouettée  fraîche</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -631,7 +631,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="egg">
+    <aliment type="autre">
         <nom>Oeuf (jaune)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -661,7 +661,7 @@
         <fibres>0.9 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait entier</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -671,7 +671,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Côte d'agneau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -681,7 +681,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz blanc glutineux cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -711,7 +711,7 @@
         <fibres>1.1 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Café</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -761,7 +761,7 @@
         <fibres>8.6 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Cœur d'agneau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -781,7 +781,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Aubergine</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -811,7 +811,7 @@
         <fibres>1 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz croustillant</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -871,7 +871,7 @@
         <fibres>40.5 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou gras cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -941,7 +941,7 @@
         <fibres>1.9 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait demi-écrémé 2% mat. gr.</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1071,7 +1071,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Épinard cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1181,7 +1181,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Son de blé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1281,7 +1281,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="fruit">
         <nom>Zeste d'orange confit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1371,7 +1371,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Gigot d'agneau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1461,7 +1461,7 @@
         <fibres>2.4 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Rognon d'agneau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1541,7 +1541,7 @@
         <fibres>1.2 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Poivron jaune</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1551,7 +1551,7 @@
         <fibres>0.9 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="fruit">
         <nom>Jus d'orange et de pamplemousse</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1581,7 +1581,7 @@
         <fibres>0.9 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Farine de seigle</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1611,7 +1611,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Brochette d'agneau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1711,7 +1711,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Radis</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1721,7 +1721,7 @@
         <fibres>1.6 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Fromage fondu</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1731,7 +1731,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="vegetables">
         <nom>Petits pois et carottes (conserve)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1751,7 +1751,7 @@
         <fibres>0.7 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="boisson">
         <nom>Saucisse de Morteau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1801,7 +1801,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Mets composés, chow mein, poulet, conserve</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1881,7 +1881,7 @@
         <fibres>0.64 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou en salade</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1891,7 +1891,7 @@
         <fibres>1.5 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="dairys">
         <nom>Laitue pommée</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1911,7 +1911,7 @@
         <fibres>1.8 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou de Chine cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -1981,7 +1981,7 @@
         <fibres>0.8 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Café décaféiné</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2001,7 +2001,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Nouilles de riz cuites</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2121,7 +2121,7 @@
         <fibres>2.8 g</fibres>
     </aliment>
 
-    <aliment type="egg">
+    <aliment type="eggs">
         <nom>Blé soufflé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2141,7 +2141,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Fromage allégé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2261,7 +2261,7 @@
         <fibres>5.9 g</fibres>
     </aliment>
 
-    <aliment type="egg">
+    <aliment type="autre">
         <nom>Oeuf frais</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2291,7 +2291,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Pain de seigle</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2311,7 +2311,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz brun grain moyen cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2371,7 +2371,7 @@
         <fibres>6.7 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Burrito jambon et fromage</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2411,7 +2411,7 @@
         <fibres>18.1 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Huile de maïs</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2451,7 +2451,7 @@
         <fibres>9.4 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz blanc grain moyen cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2481,7 +2481,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Alcool de riz (saké)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2491,7 +2491,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou de Chine cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2511,7 +2511,7 @@
         <fibres>0.89 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Fromage des Pyrénées</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2541,7 +2541,7 @@
         <fibres>8.5 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz blanc grain moyen sec</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2821,7 +2821,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Salade de chou</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2841,7 +2841,7 @@
         <fibres>3.2 g</fibres>
     </aliment>
 
-    <aliment type="egg">
+    <aliment type="autre">
         <nom>Oeuf de caille</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2891,7 +2891,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Épinard cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2901,7 +2901,7 @@
         <fibres>2.4 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="cereals">
         <nom>Son d'avoine cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2941,7 +2941,7 @@
         <fibres>0.8 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Cervelle d'agneau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -2971,7 +2971,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Beurre doux</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3021,7 +3021,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="fruit">
         <nom>Sundae fraises</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3051,7 +3051,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou gras cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3061,7 +3061,7 @@
         <fibres>2.1 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Maïs doux</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3071,7 +3071,7 @@
         <fibres>2.4 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="boisson">
         <nom>Maquereau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3081,7 +3081,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait écrémé (poudre)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3131,7 +3131,7 @@
         <fibres>1.1 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Sandwich jambon œuf fromage</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3181,7 +3181,7 @@
         <fibres>1 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Saucisse fumée (poulet)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3201,7 +3201,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait  concentré sucré</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3231,7 +3231,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Pain de viande (porc)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3301,7 +3301,7 @@
         <fibres>7.8 g</fibres>
     </aliment>
 
-    <aliment type="egg">
+    <aliment type="autre">
         <nom>Oeuf (blanc)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3431,7 +3431,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Sandwich jambon fromage</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3461,7 +3461,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="vegetables">
         <nom>Petits pois et carottes (congelés)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3551,7 +3551,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="cereals">
         <nom>Maïs, beignet</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3581,7 +3581,7 @@
         <fibres>1.3 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Poivron</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3611,7 +3611,7 @@
         <fibres>33.2 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait de riz enrichi</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3671,7 +3671,7 @@
         <fibres>5.3 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou rouge cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3741,7 +3741,7 @@
         <fibres>7.7 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Chou-fleur</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3921,7 +3921,7 @@
         <fibres>4.5 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Courgette cuite</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -3971,7 +3971,7 @@
         <fibres>0.4 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Saucisse fumée (bœuf)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4021,7 +4021,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait écrémé instantané (poudre)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4051,7 +4051,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Maïs doux (congelé)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4071,7 +4071,7 @@
         <fibres>3.1 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Concombre cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4141,7 +4141,7 @@
         <fibres>0.1 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="fruit">
         <nom>Gratin de pommes de terre</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4151,7 +4151,7 @@
         <fibres>1.8 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Pain de viande (boeuf)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4241,7 +4241,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Jus de mandarine</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4301,7 +4301,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Yaourt nature brassé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4331,7 +4331,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Carotte crue</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4341,7 +4341,7 @@
         <fibres>2.44 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait fermenté bifidus nature</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4371,7 +4371,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="sauce">
         <nom>Tomate, purée (en conserve)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4381,7 +4381,7 @@
         <fibres>1.9 g</fibres>
     </aliment>
 
-    <aliment type="seafood">
+    <aliment type="autre">
         <nom>Truite arc-en-ciel</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4431,7 +4431,7 @@
         <fibres>2.5 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Yaourt nature allégé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4441,7 +4441,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Jus de carotte</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4451,7 +4451,7 @@
         <fibres>0.8 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Flocons de maïs givrés</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4511,7 +4511,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Fromage de tête</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4531,7 +4531,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="boisson">
         <nom>Pruneau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4631,7 +4631,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Beurre salé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4651,7 +4651,7 @@
         <fibres>3.2 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou vert frisé cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4661,7 +4661,7 @@
         <fibres>2.44 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait de brebis</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4771,7 +4771,7 @@
         <fibres>4 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait demi-écrémé 1% mat.gr.</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4801,7 +4801,7 @@
         <fibres>1.5 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Beurre allégé doux</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4861,7 +4861,7 @@
         <fibres>28 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Farine de riz brun</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4891,7 +4891,7 @@
         <fibres>1.1 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait écrémé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4941,7 +4941,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Chou-fleur cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -4991,7 +4991,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="seafood">
         <nom>Crevettes panées</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5021,7 +5021,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Avoine</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5081,7 +5081,7 @@
         <fibres>26.2 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="fruit">
         <nom>Pomme de terre bouillie (sans la peau)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5091,7 +5091,7 @@
         <fibres>1.4 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz brun grain moyen sec</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5111,7 +5111,7 @@
         <fibres>3.2 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz blanc grain court cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5121,7 +5121,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="fruit">
         <nom>Cerises confites</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5161,7 +5161,7 @@
         <fibres>4.3 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Haricots beurre cuits</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5321,7 +5321,7 @@
         <fibres>4.58 g</fibres>
     </aliment>
 
-    <aliment type="seafood">
+    <aliment type="autre">
         <nom>Esturgeon</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5351,7 +5351,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz blanc grain court sec</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5381,7 +5381,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Brocoli</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5481,7 +5481,7 @@
         <fibres>0.15 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Crème de légumes en sachet</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5491,7 +5491,7 @@
         <fibres>0.2 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Farine de blé complète</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5511,7 +5511,7 @@
         <fibres>21.1 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="fruit">
         <nom>Jus d'orange</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5521,7 +5521,7 @@
         <fibres>0.2 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Jus de pamplemousse</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5541,7 +5541,7 @@
         <fibres>1 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Yaourt normal sur lit de fruits</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5601,7 +5601,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="seafood">
         <nom>Salade de légumes et crevettes</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5681,7 +5681,7 @@
         <fibres>3.3 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz brun grain long cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5711,7 +5711,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Quinoa cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5741,7 +5741,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Maïs doux (conserve)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5791,7 +5791,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="fruit">
         <nom>Zeste d'orange</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5821,7 +5821,7 @@
         <fibres>2.8 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Thé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5961,7 +5961,7 @@
         <fibres>3.3 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Courgette crue</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5971,7 +5971,7 @@
         <fibres>1 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="fruit">
         <nom>Salade de pommes de terre</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5981,7 +5981,7 @@
         <fibres>1.3 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="seafood">
         <nom>Semoule de blé dur</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -5991,7 +5991,7 @@
         <fibres>3.9 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Foie d'agneau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6021,7 +6021,7 @@
         <fibres>0.1 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait fermier</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6051,7 +6051,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Yaourt allégé sur lit de fruits</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6091,7 +6091,7 @@
         <fibres>14 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6201,7 +6201,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou cavalier cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6291,7 +6291,7 @@
         <fibres>0.3 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Galette de riz</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6321,7 +6321,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Céleri (graines)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6331,7 +6331,7 @@
         <fibres>11.8 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Courge</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6351,7 +6351,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Asperge en conserve</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6411,7 +6411,7 @@
         <fibres>0.1 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Farine de sarrasin</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6421,7 +6421,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Seigle</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6451,7 +6451,7 @@
         <fibres>4.3 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Fève de café enrobée de chocolat noir</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6481,7 +6481,7 @@
         <fibres>1.77 g</fibres>
     </aliment>
 
-    <aliment type="egg">
+    <aliment type="eggs">
         <nom>Omelette</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6511,7 +6511,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="sauce">
         <nom>Miso (soja fermenté)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6521,7 +6521,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz blanc glutineux sec</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6561,7 +6561,7 @@
         <fibres>1.7 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>crème fraîche 30% M. G.</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6591,7 +6591,7 @@
         <fibres>4.4 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="fruit">
         <nom>Purée de pommes de terre maison</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6611,7 +6611,7 @@
         <fibres>2.5 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Huile de germe de blé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6761,7 +6761,7 @@
         <fibres>5.7 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Asperge fraîche</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6831,7 +6831,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Galettes de maïs</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6861,7 +6861,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Pâtes maison</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6951,7 +6951,7 @@
         <fibres>2.3 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -6961,7 +6961,7 @@
         <fibres>1.8 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="fruit">
         <nom>Pomme de terre bouillie (avec la peau)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7041,7 +7041,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Céleri cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7111,7 +7111,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Maïs jaune sec</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7141,7 +7141,7 @@
         <fibres>16.3 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="autre">
         <nom>Cola allégé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7151,7 +7151,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Biscuit petit beurre</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7181,7 +7181,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Fromage de chèvre sec</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7211,7 +7211,7 @@
         <fibres>1.7 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Farine de maïs</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7311,7 +7311,7 @@
         <fibres>1.4 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Farine de riz blanc</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7361,7 +7361,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Fécule de maïs</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7421,7 +7421,7 @@
         <fibres>8.6 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Beurre allégé demi-sel</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7441,7 +7441,7 @@
         <fibres>1.6 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Fromage de chèvre frais</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7521,7 +7521,7 @@
         <fibres>1.1 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="fruit">
         <nom>Pommes de terre rissolées</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7571,7 +7571,7 @@
         <fibres>1.6 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Saucisson de bologne (dinde)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7581,7 +7581,7 @@
         <fibres>0.5 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Flocons de maïs</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7711,7 +7711,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Saucisse de bière (bœuf)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7731,7 +7731,7 @@
         <fibres>3.3 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Yaourt nature</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7801,7 +7801,7 @@
         <fibres>2.1 g</fibres>
     </aliment>
 
-    <aliment type="seafood">
+    <aliment type="autre">
         <nom>Truite arc-en-ciel (élevage)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7861,7 +7861,7 @@
         <fibres>3.5 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="seafood">
         <nom>Semoule de maïs</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7871,7 +7871,7 @@
         <fibres>7.3 g</fibres>
     </aliment>
 
-    <aliment type="egg">
+    <aliment type="eggs">
         <nom>Maïs soufflé givré</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7881,7 +7881,7 @@
         <fibres>1.333 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Lait entier (poudre)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7941,7 +7941,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="boisson">
         <nom>Oie rôtie avec la peau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7981,7 +7981,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="sauce">
         <nom>Soupe de tomates en sachet</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -7991,7 +7991,7 @@
         <fibres>0.4 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Crème fouettée (bombe)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8051,7 +8051,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Épinard congelé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8071,7 +8071,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="fruit">
         <nom>Marmelade d'orange</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8081,7 +8081,7 @@
         <fibres>0.7 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Poivrons farcis (bœuf)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8221,7 +8221,7 @@
         <fibres>0.2 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Millet cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8251,7 +8251,7 @@
         <fibres>0.6 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>crème fraîche^légère</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8261,7 +8261,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Fromage de chèvre demi-sec</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8291,7 +8291,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="fruit">
         <nom>Purée de pommes de terre</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8371,7 +8371,7 @@
         <fibres>9.9 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Céleri cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8391,7 +8391,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="seafood">
+    <aliment type="autre">
         <nom>Esturgeon fumé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8421,7 +8421,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="autre">
         <nom>Lentilles</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8431,7 +8431,7 @@
         <fibres>4.25 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Maïs doux cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8471,7 +8471,7 @@
         <fibres>26.5 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Jus de fruit de la passion</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8521,7 +8521,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Yaourt glacé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8661,7 +8661,7 @@
         <fibres>3.9 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Saucisse de bologne (bœuf)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8701,7 +8701,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="dairys">
         <nom>Laitue romaine</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8711,7 +8711,7 @@
         <fibres>2.1 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Orge cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8761,7 +8761,7 @@
         <fibres>1.2 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="boisson">
         <nom>Tourteau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8801,7 +8801,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Fromage bleu</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8811,7 +8811,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="egg">
+    <aliment type="eggs">
         <nom>Blé soufflé givré</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -8841,7 +8841,7 @@
         <fibres>2.4 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou vert frisé cuit</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9091,7 +9091,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Saucisson de bière (porc et bœuf)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9101,7 +9101,7 @@
         <fibres>0.9 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Carotte cuite</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9121,7 +9121,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="boisson">
         <nom>Bigorneau</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9151,7 +9151,7 @@
         <fibres>0.95 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Fromage genre Bombel-Babybel</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9291,7 +9291,7 @@
         <fibres>8.6 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Riz sauvage</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9311,7 +9311,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Poivron vert cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9361,7 +9361,7 @@
         <fibres>0.1 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Yaourt saveur vanille ou café</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9391,7 +9391,7 @@
         <fibres>0.5 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="nuts">
         <nom>Pâte d'amandes</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9411,7 +9411,7 @@
         <fibres>14.1 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Sarrasin</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9451,7 +9451,7 @@
         <fibres>12.2 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="autre">
         <nom>Cola</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9491,7 +9491,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="vegetables">
         <nom>Graine de courge rôtie</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9551,7 +9551,7 @@
         <fibres>0.4 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="cereals">
         <nom>Sucre d'orge</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9631,7 +9631,7 @@
         <fibres></fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="cereals">
         <nom>Chorizo</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9651,7 +9651,7 @@
         <fibres>0.74 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Sirop de maïs</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9721,7 +9721,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="autre">
+    <aliment type="meat">
         <nom>Saucisse fumée (porc et boeuf)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9731,7 +9731,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="seafood">
+    <aliment type="autre">
         <nom>Seiche</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9791,7 +9791,7 @@
         <fibres>1.6 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou vert frisé congelé</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9801,7 +9801,7 @@
         <fibres>2 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Cola décaféiné</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9811,7 +9811,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="vegetable">
+    <aliment type="autre">
         <nom>Chou cavalier cru</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -9831,7 +9831,7 @@
         <fibres>0.4 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Croustilles de maïs (snack)</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -10081,7 +10081,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="cereal">
+    <aliment type="cereals">
         <nom>Farine de blé avec levure</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -10121,7 +10121,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="drink">
+    <aliment type="boisson">
         <nom>Jus de citron</nom>
         <portion>100g</portion>
         <calories>100g</calories>
@@ -10161,7 +10161,7 @@
         <fibres>0 g</fibres>
     </aliment>
 
-    <aliment type="dairy">
+    <aliment type="dairys">
         <nom>Haricots beurre crus</nom>
         <portion>100g</portion>
         <calories>100g</calories>

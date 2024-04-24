@@ -18,16 +18,17 @@ def determiner_type_aliment(nom_aliment):
                   'pesto', 'sriracha', 'hoisin'],
         'meat': ['bison', 'boeuf', 'poulet', 'agneau', 'porc', 'canard', 'cheval', 'lapin', 'bœuf', 'veau', 'dinde',
                  'gibier'],
-        'vegetables': ['carotte', 'tomate', 'brocoli', 'épinard', 'concombre', 'poivron', 'courgette','pomme de terre',
-                       'courge', 'aubergine', 'asperge', 'radis', 'chou-fleur', 'haricot vert' ],
+        'vegetable': ['carotte', 'tomate', 'brocoli', 'épinard', 'concombre', 'poivron', 'courgette','pomme de terre',
+                       'courge', 'aubergine', 'asperge', 'radis', 'chou-fleur', 'haricot vert', 'pommes de terre', 
+                       'céleri', 'chou' ],
         'nuts': ['amande', 'noisette', 'noix', 'pistache', ],
-        'dairys': ['lait', 'fromage', 'yaourt', 'beurre', 'crème', 'kéfir'],
-        'eggs': ['œuf', 'omelette', 'frittata', 'soufflé', 'meringue'],
-        'seafood': ['crevette', 'saumon', 'thon', 'huître', 'moule', 'crabe', 'homard', 'calamar', 'palourde', 'langouste',
-                    'saint-Jacques', 'anguille'],
-        'cereals': ['blé', 'riz', 'maïs', 'avoine', 'quinoa', 'millet', 'épeautre', 'sarrasin', 'seigle', 'orge', 'boulgour',
-                    'pâtes'],
-        'boisson': ['eau', 'jus', 'café', 'thé']
+        'dairy': ['lait', 'fromage', 'yaourt', 'beurre', 'crème', 'kéfir', 'féta'],
+        'egg': ['œuf', 'omelette', 'frittata', 'soufflé', 'meringue', 'oeuf'],
+        'seafood': ['crevette', 'saumon', 'thon', 'huître', 'moule', 'crabe', 'homard', 'calamar', 'palourde', 
+                    'langouste','saint-Jacques', 'anguille', 'éperlan', 'esturgeon', 'truite', 'sardine', 'seiche' ],
+        'cereal': ['blé', 'riz', 'maïs', 'avoine', 'quinoa', 'millet', 'épeautre', 'sarrasin', 'seigle', 'orge',
+                   'boulgour','pâtes', 'lentilles'],
+        'drink': ['eau', 'jus', 'café', 'thé', 'cola']
     }
 
      # Liste des préfixes à ignorer
@@ -39,29 +40,31 @@ def determiner_type_aliment(nom_aliment):
     elements_present = set()
 
     for element in types.values():
-        #print(types.values())
-        #print(element)
         for item in element:
             #print(item)
-            if item in nom_aliment_lower:
-                elements_present.add(item)
-                #print(elements_present)
+            # Vérifie si l'élément est dans le nom de l'aliment et si son préfixe n'est pas à ignorer
+            if item in nom_aliment_lower and not any(prefix in nom_aliment_lower for prefix in prefixes_a_ignorer):
+                if f' {item} ' in f' {nom_aliment_lower} ': 
+                    elements_present.add(item)
+    #print(elements_present)
           
       # Vérifiez si un élément contient un autre
     for element1 in elements_present:
-        #print(element1)
         for element2 in elements_present:
-            #print(element2)
             if element1 != element2 and element1 in element2:
-               print(element2)
                for key, values in types.items():
                     if element2 in values:
-                        print(f"Type de l'élément : {key}")
+                        #print(f"Type de l'élément : {key}")
+                        #print(key)
                         return key
 
     # Si aucun élément ne contient un autre, retourner simplement un élément présent dans le nom
     if elements_present:
-        return elements_present.pop()
+        for key, values in types.items():
+            for element in elements_present:
+                if element in values:
+                    print(key)
+                    return key
 
     return 'autre'
 
@@ -135,7 +138,7 @@ def creer_fichier_xml(donnees, fichier_xml):
 
 # Nom des fichiers
 fichier_texte = 'main.txt'
-fichier_xml = 'main.xml'
+fichier_xml = 'aliments.xml'
 
 # Lecture des données du fichier texte
 donnees = lire_donnees(fichier_texte)
