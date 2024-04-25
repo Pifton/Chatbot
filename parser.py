@@ -112,7 +112,7 @@ def creer_fichier_xml(donnees, fichier_xml):
                     portion_aliment = portion_aliment_match.group(1) if portion_aliment_match else ''
                     f.write('        <portion>{}</portion>\n'.format(portion_aliment))
 
-                    calories_aliment_match = re.search(r'Quantité: (.+)', aliment)
+                    calories_aliment_match = re.search(r'Energie \(kCal\): (.+)', aliment)
                     calories_aliment = calories_aliment_match.group(1) if calories_aliment_match else ''
                     f.write('        <calories>{}</calories>\n'.format(calories_aliment))
 
