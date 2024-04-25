@@ -5,11 +5,11 @@ import csv
 def extract_aliment_info(aliment):
     nom = aliment.find('nom').text
     portion = aliment.find('portion').text
-    calories = aliment.find('calories').text
-    proteins = aliment.find('proteins').text
-    lipides = aliment.find('lipides').text
-    glucides = aliment.find('glucides').text
-    fibres = aliment.find('fibres').text
+    calories = aliment.find('calories').text if aliment.find('calories') is not None else '0.0'
+    proteins = aliment.find('proteins').text if aliment.find('proteins') is not None else '0.0'
+    lipides = aliment.find('lipides').text if aliment.find('lipides') is not None else '0.0'
+    glucides = aliment.find('glucides').text if aliment.find('glucides') is not None else '0.0'
+    fibres = aliment.find('fibres').text if aliment.find('fibres') is not None else '0.0'
     aliment_type = aliment.attrib.get('type', 'autre')  # Type d'aliment
     return nom, aliment_type, portion, calories, proteins, lipides, glucides, fibres
 
@@ -23,7 +23,7 @@ with open('aliments.csv', 'w', newline='', encoding='utf-8') as csvfile:
     csvwriter = csv.writer(csvfile)
     
     # Écrire l'en-tête du CSV
-    csvwriter.writerow(['type','nom', 'portion', 'calories', 'proteins', 'lipides', 'glucides', 'fibres'])
+    csvwriter.writerow(['nom', 'type', 'portion', 'calories', 'proteins', 'lipides', 'glucides', 'fibres'])
     
     # Parcourir tous les éléments 'aliment' dans le fichier XML
     for aliment in root.findall('aliment'):

@@ -1,1022 +1,1022 @@
-type,nom,portion,calories,proteins,lipides,glucides,fibres
-Éperlan,seafood,100g,251 kCal,21.44 g,12.51 g,12.11 g,3.32 g
-Bonbons à la menthe enrobés de chocolat,autre,100g,384 kCal,2.19 g,7.17 g,80.99 g,2 g
-Féta,dairy,100g,264 kCal,14.21 g,21.28 g,4.09 g,0 g
-Pain classique,autre,100g,260 kCal,8.7 g,3.9 g,49.5 g,5.5 g
-Amande blanchie,nuts,100g,581 kCal,21.94 g,50.62 g,19.94 g,10.4 g
-Morue charbonnière fumée,autre,100g,257 kCal,17.65 g,20.14 g,0 g,0 g
-Langouste,seafood,100g,143 kCal,26.41 g,1.94 g,3.12 g,0 g
-Haricots blancs cuits,autre,100g,78 kCal,7.07 g,0.81 g,15.01 g,0.8 g
-Comté,autre,100g,398 kCal,29.2 g,31.3 g,0 g,0 g
-Flan à la noix de coco,autre,100g,389 kCal,0.9 g,2.3 g,91.2 g,4 g
-Gingembre (racine),spice,100g,80 kCal,1.82 g,0.75 g,17.77 g,2 g
-Litchi séché,autre,100g,277 kCal,3.8 g,1.2 g,70.7 g,4.6 g
-Roquette,autre,100g,25 kCal,2.58 g,0.66 g,3.65 g,1.6 g
-Saucisse de Toulouse,autre,100g,296 kCal,14 g,26.4 g,0.6 g,0 g
-Noix de Brésil,nuts,100g,656 kCal,14.32 g,66.43 g,12.27 g,7.5 g
-Pêche au sirop,autre,100g,44 kCal,0.63 g,0.03 g,11.57 g,1.3 g
-Shiitaké séché,autre,100g,296 kCal,9.58 g,0.99 g,75.37 g,11.5 g
-Paprika,spice,100g,289 kCal,14.76 g,12.95 g,55.74 g,37.4 g
-Sauce Mornay,sauce,100g,,,,,
-Bison,meat,100g,143 kCal,28.44 g,2.42 g,0 g,0 g
-Laitue-tige,autre,100g,18 kCal,0.85 g,0.3 g,3.65 g,1.7 g
-Tamari (sauce soja),autre,100g,,,,,
-Saucisse fumée (porc),autre,100g,307 kCal,11.98 g,28.23 g,0.18 g,0 g
-Oignon cru,autre,100g,40 kCal,1.1 g,0.1 g,9.34 g,1.7 g
-Truite,seafood,100g,190 kCal,26.63 g,8.47 g,0 g,0 g
-Morue fumée,autre,100g,85 kCal,18 g,0.9 g,0 g,0 g
-Oeuf poché,egg,100g,144 kCal,11.755 g,9.974 g,0.977 g,0 g
-Pain de seigle foncé (Pumpernickel),cereal,100g,250 kCal,8.7 g,3.1 g,47.5 g,6.5 g
-Saumon rose (conserve),seafood,100g,139 kCal,16.2 g,7.4 g,0 g,0 g
-Saucisson de foie,autre,100g,326 kCal,14.1 g,28.5 g,2.2 g,0 g
-Couscous sec,autre,100g,376 kCal,12.76 g,0.64 g,77.43 g,5 g
-Glace de type Esquimau,autre,100g,,,,,
-Graine de soja rôtie,sauce,100g,472 kCal,35.22 g,25.4 g,33.55 g,17.7 g
-Twix,autre,100g,503 kCal,4.91 g,24.85 g,64.8 g,1.1 g
-Lait de chèvre,dairy,100g,69 kCal,3.56 g,4.14 g,4.45 g,0 g
-Mayonnaise commerciale,sauce,100g,719 kCal,0.9 g,79.39 g,3.16 g,0 g
-Hamburger,autre,100g,268 kCal,14.8 g,15.1 g,18.02 g,0.89 g
-Pourpier cuit,autre,100g,18 kCal,1.49 g,0.19 g,3.55 g,
-Épinard (conserve),vegetable,100g,19 kCal,2.11 g,0.37 g,2.92 g,1.6 g
-Haricots blancs (conserve),autre,100g,94 kCal,4.75 g,0.37 g,21.14 g,4.1 g
-Pain de viande aux olives,autre,100g,,,,,
-Petit-suisse,autre,100g,136 kCal,9.4 g,9.45 g,3.3 g,0 g
-Rice Krispies,autre,100g,384 kCal,6.9 g,0.5 g,84.9 g,1 g
-Biscuit barquette avec pulpe de fruit,autre,100g,,,,,
-Tablette de chocolat Crunch,autre,100g,500 kCal,5 g,26 g,67 g,1.9 g
-Chou rouge cru,vegetable,100g,31 kCal,1.43 g,0.16 g,7.37 g,2.1 g
-Sauce aigre-douce,autre,100g,122 kCal,0.48 g,2.38 g,24.79 g,0.8 g
-Tortilla nature,autre,100g,489 kCal,7.79 g,23.36 g,65.56 g,5.3 g
-Jus d'ananas,drink,100g,179 kCal,1.3 g,0.1 g,44.3 g,0.7 g
-Café instantané,drink,100g,241 kCal,12.2 g,0.5 g,41.1 g,0 g
-Café expresso,drink,100g,2 kCal,0.12 g,0.18 g,0 g,0 g
-Cassoulet,autre,100g,,,,,
-Coquille à taco cuite,autre,100g,467 kCal,7.08 g,20.83 g,62.72 g,4.6 g
-Haricots blancs crus,autre,100g,67 kCal,6.15 g,0.7 g,13.05 g,1.45 g
-Liqueur de menthe,autre,100g,371 kCal,0 g,0.3 g,41.6 g,0 g
-Crème glacée à la vanille,autre,100g,249 kCal,3.5 g,16.2 g,22.29 g,0 g
-Sauce béarnaise,sauce,100g,,,,,
-Beurre fermier,dairy,100g,717 kCal,0.85 g,81.11 g,0.06 g,0 g
-Rognons de porc crus,meat,100g,100 kCal,16.46 g,3.25 g,0 g,0 g
-Sablé,autre,100g,502 kCal,6.1 g,24.1 g,64.5 g,1.8 g
-Rhum,autre,100g,231 kCal,0 g,0 g,0 g,0 g
-Poivron vert cuit,vegetable,100g,28 kCal,0.92 g,0.2 g,6.7 g,1.51 g
-crème fouettée  fraîche,dairy,100g,328 kCal,2.08941 g,35 g,2.84583 g,0 g
-Oeuf (jaune),egg,100g,366 kCal,15.896 g,32.6787 g,0.5266 g,0 g
-Beignet de crabe,seafood,100g,266 kCal,18.75 g,17.25 g,8.52 g,0.4 g
-Caramel à tartiner,autre,100g,252 kCal,1.5 g,0.1 g,65.9 g,0.9 g
-Lait entier,dairy,100g,61 kCal,3.15 g,3.25 g,4.8 g,0 g
-Côte d'agneau,autre,100g,,,,,
-Riz blanc glutineux cuit,cereal,100g,97 kCal,2.02 g,0.19 g,21.09 g,1 g
-Pistache,nuts,100g,572 kCal,21.35 g,45.97 g,27.65 g,10.3 g
-Cerise en conserve,fruit,100g,36 kCal,0.77 g,0.1 g,8.94 g,1.1 g
-Café,drink,100g,0 kCal,0.12 g,0.02 g,0 g,0 g
-Poireaux crus,autre,100g,61 kCal,1.5 g,0.3 g,14.15 g,2.68 g
-Cumin (graines),spice,100g,375 kCal,17.81 g,22.27 g,44.24 g,10.5 g
-Kumquat,autre,100g,71 kCal,1.88 g,0.86 g,15.9 g,6.5 g
-Graine de tournesol séchée,autre,100g,585 kCal,20.78 g,51.46 g,20 g,8.6 g
-Cœur d'agneau,autre,100g,185 kCal,24.97 g,7.91 g,1.93 g,0 g
-Morue salée,autre,100g,290 kCal,62.82 g,2.37 g,0 g,0 g
-Aubergine,vegetable,100g,35 kCal,0.83 g,0.23 g,8.73 g,2.5 g
-Cacao en poudre non sucré (procédé néerlandais),autre,100g,220 kCal,18.1 g,13.1 g,58.3 g,29.8 g
-Kit Kat,autre,100g,519 kCal,6.51 g,25.99 g,64.59 g,1 g
-Riz croustillant,cereal,100g,377 kCal,7.333 g,0.333 g,83.333 g,1 g
-Tarte aux pommes,autre,100g,237 kCal,1.9 g,11 g,34 g,1.6 g
-Mars aux amandes,autre,100g,467 kCal,8.1 g,23 g,62.7 g,2 g
-Pomme (avec la peau),fruit,100g,52 kCal,0.26 g,0.17 g,13.81 g,1.9 g
-Turbot,autre,100g,122 kCal,20.58 g,3.78 g,0 g,0 g
-Basilic (déshydraté),autre,100g,251 kCal,14.37 g,3.98 g,60.96 g,40.5 g
-Chou gras cru,vegetable,100g,43 kCal,4.2 g,0.8 g,7.3 g,4 g
-Blanc de dinde rôtie avec la peau,meat,100g,136 kCal,30.854 g,5.402 g,0 g,0 g
-Pétoncles,autre,100g,112 kCal,23.2 g,1.4 g,0 g,0 g
-Macédoine de légumes (conserve),autre,100g,36 kCal,1.42 g,0.25 g,7.13 g,3.8 g
-Coriandre (graines),spice,100g,298 kCal,12.37 g,17.77 g,54.99 g,41.9 g
-Aile de poulet rôti avec la peau,meat,100g,290 kCal,26.86 g,19.46 g,0 g,0 g
-Pâtisson,autre,100g,16 kCal,1.03 g,0.17 g,3.3 g,1.9 g
-Lait demi-écrémé 2% mat. gr.,dairy,100g,50 kCal,3.3 g,1.98 g,4.8 g,0 g
-Pain aux céréales,autre,100g,265 kCal,13.36 g,4.23 g,43.34 g,7.4 g
-Veau gras,autre,100g,642 kCal,9.42 g,66.74 g,0 g,0 g
-Feuilles de pissenlit crues,autre,100g,45 kCal,2.7 g,0.7 g,9.2 g,3.5 g
-Kiwi,fruit,100g,61 kCal,1.14 g,0.52 g,14.66 g,3 g
-Veau maigre,autre,100g,196 kCal,31.9 g,6.58 g,0 g,0 g
-Soufflé au fromage,autre,100g,,,,,
-Noisette,nuts,100g,646 kCal,15.03 g,62.4 g,17.6 g,9.4 g
-Flétan noir,autre,100g,239 kCal,18.42 g,17.74 g,0 g,0 g
-Pain d'épices,autre,100g,320 kCal,3 g,3.1 g,70 g,2 g
-Saucisson de bière,autre,100g,238 kCal,14.24 g,18.8 g,2.06 g,0 g
-Double hamburger au fromage,autre,100g,273 kCal,14.72 g,16.92 g,15.37 g,0.96 g
-Sauce hollandaise,sauce,100g,,,,,
-Épinard cru,vegetable,100g,23 kCal,2.86 g,0.39 g,3.63 g,2.2 g
-Lin (graine moulue),autre,100g,534 kCal,19.8 g,41.6 g,28.88 g,27.9 g
-Haricots pinto cuits,autre,100g,162 kCal,9.31 g,0.48 g,30.88 g,8.6 g
-Mure fraîche,autre,100g,43 kCal,1.39 g,0.49 g,9.61 g,5.3 g
-Maquereau salé,autre,100g,305 kCal,18.5 g,25.1 g,0 g,0 g
-Éclair,autre,100g,,,,,
-Agneau (coupes diverses),autre,100g,206 kCal,28.992 g,9.862 g,0 g,0 g
-Cresson de fontaine cru,autre,100g,11 kCal,2.3 g,0.1 g,1.29 g,0.5 g
-Rutabaga,autre,100g,39 kCal,1.29 g,0.22 g,8.74 g,1.8 g
-Fèves de soja germées à la vapeur,autre,100g,81 kCal,8.47 g,4.45 g,6.53 g,0.8 g
-Rognon de veau,meat,100g,163 kCal,26.32 g,5.66 g,0 g,0 g
-Son de blé,cereal,100g,,,,,
-Cheerios,autre,100g,395 kCal,11.67 g,6.33 g,73.33 g,9 g
-Morbier,autre,100g,347 kCal,23.6 g,28.1 g,0 g,0 g
-Aneth (désydraté),autre,100g,253 kCal,19.96 g,4.36 g,55.82 g,13.6 g
-Pâté de foie,autre,100g,319 kCal,14.2 g,28 g,1.5 g,0 g
-Pain au son,autre,100g,248 kCal,8.8 g,3.4 g,47.8 g,4 g
-Citron,autre,100g,29 kCal,1.1 g,0.3 g,9.32 g,2.8 g
-Safran,spice,100g,310 kCal,11.43 g,5.85 g,65.37 g,3.9 g
-Corned beef,autre,100g,250 kCal,27.1 g,14.93 g,0 g,0 g
-Sel de table,autre,100g,0 kCal,0 g,0 g,0 g,0 g
-Zeste d'orange confit,autre,100g,,,,,
-Abricot confit,autre,100g,,,,,
-Croissant,autre,100g,406 kCal,8.2 g,21 g,45.8 g,2.6 g
-Chou à la crème,autre,100g,,,,,
-Saucisse de veau,meat,100g,341 kCal,13.99 g,31.7 g,0 g,0 g
-Saucisse knackwurst,autre,100g,307 kCal,11.1 g,27.7 g,3.2 g,0 g
-Frites,autre,100g,319 kCal,3.76 g,17.05 g,37.51 g,3.5 g
-Poire,fruit,100g,,,,,
-Ris de veau,meat,100g,125 kCal,22.67 g,3.11 g,0 g,0 g
-Gigot d'agneau,autre,100g,200 kCal,29.774 g,8.96 g,0 g,0 g
-Cubes de veau (pour ragout),autre,100g,188 kCal,34.94 g,4.31 g,0 g,0 g
-Vin blanc,autre,100g,82 kCal,0.07 g,0 g,0.96 g,0 g
-Pois pigeon (cajan),autre,100g,111 kCal,5.96 g,1.36 g,19.49 g,6.2 g
-Salade frisée,autre,100g,15 kCal,1.36 g,0.15 g,2.79 g,1.3 g
-Canard rôti avec la peau,meat,100g,337 kCal,18.99 g,28.35 g,0 g,0 g
-Beignet nature enrobé de chocolat,autre,100g,452 kCal,4.93 g,25.25 g,51.33 g,1.9 g
-Noix de cajou rôtie à sec,autre,100g,574 kCal,15.31 g,46.35 g,32.69 g,3 g
-Cœurs de palmier (conserve),autre,100g,28 kCal,2.52 g,0.62 g,4.62 g,2.4 g
-Rognon d'agneau,autre,100g,137 kCal,23.65 g,3.62 g,0.99 g,0 g
-Champignon enoki cru,autre,100g,44 kCal,2.56 g,0.32 g,7.68 g,2.7 g
-Tofu,autre,100g,116 kCal,8.15 g,8 g,5.15 g,
-Fève,autre,100g,,,,,
-Saucisson de bologne,autre,100g,247 kCal,15.3 g,19.87 g,0.73 g,0 g
-Aiglefin,autre,100g,112 kCal,24.24 g,0.93 g,0 g,0 g
-Crème glacée à la fraise,autre,100g,192 kCal,3.2 g,8.4 g,27.6 g,0.9 g
-Cornichons au vinaigre,autre,100g,11 kCal,0.33 g,0.2 g,2.26 g,1.2 g
-Poivron jaune,vegetable,100g,27 kCal,1 g,0.21 g,6.32 g,0.9 g
-Jus d'orange et de pamplemousse,drink,100g,43 kCal,0.6 g,0.1 g,10.28 g,0.1 g
-Salade de fruit (conserve),autre,100g,30 kCal,0.35 g,0.07 g,7.87 g,1 g
-Tapioca sec,autre,100g,358 kCal,0.19 g,0.02 g,88.69 g,0.9 g
-Farine de seigle,cereal,100g,354 kCal,9.39 g,1.77 g,77.49 g,14.6 g
-Flan pâtissier préparé (sachet),autre,100g,112 kCal,4.13 g,2.83 g,17.61 g,0 g
-Figue confite,autre,100g,,,,,
-Brochette d'agneau,autre,100g,186 kCal,28.08 g,7.33 g,0 g,0 g
-Pain complet,autre,100g,250 kCal,8.4 g,1.3 g,49.4 g,5.3 g
-Flan à la banane,autre,100g,,,,,
-Framboise,fruit,100g,53 kCal,1.2 g,0.65 g,11.94 g,6.5 g
-Haricots de lima,autre,100g,123 kCal,6.81 g,0.32 g,23.64 g,5.3 g
-Mâche,autre,100g,21 kCal,2 g,0.4 g,3.6 g,
-Mufffin aux raisins,autre,100g,240 kCal,7.91 g,1.8 g,48.1 g,2.6 g
-Fruit'n Fibre,autre,100g,,,,,
-Macaron,autre,100g,404 kCal,3.6 g,12.7 g,72.45 g,1.8 g
-Lupins cuits,autre,100g,,,,,
-Radis,vegetable,100g,16 kCal,0.68 g,0.1 g,3.4 g,1.6 g
-Fromage fondu,dairy,100g,334 kCal,24.73 g,25.01 g,2.1 g,0 g
-Petits pois et carottes (conserve),autre,100g,38 kCal,2.17 g,0.27 g,8.48 g,2 g
-Gâteau au fromage blanc,autre,100g,217 kCal,8.4 g,5.3 g,34 g,0.7 g
-Saucisse de Morteau,autre,100g,,,,,
-Scarole,autre,100g,17 kCal,1.25 g,0.2 g,3.35 g,3.1 g
-Zeste de pamplemousse confit,autre,100g,,,,,
-Crevette panée et frite,seafood,100g,242 kCal,21.39 g,12.28 g,11.47 g,0.4 g
-Moule cuite,seafood,100g,172 kCal,23.8 g,4.48 g,7.39 g,0 g
-"Mets composés, chow mein, poulet, conserve",autre,100g,92 kCal,3.118 g,4.833 g,9.846 g,1.22 g
-Sauce spaghetti,autre,100g,87 kCal,1.78 g,2.69 g,13.76 g,2.6 g
-Farine de blé  à pain,autre,100g,362 kCal,13.866 g,2.342 g,69.406 g,3.014 g
-Pain aux raisins,autre,100g,,,,,
-Panais,autre,100g,71 kCal,1.32 g,0.3 g,17.01 g,3.24 g
-Saucisse de Strasbourg,autre,100g,,,,,
-Chausson à la viande,autre,100g,254 kCal,13.7 g,20 g,3.9 g,0 g
-Double hamburger,autre,100g,267 kCal,19.3 g,16.01 g,11.04 g,0.64 g
-Chou en salade,vegetable,100g,78 kCal,1.29 g,2.61 g,12.41 g,1.5 g
-Laitue pommée,autre,100g,14 kCal,0.9 g,0.14 g,2.97 g,1.2 g
-Patate douce (conserve),autre,100g,91 kCal,1.65 g,0.2 g,21.12 g,1.8 g
-Chou de Chine cuit,vegetable,100g,14 kCal,1.5 g,0.17 g,2.41 g,1.7 g
-Macédoine de légumes (congelée),autre,100g,64 kCal,3.33 g,0.52 g,13.46 g,4 g
-Ciboulette,autre,100g,30 kCal,3.27 g,0.73 g,4.35 g,2.5 g
-Sirop de grenadine,autre,100g,268 kCal,0 g,0 g,66.91 g,0 g
-Quiche Lorraine,autre,100g,,,,,
-Tostada au fromage avec haricots et bœuf,autre,100g,,,,,
-Lait entier (au chocolat),autre,100g,83 kCal,3.17 g,3.39 g,10.34 g,0.8 g
-Café décaféiné,drink,100g,0 kCal,0.1 g,0 g,0 g,0 g
-Gin,autre,100g,263 kCal,0 g,0 g,0 g,0 g
-Nouilles de riz cuites,cereal,100g,109 kCal,0.91 g,0.2 g,24.9 g,1 g
-Gâteau de riz,autre,100g,118 kCal,3.53 g,2.65 g,19.4 g,0.9 g
-Saucisse de bœuf,meat,100g,332 kCal,18.21 g,27.98 g,0.35 g,0 g
-Oignon vert  cuit,autre,100g,34 kCal,1.9 g,0.4 g,6.5 g,2.6 g
-Origan en poudre,autre,100g,265 kCal,9 g,4.28 g,68.92 g,42.5 g
-Araignée de mer,autre,100g,115 kCal,23.72 g,1.51 g,0 g,0 g
-Salade de pâtes aux fruits de mer,autre,100g,91 kCal,3.94 g,5 g,7.67 g,0.62 g
-Friand à la viande,autre,100g,189 kCal,17.5 g,12.77 g,1.04 g,0 g
-Pizza viande et légumes (congelée),autre,100g,276 kCal,11.28 g,14.43 g,25.14 g,2.2 g
-Artichaut congelé,autre,100g,45 kCal,3.11 g,0.5 g,9.18 g,4.6 g
-Litchi,autre,100g,66 kCal,0.83 g,0.44 g,16.53 g,1.3 g
-M & M's ( marron),autre,100g,492 kCal,4.33 g,21.13 g,71.19 g,2.8 g
-Blé soufflé,egg,100g,397 kCal,15.02 g,2.71 g,78.2 g,11.3 g
-Palourde cuite,seafood,100g,148 kCal,25.55 g,1.95 g,5.13 g,0 g
-Fromage allégé,dairy,100g,200 kCal,23 g,6 g,4 g,0 g
-Perche rose,autre,100g,121 kCal,23.88 g,2.09 g,0 g,0 g
-Échalote crue,autre,100g,72 kCal,2.5 g,0.1 g,16.8 g,2.09 g
-Bâtonnets de poisson,autre,100g,249 kCal,11.04 g,13.25 g,21.18 g,1.4 g
-Epaule de porc,meat,100g,236 kCal,17.18 g,17.99 g,0 g,0 g
-Guimauves,autre,100g,318 kCal,1.8 g,0.2 g,81.3 g,0.1 g
-Anchois à l'huile d'olive,autre,100g,210 kCal,28.89 g,9.71 g,0 g,0 g
-Langue de bœuf en conserve,meat,100g,267 kCal,19.3 g,20.3 g,0.3 g,0 g
-Saumon Atlantique (élevage),seafood,100g,206 kCal,22.1 g,12.35 g,0 g,0 g
-Algue agar crue,autre,100g,26 kCal,0.54 g,0.03 g,6.75 g,0.5 g
-Brie,autre,100g,334 kCal,20.75 g,27.68 g,0.45 g,0 g
-Sauce chili,autre,100g,104 kCal,2.5 g,0.3 g,19.79 g,5.9 g
-Oeuf frais,egg,100g,145 kCal,11.7995 g,10.012 g,0.9812 g,0 g
-Jambon tranché,autre,100g,163 kCal,16.6 g,8.6 g,3.83 g,1.3 g
-Roulé de dinde,meat,100g,98 kCal,14.79 g,1.66 g,5.03 g,0 g
-Pain de seigle,cereal,100g,258 kCal,8.5 g,3.3 g,48.3 g,5.8 g
-Mille-feuilles,autre,100g,,,,,
-Riz brun grain moyen cuit,cereal,100g,112 kCal,2.32 g,0.83 g,23.51 g,1.91 g
-Haricots rouges (conserve),autre,100g,85 kCal,5.26 g,0.36 g,15.54 g,5.4 g
-Papaye,fruit,100g,39 kCal,0.61 g,0.14 g,9.81 g,1.8 g
-Cuisses de grenouille,autre,100g,252 kCal,17.4 g,11.7 g,18 g,0.348 g
-Aneth frais,autre,100g,43 kCal,3.46 g,1.12 g,7.02 g,2.1 g
-Pois cajan,autre,100g,121 kCal,6.76 g,0.38 g,23.25 g,6.7 g
-Burrito jambon et fromage,dairy,100g,214 kCal,9.7 g,7 g,28.1 g,1.4 g
-Lapin mijoté,meat,100g,206 kCal,30.38 g,8.41 g,0 g,0 g
-Émeu,autre,100g,153 kCal,29.07 g,3.13 g,0 g,0 g
-Chocolat liquide,autre,100g,472 kCal,12.1 g,47.7 g,36.2 g,18.1 g
-Huile de maïs,cereal,100g,885 kCal,0 g,100 g,0 g,0 g
-Piment de cayenne,autre,100g,318 kCal,12.01 g,17.27 g,56.63 g,27.2 g
-Calmar,autre,100g,175 kCal,17.94 g,7.48 g,7.79 g,0 g
-Noix de Pécan rôtie à sec,autre,100g,710 kCal,9.5 g,74.27 g,13.72 g,9.4 g
-Riz blanc grain moyen cuit,cereal,100g,130 kCal,2.38 g,0.21 g,28.59 g,
-Sauce tomate,sauce,100g,42 kCal,1.56 g,0.19 g,9.94 g,1.8 g
-Tripes de boeuf,meat,100g,85 kCal,12.07 g,3.69 g,0 g,0 g
-Alcool de riz (saké),cereal,100g,134 kCal,0.5 g,0 g,5 g,0 g
-Chou de Chine cru,vegetable,100g,16 kCal,1.2 g,0.2 g,3.23 g,1.2 g
-Couscous cuit,autre,100g,112 kCal,3.79 g,0.16 g,23.22 g,0.89 g
-Fromage des Pyrénées,dairy,100g,,,,,
-Mars,autre,100g,456 kCal,4.01 g,17.23 g,71.17 g,1 g
-Préparation pour crêpe au sarrasin,autre,100g,340 kCal,10.9 g,2.7 g,71.3 g,8.5 g
-Riz blanc grain moyen sec,cereal,100g,360 kCal,6.61 g,0.58 g,79.34 g,1.4 g
-Sauce barbecue,sauce,100g,150 kCal,0 g,0.29 g,36.25 g,0.6 g
-Échalote lyophilisée,autre,100g,348 kCal,12.3 g,0.5 g,80.7 g,9.2 g
-Soupe de légumes et bœuf en sachet,meat,100g,21 kCal,1.16 g,0.44 g,3.17 g,0.3 g
-Cuisse de faisan,autre,100g,134 kCal,22.2 g,4.3 g,0 g,0 g
-Espadon,autre,100g,155 kCal,25.39 g,5.14 g,0 g,0 g
-Ratatouille,autre,100g,53.1 kCal,1.1 g,3.77 g,3.7 g,2 g
-Pintade,autre,100g,158 kCal,23.4 g,6.45 g,0 g,0 g
-Figue,autre,100g,74 kCal,0.75 g,0.3 g,19.18 g,2.9 g
-Merlan (lieu noir),autre,100g,118 kCal,24.92 g,1.26 g,0 g,0 g
-Amuse-gueule à base de maïs,autre,100g,384 kCal,9.7 g,3.1 g,80.1 g,2.9 g
-Bœuf haché à point,autre,100g,289 kCal,24.07 g,20.69 g,0 g,0 g
-Huile de sésame,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Purée de sésame (tahin),autre,100g,,,,,
-Autruche,autre,100g,123 kCal,22.07 g,3.19 g,0 g,0 g
-Beignet nature,autre,100g,418 kCal,5.87 g,23.55 g,45.63 g,1.6 g
-Fenugrec (graines),autre,100g,323 kCal,23 g,6.41 g,58.35 g,24.6 g
-Perrier,autre,100g,0 kCal,0 g,0 g,0 g,0 g
-Jambon de dinde,meat,100g,104 kCal,17.07 g,1.66 g,4.21 g,0.5 g
-Châtaigne,autre,100g,196 kCal,1.63 g,1.25 g,44.17 g,
-Pomme (sans la peau),fruit,100g,48 kCal,0.27 g,0.13 g,12.76 g,1.3 g
-Pain au levain,autre,100g,289 kCal,11.75 g,1.83 g,56.44 g,2.4 g
-Tortellinis au fromage,autre,100g,307 kCal,13.5 g,7.23 g,47 g,1.9 g
-Champignon de Paris (conserve),autre,100g,25 kCal,1.87 g,0.29 g,5.09 g,2.83 g
-Huile de lin,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Spaghetti,autre,100g,158 kCal,5.8 g,0.93 g,30.86 g,1.8 g
-Persil (déshydraté),autre,100g,276 kCal,22.42 g,4.43 g,51.66 g,30.4 g
-Vinaigrette (huile et vinaigre),sauce,100g,449 kCal,0 g,50.1 g,2.5 g,0 g
-Salade de chou,vegetable,100g,153 kCal,0.95 g,9.91 g,14.89 g,1.6 g
-Câpres,autre,100g,23 kCal,2.36 g,0.86 g,4.89 g,3.2 g
-Oeuf de caille,egg,100g,159 kCal,13.05 g,11.09 g,0.41 g,0 g
-Pruneau au sirop,autre,100g,105 kCal,0.87 g,0.2 g,27.8 g,3.8 g
-Tarte aux légumes,autre,100g,,,,,
-Choux de Bruxelles,autre,100g,36 kCal,2.55 g,0.5 g,7.1 g,3.57 g
-Foie de porc,meat,100g,165 kCal,26.02 g,4.4 g,3.76 g,0 g
-Épinard cuit,vegetable,100g,23 kCal,2.97 g,0.26 g,3.75 g,2.4 g
-Son d'avoine cuit,autre,100g,40 kCal,3.21 g,0.86 g,11.44 g,2.1 g
-Lait de soja,sauce,100g,,,,,
-Falafel,autre,100g,,,,,
-Haricots mungo germés cuits,autre,100g,21 kCal,2.03 g,0.09 g,4.19 g,0.8 g
-Cervelle d'agneau,autre,100g,273 kCal,16.97 g,22.19 g,0 g,0 g
-Couscous (mouton),autre,100g,,,,,
-Homard d'Amérique,seafood,100g,98 kCal,20.5 g,0.59 g,1.28 g,0 g
-Beurre doux,dairy,100g,717 kCal,0.85 g,81.11 g,0.06 g,0 g
-Chocolat chaud (poudre),autre,100g,398 kCal,6.67 g,4 g,83.73 g,3.7 g
-Patate douce au four avec la peau,autre,100g,90 kCal,2.01 g,0.15 g,20.71 g,3.3 g
-Barre granny tendre,autre,100g,,,,,
-Rôti de viande froid,autre,100g,353 kCal,12.59 g,32.16 g,2.33 g,0 g
-Sundae fraises,autre,100g,175 kCal,4.09 g,5.13 g,29.18 g,0 g
-Raclette,autre,100g,,,,,
-Chapon rôti,autre,100g,229 kCal,28.96 g,11.65 g,0 g,0 g
-Chou gras cuit,vegetable,100g,32 kCal,3.2 g,0.7 g,5 g,2.1 g
-Maïs doux,cereal,100g,96 kCal,3.41 g,1.5 g,20.98 g,2.4 g
-Maquereau,autre,100g,262 kCal,23.85 g,17.81 g,0 g,0 g
-Lait écrémé (poudre),dairy,100g,363 kCal,36.16 g,0.77 g,51.98 g,0 g
-Bonbons durs aux édulcorants,autre,100g,395 kCal,0 g,0 g,98.6 g,0 g
-Bacon grillé,autre,100g,541 kCal,37.04 g,41.78 g,1.43 g,0 g
-Pain (baguette),autre,100g,275 kCal,8.48 g,1.3 g,57.4 g,2.8 g
-Ananas en morceaux,autre,100g,86 kCal,0.4 g,0.1 g,22.2 g,1.1 g
-Sandwich jambon œuf fromage,dairy,100g,,,,,
-Chausson aux pommes,autre,100g,,,,,
-Blanc de poulet pané et frit,meat,100g,303 kCal,21.91 g,18.11 g,12.01 g,0.27 g
-Pâte à tartiner chocolat-noisettes,autre,100g,541 kCal,5.41 g,29.73 g,62.16 g,5.4 g
-Pousses de bambou,autre,100g,12 kCal,1.53 g,0.22 g,1.92 g,1 g
-Saucisse fumée (poulet),autre,100g,223 kCal,15.51 g,16.19 g,2.74 g,0.4 g
-Écrevisse,autre,100g,87 kCal,17.52 g,1.3 g,0 g,0 g
-Lait  concentré sucré,dairy,100g,321 kCal,7.91 g,8.7 g,54.4 g,0 g
-Zeste de citron,autre,100g,47 kCal,1.5 g,0.3 g,16 g,10.6 g
-Cervelas,autre,100g,362 kCal,17.45 g,30.43 g,3.33 g,0 g
-Pain de viande (porc),autre,100g,,,,,
-Cannelle en poudre,spice,100g,247 kCal,3.99 g,1.24 g,80.59 g,53.1 g
-Pâte de fruit,autre,100g,351 kCal,1.8 g,5.3 g,78.5 g,3.5 g
-Crêpe au beurre,autre,100g,224 kCal,3.56 g,6.03 g,39.18 g,0.76 g
-Végétaline,autre,100g,900 kCal,0 g,100 g,0 g,0 g
-Golden Grahams,autre,100g,375 kCal,5 g,3.667 g,83.333 g,3 g
-Muesli (weetabix),autre,100g,372 kCal,11 g,5 g,71 g,7.8 g
-Oeuf (blanc),egg,100g,48 kCal,9.99 g,0 g,1.182 g,0 g
-Tabasco,autre,100g,12 kCal,1.29 g,0.76 g,0.8 g,0.6 g
-Vodka,autre,100g,231 kCal,0 g,0 g,0 g,0 g
-Mélasse,autre,100g,290 kCal,0 g,0.1 g,74.73 g,0 g
-Oeufs de poisson,autre,100g,204 kCal,28.62 g,8.23 g,1.92 g,0 g
-Biscuit aux figues,autre,100g,348 kCal,3.7 g,7.3 g,70.9 g,4.6 g
-Saumon Atlantique (sauvage),seafood,100g,182 kCal,25.44 g,8.13 g,0 g,0 g
-Saumon rouge,seafood,100g,216 kCal,27.31 g,10.97 g,0 g,0 g
-Algue Kombu (varech),autre,100g,43 kCal,1.68 g,0.56 g,9.57 g,1.3 g
-Lingue,autre,100g,111 kCal,24.35 g,0.82 g,0 g,0 g
-Clou de girofle en poudre,autre,100g,323 kCal,5.98 g,20.07 g,61.21 g,34.2 g
-Ravioli de bœuf  (conserve),meat,100g,92 kCal,3.3 g,2.67 g,13.58 g,0.5 g
-Cantal,autre,100g,,,,,
-Sandwich jambon fromage,dairy,100g,,,,,
-Tostada au fromage et bœuf,autre,100g,,,,,
-Glaçage au sucre,autre,100g,,,,,
-Petits pois et carottes (congelés),autre,100g,53 kCal,3.4 g,0.47 g,11.15 g,3.4 g
-Crabe rouge,seafood,100g,79 kCal,15.05 g,0.935 g,1.43 g,0 g
-Bouillon ou consommé de bœuf (déshydraté),meat,100g,3 kCal,0.21 g,0.08 g,0.25 g,0 g
-Gaufrette fourrée,autre,100g,511 kCal,4.1 g,24.3 g,70.1 g,0.6 g
-Hareng fumé,autre,100g,217 kCal,24.58 g,12.37 g,0 g,0 g
-Jus de tomate,sauce,100g,52 kCal,4.48 g,1.92 g,4.93 g,0.5 g
-Fenouil cru,autre,100g,31 kCal,1.24 g,0.2 g,7.29 g,3.1 g
-Moutarde jaune,autre,100g,66 kCal,4.37 g,4.01 g,5.33 g,3.3 g
-Cocktail pina-colada (rhum),autre,100g,,,,,
-"Maïs, beignet",autre,100g,374 kCal,8.55 g,21.238 g,38.623 g,1.994 g
-Pain italien,autre,100g,271 kCal,8.8 g,3.5 g,50 g,2.7 g
-Piment fort (conserve),autre,100g,21 kCal,0.9 g,0.1 g,5.1 g,1.3 g
-Poivron,vegetable,100g,18 kCal,0.8 g,0.3 g,3.9 g,1.2 g
-Biscuits petits animaux,autre,100g,,,,,
-Poudre de cacao non sucré,autre,100g,228 kCal,19.6 g,13.7 g,57.9 g,33.2 g
-Lait de riz enrichi,dairy,100g,,,,,
-Sandwich au jambon de poulet,autre,100g,263 kCal,12.18 g,21.5 g,4.24 g,0 g
-Spaghetti au blé complet,autre,100g,124 kCal,5.33 g,0.54 g,26.54 g,3.23 g
-Tomme,autre,100g,,,,,
-Pois cassés,autre,100g,118 kCal,8.34 g,0.39 g,21.1 g,2.92 g
-Haricots roses,autre,100g,149 kCal,9.06 g,0.49 g,27.91 g,5.3 g
-Chou rouge cuit,vegetable,100g,29 kCal,1.51 g,0.09 g,6.94 g,2.6 g
-Bouillon ou consommé de poulet (déshydraté),meat,100g,5 kCal,0.28 g,0.23 g,0.3 g,0 g
-Huile de soja,sauce,100g,885 kCal,0 g,100 g,0 g,0 g
-Tisane,autre,100g,1 kCal,0 g,0 g,0.2 g,0 g
-Pain de viande au poivre,autre,100g,149 kCal,17.3 g,6.37 g,4.53 g,0 g
-Piment en poudre,autre,100g,263 kCal,6.09 g,8.69 g,72.12 g,21.6 g
-Croquant au sésame,autre,100g,517 kCal,11.6 g,33.3 g,50.3 g,7.7 g
-Chou-fleur,vegetable,100g,23 kCal,1.84 g,0.45 g,4.11 g,2.3 g
-Hareng grillé,autre,100g,203 kCal,23.03 g,11.59 g,0 g,0 g
-Morue charbonnière cuite,autre,100g,250 kCal,17.19 g,19.62 g,0 g,0 g
-Palette de veau,meat,100g,225 kCal,31.26 g,10.09 g,0 g,0 g
-Huile de palme,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Radis orientaux crus (daikons),autre,100g,18 kCal,0.6 g,0.1 g,4.1 g,1.6 g
-Beignet de palourde,seafood,100g,311 kCal,11.9 g,14.9 g,30.9 g,1.16 g
-Crêpe nature (prête-à-manger),autre,100g,225 kCal,5.33 g,5.17 g,39.29 g,2.4 g
-Biscuit au sucre,autre,100g,478 kCal,5.1 g,21.1 g,67.9 g,0.8 g
-Jus de pomme,fruit,100g,46 kCal,0.1 g,0.13 g,11.3 g,0.2 g
-Chocolat au lait,autre,100g,38 kCal,1.65 g,0.21 g,8.98 g,1.9 g
-Sirop d'érable,autre,100g,261 kCal,0 g,0.244 g,66.89 g,0 g
-Cresson cru,autre,100g,32 kCal,2.6 g,0.7 g,5.5 g,1.1 g
-Fondue savoyarde,autre,100g,229 kCal,14.23 g,13.47 g,3.77 g,0 g
-"Pastis, prêt à boire (1dose d'alcool pour 5 d'eau)",autre,100g,44.7 kCal,0 g,0 g,0.16 g,0 g
-Noix de coco crue,nuts,100g,354 kCal,3.33 g,33.49 g,15.23 g,9 g
-Vanille (extrait),autre,100g,288 kCal,0.06 g,0.06 g,12.65 g,0 g
-Petits pois (congelés),autre,100g,77 kCal,5.22 g,0.4 g,13.62 g,4.5 g
-Courgette cuite,vegetable,100g,15 kCal,1.14 g,0.36 g,2.69 g,1 g
-Fenouil (graines),autre,100g,345 kCal,15.8 g,14.87 g,52.29 g,39.8 g
-Cœur de veau,meat,100g,186 kCal,29.12 g,6.75 g,0.13 g,0 g
-Haricots rouges maison,autre,100g,124 kCal,9.13 g,0.09 g,22.41 g,9.3 g
-Pastèque,autre,100g,30 kCal,0.61 g,0.15 g,7.55 g,0.4 g
-Saucisse fumée (bœuf),autre,100g,330 kCal,11.24 g,29.57 g,4.06 g,0 g
-Gouda,autre,100g,357 kCal,24.94 g,28 g,2.22 g,0 g
-Anis (graines),spice,100g,337 kCal,17.6 g,15.9 g,50.02 g,14.6 g
-Longe de porc braisée,meat,100g,239 kCal,27.23 g,13.62 g,0 g,0 g
-Huile d'avocat,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Lait écrémé instantané (poudre),dairy,100g,358 kCal,35.1 g,0.72 g,52.19 g,0 g
-Figue sèche,autre,100g,249 kCal,3.3 g,0.93 g,63.87 g,9.8 g
-Huile de pépins de raisin,fruit,100g,885 kCal,0 g,100 g,0 g,0 g
-Maïs doux (congelé),cereal,100g,93 kCal,3.11 g,0.74 g,22.33 g,2.8 g
-Salsifis,autre,100g,68 kCal,2.73 g,0.17 g,15.36 g,3.1 g
-Concombre cru,vegetable,100g,16 kCal,0.65 g,0.11 g,3.63 g,0.73 g
-Limonade,autre,100g,0 kCal,0 g,0 g,0 g,0 g
-Special K  plus (Kellog's),autre,100g,,,,,
-Tripes à la mode de Caen,autre,100g,,,,,
-Cacao en poudre,autre,100g,486 kCal,16.8 g,23.71 g,51.39 g,29.8 g
-Abricot frais,autre,100g,48 kCal,1.4 g,0.39 g,11.12 g,2 g
-Salami de dinde cuit,meat,100g,172 kCal,19.3 g,9.21 g,1.55 g,0.1 g
-Gratin de pommes de terre,vegetable,100g,132 kCal,5.06 g,7.59 g,11.27 g,1.8 g
-Pain de viande (boeuf),autre,100g,,,,,
-Crispix,autre,100g,399 kCal,7.3 g,1 g,87.2 g,1.8 g
-Fèves de soja germées sautées,sauce,100g,125 kCal,13.1 g,7.1 g,9.4 g,0.8 g
-Graisse de canard,meat,100g,883 kCal,0 g,99.8 g,0 g,0 g
-Rhubarbe,autre,100g,21 kCal,0.9 g,0.2 g,4.54 g,1.8 g
-Sandwich au bifteck,autre,100g,,,,,
-Thon rouge frais cuit,seafood,100g,184 kCal,29.91 g,6.28 g,0 g,0 g
-Loup,autre,100g,123 kCal,22.44 g,3.06 g,0 g,0 g
-Chouquette,autre,100g,,,,,
-Jus de mandarine,drink,100g,43 kCal,0.5 g,0.2 g,10.1 g,0.2 g
-Rillettes,autre,100g,417 kCal,,39.8 g,0.1 g,0 g
-Huile d'olive,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Cappucino,autre,100g,32 kCal,0.2 g,1.1 g,5.6 g,0 g
-Poulet bouilli avec la peau,meat,100g,219 kCal,24.68 g,12.56 g,0 g,0 g
-Sandwich au poulet,autre,100g,175 kCal,12.5 g,10.55 g,6.75 g,0 g
-Yaourt nature brassé,dairy,100g,68 kCal,5.12 g,2.07 g,6.91 g,0 g
-Pain au lait,autre,100g,324 kCal,10 g,10.8 g,46.8 g,2.5 g
-Pâté de crevette ou homard,seafood,100g,180 kCal,20.8 g,9.4 g,1.5 g,
-Carotte crue,vegetable,100g,41 kCal,0.93 g,0.24 g,9.58 g,2.44 g
-Lait fermenté bifidus nature,dairy,100g,66.5 kCal,3.9 g,2.92 g,5.4 g,0 g
-Bretzels durs (apéritif),autre,100g,362 kCal,11.1 g,2.6 g,81.2 g,7.7 g
-Coquille St-Jacques,autre,100g,215 kCal,18.07 g,10.94 g,10.13 g,0 g
-"Tomate, purée (en conserve)",autre,100g,38 kCal,1.65 g,0.33 g,8.98 g,1.9 g
-Truite arc-en-ciel,seafood,100g,150 kCal,22.92 g,5.82 g,0 g,0 g
-Mirabelle,autre,100g,52.7 kCal,0.72 g,0.2 g,12 g,2.3 g
-Moka,autre,100g,27 kCal,0.3 g,1 g,4.5 g,0.1 g
-Haricots verts,autre,100g,29.4 kCal,2 g,0.17 g,3 g,4 g
-"Pizza au fromage (congelée, pâte lève-au-four)",autre,100g,260 kCal,12.37 g,8.78 g,32.91 g,2.5 g
-Yaourt nature allégé,dairy,100g,51 kCal,5.04 g,0.1 g,7.26 g,0 g
-Jus de carotte,vegetable,100g,24 kCal,0.95 g,0.15 g,4.7 g,0.8 g
-Flocons de maïs givrés,cereal,100g,393 kCal,4.667 g,0.333 g,90 g,1.667 g
-Salade de fruits tropicaux (conserve),autre,100g,86 kCal,0.41 g,0.1 g,22.36 g,1.3 g
-Tostada et guacamole,autre,100g,,,,,
-Banane Plantain cuite,fruit,100g,116 kCal,0.79 g,0.18 g,31.15 g,2.3 g
-Chocolat chaud maison,autre,100g,77 kCal,3.52 g,2.34 g,10.74 g,1 g
-Epaule de porc rôtie,meat,100g,292 kCal,23.28 g,21.39 g,0 g,0 g
-Fromage de tête,dairy,100g,157 kCal,13.83 g,10.9 g,0 g,0 g
-Brochet,autre,100g,95 kCal,21 g,0.7 g,0 g,0 g
-Pruneau,autre,100g,339 kCal,3.7 g,0.73 g,89.07 g,
-Bulgur cuit,autre,100g,83 kCal,3.08 g,0.24 g,18.58 g,2.85 g
-Menthe verte fraîche,autre,100g,44 kCal,3.29 g,0.73 g,8.41 g,6.8 g
-Hoummos maison,autre,100g,177 kCal,4.86 g,8.59 g,20.12 g,4 g
-Ormeau frit,autre,100g,189 kCal,19.63 g,6.78 g,11.05 g,0 g
-Langue de veau,meat,100g,202 kCal,25.85 g,10.1 g,0 g,0 g
-Sorbet à l'orange,autre,100g,144 kCal,1.1 g,2 g,30.4 g,1.3 g
-Corn Flakes,autre,100g,389 kCal,7 g,0.7 g,86.2 g,2.6 g
-Graisse de mouton,autre,100g,902 kCal,0 g,100 g,0 g,0 g
-Cuisse de poulet rôti avec la peau,meat,100g,232 kCal,25.96 g,13.46 g,0 g,0 g
-Beurre salé,dairy,100g,717 kCal,0.85 g,81.11 g,0.06 g,0 g
-Olives,autre,100g,115 kCal,0.84 g,10.68 g,6.26 g,3.2 g
-Chou vert frisé cru,vegetable,100g,50 kCal,3.3 g,0.7 g,10.01 g,2.44 g
-Lait de brebis,dairy,100g,,,,,
-Mandarine,autre,100g,53 kCal,0.81 g,0.31 g,13.34 g,1.8 g
-Flétan,autre,100g,140 kCal,26.69 g,2.94 g,0 g,0 g
-Glaçage à la vanille,autre,100g,,,,,
-Laurier (feuille),autre,100g,314 kCal,7.61 g,8.36 g,74.97 g,26.3 g
-Mélange apéritif oriental à base de riz,autre,100g,,,,,
-Nectar de pêche,fruit,100g,54 kCal,0.27 g,0.02 g,13.92 g,0.6 g
-Noix de Grenoble,nuts,100g,655 kCal,15.23 g,65.21 g,13.71 g,6.7 g
-Huître cuite,seafood,100g,137 kCal,14.1 g,4.91 g,7.82 g,0 g
-Saucisse de dinde,meat,100g,196 kCal,23.89 g,10.44 g,0 g,0 g
-Grenade,fruit,100g,83 kCal,1.67 g,1.17 g,18.7 g,4 g
-Lait demi-écrémé 1% mat.gr.,dairy,100g,42 kCal,3.37 g,0.97 g,4.99 g,0 g
-Rouleau de printemps,autre,100g,105 kCal,5.2 g,1.96 g,16.6 g,1.2 g
-Cœurs de palmier crus,autre,100g,115 kCal,2.7 g,0.2 g,25.61 g,1.5 g
-Beurre allégé doux,dairy,100g,499 kCal,3.3 g,55.1 g,0 g,0 g
-Biscuit fourré au chocolat (BN),autre,100g,470 kCal,5.61 g,19.78 g,70.67 g,2.8 g
-Avocat,autre,100g,160 kCal,2 g,14.66 g,8.53 g,6.7 g
-Céleri-rave cuit,autre,100g,27 kCal,0.96 g,0.19 g,5.9 g,1.2 g
-Raisin,fruit,100g,67 kCal,0.63 g,0.35 g,17.15 g,0.9 g
-Cardamome en poudre,autre,100g,312 kCal,10.76 g,6.7 g,68.47 g,28 g
-Farine de riz brun,cereal,100g,,,,,
-Citrouille,autre,100g,34 kCal,1.1 g,0.28 g,8.09 g,2.9 g
-Confiture de fruit,autre,100g,278 kCal,0.37 g,0.07 g,68.86 g,1.1 g
-Lait écrémé,dairy,100g,34 kCal,3.37 g,0.08 g,4.96 g,0 g
-Haricots blancs maison,autre,100g,155 kCal,5.54 g,5.15 g,21.63 g,5.5 g
-Sandwich au fromage et œufs,autre,100g,,,,,
-Ricotta au lait entier,autre,100g,174 kCal,11.26 g,12.98 g,3.04 g,0 g
-Croissant au fromage,autre,100g,,,,,
-Chou-fleur cru,vegetable,100g,25 kCal,1.92 g,0.28 g,4.97 g,1.75 g
-Farine de pois chiches,autre,100g,361 kCal,16.92 g,31.78 g,0.18 g,0 g
-Huile d'arachide,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Sandwich grec aux crudités,autre,100g,,,,,
-Mérou,autre,100g,118 kCal,24.84 g,1.3 g,0 g,0 g
-Crevettes panées,autre,100g,277 kCal,11.51 g,15.18 g,24.39 g,0.26 g
-Bœuf haché cru,meat,100g,293 kCal,16.55 g,24.7 g,0 g,0 g
-Vin doux,autre,100g,133 kCal,0.1 g,0 g,10.6 g,0 g
-Avoine,cereal,100g,389 kCal,16.89 g,6.9 g,66.27 g,10.6 g
-Flan pâtissier,autre,100g,210 kCal,5.5 g,11.6 g,20.8 g,1.6 g
-Sucre de table,autre,100g,400 kCal,0 g,0 g,100 g,0 g
-Gomme à mâcher,autre,100g,,,,,
-Salami sec,autre,100g,407 kCal,22.58 g,33.72 g,1.6 g,0 g
-Ciboulette lyophilisée,autre,100g,311 kCal,21.2 g,3.5 g,64.29 g,26.2 g
-Pomme de terre bouillie (sans la peau),vegetable,100g,86 kCal,1.71 g,0.1 g,20.01 g,1.4 g
-Riz brun grain moyen sec,cereal,100g,362 kCal,7.5 g,2.68 g,76.17 g,3.4 g
-Moutarde brune,autre,100g,91 kCal,5.9 g,6.3 g,5.3 g,3.2 g
-Riz blanc grain court cuit,cereal,100g,130 kCal,2.36 g,0.19 g,28.73 g,
-Cerises confites,autre,100g,,,,,
-Bette,autre,100g,20 kCal,1.88 g,0.08 g,4.13 g,2.1 g
-Reblochon,autre,100g,322 kCal,19.7 g,27 g,0 g,0 g
-Groseille à maquereau,autre,100g,44 kCal,0.88 g,0.58 g,10.18 g,4.3 g
-Haricots beurre cuits,dairy,100g,144 kCal,9.16 g,1.08 g,25.27 g,10.4 g
-Port-Salut,autre,100g,352 kCal,23.78 g,28.2 g,0.57 g,0 g
-Endive,autre,100g,17 kCal,0.9 g,0.1 g,4 g,3.1 g
-Haricots mungo germés crus,autre,100g,30 kCal,3.04 g,0.18 g,5.94 g,1.8 g
-Huile de noix de coco,nuts,100g,863 kCal,0 g,100 g,0 g,0 g
-Navet,autre,100g,28 kCal,0.9 g,0.1 g,6.43 g,1.8 g
-Fèves de soja cuites,sauce,100g,141 kCal,12.35 g,6.4 g,11.05 g,4.2 g
-Céleri-rave cru,autre,100g,42 kCal,1.5 g,0.3 g,9.2 g,1.8 g
-Bacon de dinde,meat,100g,382 kCal,29.6 g,27.9 g,3.1 g,0 g
-Pâte feuilletée (prête-à-cuire),autre,100g,551 kCal,7.3 g,38.1 g,45.1 g,1.5 g
-Whisky,autre,100g,231 kCal,0 g,0 g,0 g,0 g
-"Mets composés, mini ravioli au boeuf, sauce aux tomates et viande, conserve",autre,100g,92 kCal,3.27 g,3.24 g,12.36 g,1 g
-After Eight,autre,100g,432 kCal,1.67 g,11.9 g,79.53 g,2.4 g
-Prune Reine-Claude,autre,100g,53 kCal,0.8 g,0.2 g,12 g,2.4 g
-Ormeau cru,autre,100g,105 kCal,17.1 g,0.76 g,6.01 g,0 g
-Artichaut cru,autre,100g,47 kCal,3.27 g,0.15 g,10.51 g,4.58 g
-Esturgeon,seafood,100g,135 kCal,20.7 g,5.18 g,0 g,0 g
-Poire asiatique,fruit,100g,42 kCal,0.5 g,0.23 g,10.65 g,3.6 g
-Huître crue,seafood,100g,68 kCal,7.05 g,2.46 g,3.91 g,0 g
-Riz blanc grain court sec,cereal,100g,358 kCal,6.5 g,0.52 g,79.15 g,2.8 g
-Pomélo,autre,100g,38 kCal,0.76 g,0.04 g,9.62 g,1 g
-Caille,autre,100g,192 kCal,19.63 g,12.05 g,0 g,0 g
-Brocoli,vegetable,100g,35 kCal,2.38 g,0.41 g,7.18 g,2.4 g
-Choucroute garnie,autre,100g,,,,,
-Préparation pour flan au chocolat,autre,100g,362 kCal,2.6 g,2.1 g,89.3 g,4.5 g
-Farine de blé à gâteau,autre,100g,368 kCal,9.461 g,2.549 g,74.79 g,2.964 g
-Tomate rouge d'hiver crue,sauce,100g,21 kCal,0.85 g,0.33 g,4.64 g,1.2 g
-Tablette de chocolat (à dessert),autre,100g,501 kCal,12.9 g,52.31 g,29.84 g,16.6 g
-Corn Pops,autre,100g,384 kCal,4 g,0.6 g,90.5 g,8 g
-Soupe minestrone en boîte,autre,100g,53 kCal,2.13 g,1.17 g,8.64 g,2.4 g
-Gruyère,autre,100g,413 kCal,29.81 g,32.34 g,0.36 g,0 g
-Soupe aux asperges en sachet,autre,100g,23 kCal,0.88 g,0.69 g,3.57 g,0.15 g
-Crème de légumes en sachet,dairy,100g,41 kCal,0.73 g,2.19 g,4.73 g,0.2 g
-Farine de blé complète,cereal,100g,369 kCal,14.639 g,3.24 g,68.509 g,8.894 g
-Aneth (graines),autre,100g,305 kCal,15.98 g,14.54 g,55.17 g,21.1 g
-Jus d'orange,drink,100g,45 kCal,0.7 g,0.2 g,10.4 g,0.2 g
-Jus de pamplemousse,drink,100g,46 kCal,0.58 g,0.09 g,11.13 g,0.1 g
-Cornichons sucrés,autre,100g,91 kCal,0.58 g,0.41 g,21.15 g,1 g
-Yaourt normal sur lit de fruits,dairy,100g,115 kCal,3.86 g,3 g,17.76 g,0 g
-Lapin rôti,meat,100g,197 kCal,29.06 g,8.05 g,0 g,0 g
-Langue de bœuf,meat,100g,284 kCal,19.29 g,22.3 g,0 g,0 g
-Choucroute,autre,100g,,,,,
-Glaçage au chocolat,autre,100g,,,,,
-Oeufs brouillés,autre,100g,153 kCal,10.388 g,11.394 g,3.047 g,0 g
-Salade de légumes et crevettes,autre,100g,45 kCal,6.15 g,1.05 g,2.8 g,0.45 g
-Datte séchée,autre,100g,282 kCal,2.45 g,0.39 g,75.03 g,8 g
-Vinaigrette commerciale,sauce,100g,457 kCal,0.77 g,44.81 g,15.58 g,0 g
-Mozarella,autre,100g,319 kCal,21.6 g,24.64 g,2.47 g,0 g
-Pita,autre,100g,275 kCal,9.1 g,1.2 g,55.7 g,2.2 g
-Salade de légumes et poulet,meat,100g,48 kCal,8 g,1 g,1.71 g,0.4 g
-Flan au caramel préparé (sachet),autre,100g,103 kCal,2.99 g,1.72 g,18.82 g,0 g
-Petits pois (conserve),autre,100g,53 kCal,3.19 g,0.3 g,9.75 g,3.3 g
-Riz brun grain long cuit,cereal,100g,111 kCal,2.58 g,0.9 g,22.96 g,1.48 g
-Thymus de bœuf,meat,100g,319 kCal,21.85 g,24.98 g,0 g,0 g
-Thon rouge frais cru,seafood,100g,144 kCal,23.33 g,4.9 g,0 g,0 g
-Quinoa cuit,cereal,100g,120 kCal,4.4 g,1.92 g,21.3 g,2.8 g
-Sardine à l'huile (conserve),autre,100g,208 kCal,24.62 g,11.45 g,0 g,0 g
-Flan au citron,autre,100g,107 kCal,2.76 g,1.71 g,20.2 g,0 g
-Maïs doux (conserve),cereal,100g,64 kCal,1.95 g,0.5 g,15.41 g,1.7 g
-Confiture allégée,autre,100g,132 kCal,0.3 g,0.3 g,53.6 g,2.5 g
-Queue de porc,meat,100g,396 kCal,17 g,35.8 g,0 g,0 g
-Yaourt aux fruits allégé,autre,100g,95 kCal,4.4 g,0.2 g,19 g,0 g
-Huile de tournesol,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Zeste d'orange,autre,100g,97 kCal,1.5 g,0.2 g,25 g,10.6 g
-Orange,fruit,100g,49 kCal,0.91 g,0.15 g,12.54 g,2.2 g
-Coriandre (brins),spice,100g,23 kCal,2.13 g,0.52 g,3.67 g,2.8 g
-Thé,drink,100g,1 kCal,0 g,0 g,0.3 g,0 g
-Salami cuit,autre,100g,301 kCal,15.75 g,25 g,2 g,0 g
-Chou-rave cuit,autre,100g,29 kCal,1.8 g,0.11 g,6.69 g,1.1 g
-Huile de colza,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Tostada au fromage avec haricots,autre,100g,155 kCal,6.67 g,6.85 g,18.42 g,3.02 g
-Estragon (déshydraté),autre,100g,296 kCal,22.77 g,7.24 g,50.22 g,7.4 g
-Sundae chocolat,autre,100g,180 kCal,3.57 g,5.46 g,30.17 g,0 g
-Macaroni au blé complet,autre,100g,124 kCal,5.33 g,0.54 g,26.54 g,2.8 g
-Croissant au jambon,autre,100g,284 kCal,10.5 g,16.6 g,23.1 g,2 g
-Cassonade,autre,100g,380 kCal,0.12 g,0 g,98.09 g,0 g
-Confiture d'abricot,autre,100g,242 kCal,0.7 g,0.2 g,64.4 g,0.3 g
-Cuisse de poulet bouilli avec la peau,meat,100g,220 kCal,24.17 g,12.92 g,0 g,0 g
-Pizza au poivron,autre,100g,296 kCal,11.21 g,15.2 g,28.51 g,2.2 g
-Raifort (sauce),autre,100g,48 kCal,1.18 g,0.69 g,11.29 g,3.3 g
-Courgette crue,vegetable,100g,17 kCal,1.21 g,0.32 g,3.11 g,1 g
-Salade de pommes de terre,vegetable,100g,143 kCal,2.68 g,8.2 g,11.17 g,1.3 g
-Semoule de blé dur,cereal,100g,360 kCal,12.68 g,1.05 g,72.83 g,3.9 g
-Foie d'agneau,autre,100g,238 kCal,25.53 g,12.65 g,3.78 g,0 g
-Chocolat à croquer,autre,100g,,,,,
-Poulet frit (sans peau),meat,100g,219 kCal,30.57 g,9.12 g,1.69 g,0.1 g
-Lait fermier,dairy,100g,64 kCal,3.28 g,3.66 g,4.65 g,0 g
-Boudin,autre,100g,379 kCal,14.6 g,34.5 g,1.29 g,0 g
-Saucisson de foie et de bacon,autre,100g,297 kCal,15 g,24 g,4.3 g,0 g
-Yaourt allégé sur lit de fruits,dairy,100g,62 kCal,4.3 g,0.19 g,10.77 g,0 g
-Cari en poudre,autre,100g,325 kCal,12.66 g,13.81 g,58.15 g,33.2 g
-Ananas,fruit,100g,50 kCal,0.54 g,0.12 g,13.12 g,1.4 g
-Graine de sésame grillée,autre,100g,565 kCal,16.96 g,48 g,25.74 g,14 g
-Chou cuit,vegetable,100g,23 kCal,1.27 g,0.06 g,5.51 g,1.7 g
-Huître panée et frite,seafood,100g,197 kCal,8.77 g,12.58 g,11.62 g,0 g
-"Bœuf oriental, légumes et riz",meat,100g,74 kCal,4.96 g,1.08 g,11.05 g,0.51 g
-Nachos au fromage et chili con carne,autre,100g,,,,,
-Melon,fruit,100g,34 kCal,0.84 g,0.19 g,8.16 g,0.69 g
-Romarin (déshydraté),autre,100g,332 kCal,4.88 g,15.22 g,64.06 g,42.6 g
-Myrtille,fruit,100g,57 kCal,0.74 g,0.33 g,14.49 g,2.59 g
-Poulet mijoté,meat,100g,179 kCal,24.56 g,8.18 g,0 g,0 g
-Truite saumonée,seafood,100g,133 kCal,21.46 g,4.63 g,0 g,0 g
-Huile de palmiste,autre,100g,863 kCal,0 g,100 g,0 g,0 g
-Préparation pour crêpe au froment,autre,100g,344 kCal,12.8 g,1.5 g,71 g,
-Chou cavalier cuit,vegetable,100g,26 kCal,2.11 g,0.36 g,4.91 g,2.8 g
-Tortilla prêt-à-cuire,autre,100g,218 kCal,5.7 g,2.85 g,44.64 g,6.3 g
-Carvi (graines),autre,100g,333 kCal,19.77 g,14.59 g,49.9 g,38 g
-Limonade au citron,autre,100g,39 kCal,0.05 g,0.02 g,10.14 g,0 g
-Moule crue,seafood,100g,86 kCal,11.9 g,2.24 g,3.69 g,0 g
-Artichaut cuit,autre,100g,53 kCal,2.89 g,0.34 g,11.95 g,8.6 g
-Raifort,autre,100g,,,,,
-Snickers,autre,100g,491 kCal,7.53 g,23.85 g,61.51 g,2.3 g
-Soupe à l'oignon en sachet,autre,100g,12 kCal,0.32 g,0.01 g,2.77 g,0.3 g
-Galette de riz,cereal,100g,387 kCal,8.2 g,2.8 g,81.5 g,4.2 g
-Champignon,autre,100g,28 kCal,2.17 g,0.47 g,5.29 g,2.2 g
-Foie de morue,autre,100g,425 kCal,5.6 g,42 g,6 g,0 g
-Céleri (graines),vegetable,100g,392 kCal,18.07 g,25.27 g,41.35 g,11.8 g
-Courge,vegetable,100g,56 kCal,0.66 g,0.34 g,14.34 g,
-Sorbet allégé en sucre,autre,100g,24 kCal,0.5 g,0.1 g,6.2 g,0 g
-Asperge en conserve,vegetable,100g,15 kCal,1.8 g,0.18 g,2.47 g,1 g
-Coing,autre,100g,27.7 kCal,0.4 g,0.1 g,6.3 g,3.2 g
-Fruits au sirop (conserve),autre,100g,32 kCal,0.42 g,0.05 g,8.51 g,1 g
-Carpe,autre,100g,162 kCal,22.86 g,7.17 g,0 g,0 g
-Eau du robinet,autre,100g,0 kCal,0 g,0 g,0 g,0 g
-Cocktail daiquiri (rhum),autre,100g,186 kCal,0.06 g,0.06 g,6.94 g,0.1 g
-Farine de sarrasin,cereal,100g,,,,,
-Seigle,cereal,100g,335 kCal,14.76 g,2.5 g,69.76 g,13.56 g
-Thym (déshydraté),autre,100g,276 kCal,9.11 g,7.43 g,63.94 g,37 g
-Pain au raisin,autre,100g,274 kCal,7.9 g,4.4 g,52.3 g,4.3 g
-Fève de café enrobée de chocolat noir,drink,100g,540 kCal,7.5 g,30 g,59.95 g,7.5 g
-Potée auvergnate,autre,100g,159 kCal,8.4 g,12 g,4.4 g,1.4 g
-Pois mange-tout crus,autre,100g,42 kCal,2.8 g,0.2 g,7.55 g,1.77 g
-Omelette,egg,100g,,,,,
-Pain au chocolat,autre,100g,401 kCal,7.4 g,19.7 g,48.6 g,2 g
-Brioche nature,autre,100g,,,,,
-Miso (soja fermenté),autre,100g,,,,,
-Riz blanc glutineux sec,cereal,100g,370 kCal,6.81 g,0.55 g,81.68 g,2.8 g
-Pois carrés cuits,autre,100g,38 kCal,5.31 g,0.66 g,3.21 g,
-Saumon rouge (conserve),seafood,100g,166 kCal,16.8 g,10.1 g,0 g,0 g
-Oignon cuit,autre,100g,44 kCal,1.36 g,0.19 g,10.15 g,1.7 g
-crème fraîche 30% M. G.,dairy,100g,,,,,
-Barre granny dure,autre,100g,,,,,
-Chips goût barbecue,sauce,100g,491 kCal,7.7 g,32.4 g,52.8 g,4.4 g
-Purée de pommes de terre maison,vegetable,100g,113 kCal,1.96 g,4.2 g,16.94 g,1.5 g
-Patate douce bouillie,autre,100g,77 kCal,1.37 g,0.14 g,17.72 g,2.5 g
-Huile de germe de blé,cereal,100g,885 kCal,0 g,100 g,0 g,0 g
-Raisin de Corinthe sec,fruit,100g,283 kCal,4.08 g,0.27 g,74.08 g,6.8 g
-Abricot séché,autre,100g,241 kCal,3.39 g,0.51 g,62.64 g,7.3 g
-Tarte au citron meringuée,autre,100g,268 kCal,1.5 g,8.7 g,47.2 g,1.2 g
-Barbue de rivière élevage,autre,100g,152 kCal,18.72 g,8.02 g,0 g,0 g
-Braunschweiger,autre,100g,327 kCal,14.5 g,28.5 g,3.1 g,0 g
-Conque,autre,100g,130 kCal,26.3 g,1.2 g,1.7 g,0 g
-Halvah nature,autre,100g,469 kCal,12.49 g,21.52 g,60.49 g,4.5 g
-Cerfeuil (déshydraté),autre,100g,237 kCal,23.2 g,3.9 g,49.1 g,11.3 g
-Cornet de glace à la vanille,autre,100g,166 kCal,4.24 g,4.86 g,26.36 g,0.1 g
-Nectar de poire,fruit,100g,60 kCal,0.11 g,0.01 g,15.76 g,0.6 g
-Menthe poivrée fraîche,autre,100g,70 kCal,3.75 g,0.94 g,14.89 g,8 g
-Caramel,autre,100g,348 kCal,0 g,0 g,91.6 g,0 g
-Sirop d'agave,autre,100g,,,,,
-Canneberge séchée sucrée,autre,100g,308 kCal,0.07 g,1.37 g,82.36 g,5.7 g
-Asperge fraîche,vegetable,100g,22 kCal,2.4 g,0.22 g,4.11 g,2 g
-Choucroute (conserve),autre,100g,19 kCal,0.91 g,0.14 g,4.28 g,2.9 g
-Cerises au marasquin,autre,100g,165 kCal,0.22 g,0.21 g,41.97 g,3.2 g
-Cresson cuit,autre,100g,23 kCal,1.9 g,0.6 g,3.8 g,0.7 g
-Gésier de poulet mijoté,meat,100g,154 kCal,30.39 g,2.68 g,0 g,0 g
-Poulet rôti (sans peau),meat,100g,190 kCal,28.93 g,7.41 g,0 g,0 g
-Rognon de bœuf,meat,100g,159 kCal,27.27 g,4.65 g,0 g,0 g
-Galettes de maïs,cereal,100g,387 kCal,8.1 g,2.4 g,83.4 g,1.9 g
-Boisson aux agrumes,autre,100g,46 kCal,0.34 g,0.03 g,11.42 g,0.1 g
-Sauce chili  en conserve,autre,100g,,,,,
-Pâtes maison,cereal,100g,124 kCal,4.37 g,0.98 g,25.12 g,1.19 g
-Bacon cru,autre,100g,222 kCal,16.3 g,16.45 g,0.9 g,0 g
-Salami de boeuf sec,meat,100g,385 kCal,23.2 g,30.05 g,3.8 g,0 g
-Cerise,fruit,100g,50 kCal,1 g,0.3 g,12.18 g,1.6 g
-Sauce béchamel,autre,100g,96.3 kCal,2.5 g,6.3 g,7.4 g,0.2 g
-Mousse d'Irlande crue (algue),autre,100g,49 kCal,1.51 g,0.16 g,12.29 g,1.3 g
-Tarte au chocolat,autre,100g,304 kCal,2.6 g,19.4 g,33.6 g,2 g
-Pois mange-tout,autre,100g,42 kCal,3.27 g,0.23 g,7.05 g,2.8 g
-Banane Plantain crue,fruit,100g,122 kCal,1.3 g,0.37 g,31.89 g,2.3 g
-Chou cru,vegetable,100g,25 kCal,1.28 g,0.1 g,5.8 g,1.8 g
-Pomme de terre bouillie (avec la peau),vegetable,100g,86 kCal,1 g,0 g,19 g,1 g
-Mortadelle,autre,100g,311 kCal,16.37 g,25.39 g,3.05 g,0 g
-Bran Flakes (Kellogg's),autre,100g,382 kCal,11 g,2.2 g,79 g,15 g
-Sauce tartare,autre,100g,668 kCal,1.008 g,73.249 g,4.196 g,0.332 g
-Chocolat amer à cuire,autre,100g,,,,,
-Vin rosé,autre,100g,71 kCal,0.2 g,0 g,1.4 g,0 g
-Bœuf froid tranché (fin),meat,100g,117 kCal,17.94 g,3.4 g,2.59 g,0 g
-Croutons nature,autre,100g,,,,,
-Céleri cru,vegetable,100g,16 kCal,0.69 g,0.17 g,2.97 g,1.5 g
-Quatre-quart au beurre,autre,100g,388 kCal,5.5 g,19.9 g,48.8 g,0.5 g
-Haricots de lima (conserve),autre,100g,71 kCal,4.07 g,0.29 g,13.33 g,3.6 g
-Menthe verte déshydratée,autre,100g,285 kCal,19.93 g,6.03 g,52.04 g,29.8 g
-Chili con carne (conserve),autre,100g,121 kCal,7.09 g,5.26 g,11.43 g,3.9 g
-Saucisson épicé,autre,100g,186 kCal,16.3 g,11.5 g,3.3 g,0 g
-Thon à l'huile (en conserve),autre,100g,198 kCal,29.13 g,8.21 g,0 g,0 g
-Maïs jaune sec,cereal,100g,365 kCal,9.42 g,4.74 g,74.26 g,7.3 g
-Yaourt à boire,autre,100g,70 kCal,2.4 g,1.5 g,11.7 g,0 g
-Poudre de noix de coco,nuts,100g,660 kCal,6.88 g,64.53 g,23.65 g,16.3 g
-Cola allégé,drink,100g,2 kCal,0.11 g,0.03 g,0.29 g,0 g
-Biscuit petit beurre,dairy,100g,467 kCal,6.1 g,18.8 g,68.9 g,0.8 g
-Moutarde jaune (graines),autre,100g,508 kCal,26.08 g,36.24 g,28.09 g,12.2 g
-Sole (poisson plat),autre,100g,117 kCal,24.16 g,1.53 g,0 g,0 g
-Fromage de chèvre sec,dairy,100g,452 kCal,30.52 g,35.59 g,2.17 g,0 g
-Chili en poudre,autre,100g,314 kCal,12.26 g,16.76 g,54.66 g,34.2 g
-Cardon,autre,100g,22 kCal,0.76 g,0.11 g,5.33 g,1.7 g
-Farine de maïs,cereal,100g,361 kCal,6.93 g,3.86 g,76.85 g,7.3 g
-Foie de veau,meat,100g,193 kCal,27.37 g,6.51 g,4.47 g,0 g
-Kaki,autre,100g,70 kCal,0.58 g,0.19 g,18.59 g,3.6 g
-Surimi,autre,100g,99 kCal,15.18 g,0.9 g,6.85 g,0 g
-Dragée,autre,100g,475 kCal,10 g,17.93 g,68.26 g,2.5 g
-Sucre glace,autre,100g,389 kCal,0 g,0 g,99.77 g,0 g
-Foie de bœuf,meat,100g,192 kCal,29.08 g,5.26 g,5.13 g,0 g
-Blanc de dinde rôtie,meat,100g,112 kCal,13.5 g,3 g,7.7 g,0.4 g
-Persil lyophilisé,autre,100g,271 kCal,31.3 g,5.2 g,42.38 g,32.7 g
-Special K,autre,100g,386 kCal,16.1 g,1.4 g,75.5 g,1.4 g
-Farine de riz blanc,cereal,100g,,,,,
-Abricot en conserve,autre,100g,27 kCal,0.71 g,0.16 g,6.39 g,1.6 g
-Brioche aux raisins secs,autre,100g,372 kCal,6.2 g,16.4 g,50.9 g,2.4 g
-Graisse de porc (saindoux),meat,100g,902 kCal,0 g,100 g,0 g,0 g
-Blanc de poulet rôti avec la peau,meat,100g,222 kCal,29.02 g,10.85 g,0 g,0 g
-Fécule de maïs,cereal,100g,,,,,
-Bonbon enrobé de chocolat,autre,100g,367 kCal,2.2 g,9.3 g,80.4 g,2.1 g
-Sarriette en poudre,autre,100g,272 kCal,6.73 g,5.91 g,68.73 g,45.7 g
-Saucisse bratwurst,autre,100g,245 kCal,14.1 g,19.3 g,2.6 g,0 g
-Soupe aux champignons en sachet,autre,100g,33 kCal,0.66 g,1.82 g,4.4 g,0.2 g
-Noix de macadamia,nuts,100g,718 kCal,7.91 g,75.77 g,14.22 g,8.6 g
-Beurre allégé demi-sel,dairy,100g,509 kCal,3.3 g,55.1 g,0 g,0 g
-Basilic frais,autre,100g,22 kCal,3.15 g,0.64 g,2.65 g,1.6 g
-Fromage de chèvre frais,dairy,100g,268 kCal,18.52 g,21.08 g,0.89 g,0 g
-Jambon,autre,100g,178 kCal,22.62 g,9.02 g,0 g,0 g
-Palourde crue,seafood,100g,74 kCal,12.77 g,0.97 g,2.57 g,0 g
-Préparation pour flan au citron,autre,100g,363 kCal,0.1 g,0.5 g,91.8 g,0.1 g
-Prune au sirop,autre,100g,41 kCal,0.39 g,0.01 g,11.03 g,0.9 g
-Goyave,autre,100g,68 kCal,2.55 g,0.95 g,14.32 g,5.4 g
-Parmesan râpé,autre,100g,432 kCal,38.46 g,28.61 g,4.06 g,0 g
-Tomate verte crue,sauce,100g,23 kCal,1.2 g,0.2 g,5.1 g,1.1 g
-Pommes de terre rissolées,vegetable,100g,265 kCal,3 g,12.52 g,35.11 g,3.2 g
-Maquereau espagnol,autre,100g,201 kCal,25.73 g,10.12 g,0 g,0 g
-Bouchée à la reine,autre,100g,,,,,
-Cédrat confit,autre,100g,,,,,
-Prune,autre,100g,46 kCal,0.7 g,0.28 g,11.42 g,1.6 g
-Saucisson de bologne (dinde),autre,100g,209 kCal,11.42 g,16.05 g,4.68 g,0.5 g
-Flocons de maïs,cereal,100g,390 kCal,7 g,0.667 g,86.667 g,2.667 g
-Lièvre,autre,100g,192 kCal,30 g,8 g,0 g,0 g
-Saumon rose,seafood,100g,149 kCal,25.56 g,4.42 g,0 g,0 g
-Chocolat au lait et riz soufflé,autre,100g,511 kCal,7.64 g,29.37 g,59.67 g,3.3 g
-Froot Loops,autre,100g,400 kCal,4.7 g,2.8 g,89.1 g,7.6 g
-Groseille,fruit,100g,56 kCal,1.4 g,0.2 g,13.8 g,4.3 g
-Noix de Pécan,nuts,100g,691 kCal,9.17 g,71.97 g,14.04 g,9.6 g
-Bière légère,autre,100g,,,,,
-Bar,autre,100g,124 kCal,23.63 g,2.56 g,0 g,0 g
-Thym frais,autre,100g,101 kCal,5.56 g,1.68 g,24.45 g,14 g
-Strudel aux pommes,autre,100g,,,,,
-Caviar,autre,100g,252 kCal,24.6 g,17.9 g,4 g,0 g
-Colin,autre,100g,115 kCal,23.48 g,1.69 g,0 g,0 g
-Saucisse de bière (bœuf),autre,100g,254 kCal,14.1 g,19.7 g,4.1 g,0 g
-Persil frais,autre,100g,36 kCal,2.97 g,0.79 g,6.33 g,3.3 g
-Yaourt nature,dairy,100g,63 kCal,5.25 g,1.55 g,7.04 g,0 g
-Poireaux cuits,autre,100g,31 kCal,0.81 g,0.2 g,7.62 g,1 g
-Pâtes aux œufs maison,autre,100g,130 kCal,5.28 g,1.74 g,23.54 g,2.19 g
-Épaule d'agneau rôtie,autre,100g,,,,,
-Bouchées Kit Kat,autre,100g,,,,,
-Pigeonneaux,autre,100g,294 kCal,18.47 g,23.8 g,0 g,0 g
-Ail cru,autre,100g,149 kCal,6.36 g,0.5 g,33.06 g,2.1 g
-Truite arc-en-ciel (élevage),seafood,100g,169 kCal,24.27 g,7.2 g,0 g,0 g
-Pignon,autre,100g,673 kCal,13.69 g,68.37 g,13.08 g,3.7 g
-Gingembre en poudre,spice,100g,347 kCal,9.12 g,5.95 g,70.79 g,12.5 g
-Munster,autre,100g,368 kCal,23.41 g,30.04 g,1.12 g,0 g
-Fruit de la passion,autre,100g,97 kCal,2.2 g,0.7 g,23.38 g,10.4 g
-Muffin nature,autre,100g,227 kCal,8.87 g,1.69 g,44.17 g,3.5 g
-Semoule de maïs,cereal,100g,362 kCal,8.12 g,3.59 g,76.89 g,7.3 g
-Maïs soufflé givré,egg,100g,402 kCal,5 g,1 g,90 g,1.333 g
-Lait entier (poudre),dairy,100g,496 kCal,26.32 g,26.71 g,38.42 g,0 g
-Viande de grison,autre,100g,153 kCal,31.1 g,1.94 g,2.76 g,0 g
-Madeleine,autre,100g,,,,,
-Sundae caramel,autre,100g,196 kCal,4.71 g,5.98 g,31.81 g,0 g
-Emmental français,autre,100g,,,,,
-Oeuf au plat,autre,100g,193 kCal,12.871 g,14.811 g,1.106 g,0 g
-Oie rôtie avec la peau,autre,100g,305 kCal,25.16 g,21.92 g,0 g,0 g
-Gauffre nature,autre,100g,291 kCal,7.9 g,14.1 g,32.9 g,1.47 g
-Country Crisp aux fruits (Jordans),autre,100g,,,,,
-Flan au chocolat,autre,100g,142 kCal,2.09 g,4.6 g,23.01 g,0 g
-Soupe de tomates en sachet,autre,100g,38 kCal,0.93 g,0.61 g,7.17 g,0.4 g
-Crème fouettée (bombe),dairy,100g,258 kCal,3.2 g,22.22 g,12.49 g,0 g
-Champignon de Paris cru,autre,100g,22 kCal,3.09 g,0.34 g,3.28 g,1 g
-Jus de raisin,fruit,100g,,,,,
-Bœuf bourguignon,meat,100g,,,,,
-Biscuit fourré au chocolat (BN) COPY,autre,100g,,,,,
-Enchilada fromage et bœuf,meat,100g,,,,,
-Épinard congelé,vegetable,100g,34 kCal,4.01 g,0.87 g,4.8 g,3.7 g
-Hot-dog,autre,100g,,,,,
-Marmelade d'orange,autre,100g,246 kCal,0.3 g,0 g,66.3 g,0.7 g
-Poivrons farcis (bœuf),autre,100g,73 kCal,3.72 g,2.57 g,8.73 g,1.2 g
-Rôti de porc cuit,meat,100g,459 kCal,28.95 g,36.7 g,1.05 g,0 g
-Chèvre,autre,100g,143 kCal,27.1 g,3.03 g,0 g,0 g
-Sauce salsa,autre,100g,27 kCal,1.54 g,0.16 g,6.26 g,1.6 g
-Algue Nori crue,autre,100g,35 kCal,5.81 g,0.28 g,5.11 g,0.3 g
-Banane,fruit,100g,89 kCal,1.09 g,0.33 g,22.84 g,1.74 g
-Yaourt nature au lait entier,autre,100g,71 kCal,4.73 g,2.79 g,6.68 g,0 g
-All Bran (Kellogg's),autre,100g,262 kCal,12 g,3.3 g,76 g,33.6 g
-Épaule d'agneau grillée,autre,100g,205 kCal,26.68 g,10.936 g,0 g,0 g
-Pois chiches,autre,100g,164 kCal,8.86 g,2.59 g,27.42 g,4.56 g
-Parmesan pâte dure,autre,100g,392 kCal,35.75 g,25.83 g,3.22 g,0 g
-Taco et chili con carne,autre,100g,,,,,
-Cerise guigne en conserve,fruit,100g,46 kCal,0.77 g,0.13 g,11.76 g,1.5 g
-Miel,autre,100g,304 kCal,0.3 g,0 g,82.4 g,0.2 g
-Millet cuit,cereal,100g,119 kCal,3.51 g,1 g,23.67 g,2.93 g
-Poulet bouilli (sans peau),meat,100g,177 kCal,27.29 g,6.71 g,0 g,0 g
-Nectar de papaye,fruit,100g,57 kCal,0.17 g,0.15 g,14.51 g,0.6 g
-crème fraîche^légère,dairy,100g,,,,,
-Fromage de chèvre demi-sec,dairy,100g,364 kCal,21.58 g,29.84 g,2.54 g,0 g
-Pot-au-feu,autre,100g,,,,,
-Morue Atlantique,autre,100g,105 kCal,22.83 g,0.86 g,0 g,0 g
-Purée de pommes de terre,vegetable,100g,83 kCal,2.31 g,1.21 g,16.12 g,1.18 g
-Taco,autre,100g,217 kCal,12.08 g,12.02 g,15.63 g,
-Cuisse de porc rôtie,meat,100g,273 kCal,26.83 g,17.61 g,0 g,0 g
-Biscuit à l'avoine,autre,100g,450 kCal,6.2 g,18.1 g,68.7 g,2.8 g
-Huile de noisette,nuts,100g,885 kCal,0 g,100 g,0 g,0 g
-Hachis Parmentier,autre,100g,,,,,
-Gingembre confit,spice,100g,340 kCal,0.3 g,0.2 g,87.1 g,
-Amuse-gueule à base de maïs goût fromage,autre,100g,526 kCal,9.3 g,33.2 g,51.6 g,9.9 g
-Céleri cuit,vegetable,100g,18 kCal,0.83 g,0.16 g,4 g,1.44 g
-Huile de carthame riche en acide oléique,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Esturgeon fumé,seafood,100g,173 kCal,31.2 g,4.4 g,0 g,0 g
-Salami de boeuf cuit,meat,100g,261 kCal,12.6 g,22.2 g,1.9 g,0 g
-Chipolata,autre,100g,339 kCal,19.43 g,28.36 g,0 g,0 g
-Lentilles,cereal,100g,116 kCal,9.02 g,0.38 g,20.13 g,4.25 g
-Maïs doux cru,cereal,100g,86 kCal,3.27 g,1.35 g,18.7 g,2 g
-Mangue,fruit,100g,65 kCal,0.51 g,0.27 g,17 g,1.8 g
-Paëlla,autre,100g,,,,,
-Poivre noir,spice,100g,255 kCal,10.95 g,3.26 g,64.81 g,26.5 g
-Jus de fruit de la passion,drink,100g,,,,,
-Sorbet au citron,autre,100g,128 kCal,0.4 g,0 g,32.6 g,0 g
-Fraise,fruit,100g,33 kCal,0.67 g,0.3 g,7.68 g,2.24 g
-Zeste de citron confit,autre,100g,,,,,
-Roulé de poulet,meat,100g,134 kCal,14.59 g,7.65 g,1.79 g,0 g
-Yaourt glacé,dairy,100g,159 kCal,4 g,5.6 g,24.2 g,0 g
-Chevreuil,autre,100g,158 kCal,30.21 g,3.19 g,0 g,0 g
-Crêpe nature maison,autre,100g,227 kCal,6.4 g,9.7 g,28.3 g,1.21 g
-Soupe de poireaux en sachet,autre,100g,28 kCal,0.83 g,0.81 g,4.5 g,1.2 g
-Hareng mariné,autre,100g,262 kCal,14.19 g,18 g,9.64 g,0 g
-Bonbon au caramel,autre,100g,382 kCal,4.6 g,8.1 g,77 g,0 g
-Vinaigrette maison,sauce,100g,631 kCal,0.1 g,70.2 g,3.4 g,0 g
-Cerise guigne,fruit,100g,63 kCal,1.06 g,0.2 g,16.01 g,2.1 g
-Cœur de bœuf,meat,100g,165 kCal,28.48 g,4.73 g,0.15 g,0 g
-Soupe de pois cassés,autre,100g,49 kCal,2.83 g,0.58 g,8.37 g,1.1 g
-Burrito fromage et bœuf,meat,100g,,,,,
-Haricots blancs petits (conserve),autre,100g,113 kCal,7.53 g,0.43 g,20.45 g,5.1 g
-Pourpier cru,autre,100g,16 kCal,1.3 g,0.1 g,3.43 g,
-Nouilles chinoises,autre,100g,527 kCal,8.38 g,30.76 g,57.54 g,3.9 g
-Saucisse de bologne (bœuf),autre,100g,264 kCal,12.9 g,20.8 g,5.3 g,0 g
-Milky Way,autre,100g,444 kCal,3.2 g,17.5 g,71.22 g,2.9 g
-M & M's (jaune),autre,100g,516 kCal,9.57 g,26.13 g,60.48 g,3.7 g
-Cassis,autre,100g,63 kCal,1.4 g,0.41 g,15.38 g,
-Laitue romaine,autre,100g,17 kCal,1.23 g,0.3 g,3.29 g,2.1 g
-Orge cuit,cereal,100g,123 kCal,2.26 g,0.44 g,28.22 g,2.46 g
-Igname,autre,100g,116 kCal,1.49 g,0.14 g,27.48 g,3.9 g
-Edam,autre,100g,357 kCal,24.99 g,27.8 g,1.43 g,0 g
-Hamburger au poisson et fromage,autre,100g,286 kCal,11.26 g,15.63 g,26.03 g,1.33 g
-Betterave,autre,100g,30 kCal,0.73 g,0.09 g,7.14 g,1.2 g
-Tourteau,autre,100g,99 kCal,16.2 g,1.9 g,3.11 g,0 g
-Skittles,autre,100g,405 kCal,0.19 g,4.37 g,90.78 g,0 g
-Crevette,seafood,100g,99 kCal,20.91 g,1.08 g,0 g,0 g
-Jambon haché,autre,100g,263 kCal,16.28 g,20.68 g,1.84 g,0 g
-Fromage bleu,dairy,100g,353 kCal,21.4 g,28.74 g,2.34 g,0 g
-Blé soufflé givré,egg,100g,376 kCal,5.667 g,3.333 g,86.667 g,3.333 g
-Boudoir,autre,100g,,,,,
-Chewing gum sans sucre,autre,100g,268 kCal,0 g,0.4 g,94.8 g,2.4 g
-Chou vert frisé cuit,vegetable,100g,28 kCal,1.9 g,0.4 g,5.63 g,2 g
-Tablette de chocolat,autre,100g,507 kCal,3.9 g,34.2 g,60.4 g,5.5 g
-Poulet pané et frit,meat,100g,297 kCal,15.59 g,18.82 g,16.32 g,0.9 g
-Pastrami,autre,100g,147 kCal,17.78 g,5.84 g,0.36 g,0 g
-Thon albacore,seafood,100g,139 kCal,29.97 g,1.22 g,0 g,0 g
-Mure au sirop,autre,100g,92 kCal,1.31 g,0.14 g,23.1 g,3.4 g
-Neufchatel,autre,100g,253 kCal,9.15 g,22.78 g,3.59 g,0 g
-Pilon de poulet pané et frit,meat,100g,291 kCal,20.32 g,18.04 g,10.61 g,0.24 g
-Tapioca,autre,100g,369 kCal,0.1 g,0.1 g,94.3 g,0.2 g
-Nougat,autre,100g,398 kCal,3.33 g,1.67 g,92.39 g,3.3 g
-Emmental,autre,100g,380 kCal,26.93 g,27.8 g,5.38 g,0 g
-Nectarine,autre,100g,44 kCal,1.06 g,0.32 g,10.55 g,1.7 g
-Sardines aux tomates (conserve),autre,100g,185 kCal,20.86 g,10.45 g,0.54 g,0.1 g
-Sauce blanche,autre,100g,147 kCal,3.84 g,10.63 g,9.17 g,0.2 g
-Croutons assaisonnés,autre,100g,,,,,
-Barbue de rivière sauvage,autre,100g,105 kCal,18.47 g,2.85 g,0 g,0 g
-Smacks (Kellog's),autre,100g,,,,,
-Fruits confits,autre,100g,,,,,
-Poulet rôti avec la peau,meat,100g,239 kCal,27.3 g,13.6 g,0 g,0 g
-Anguille,seafood,100g,236 kCal,23.65 g,14.95 g,0 g,0 g
-Nèfle du Japon,autre,100g,47 kCal,0.43 g,0.2 g,12.14 g,1.7 g
-Hamburger au poisson,autre,100g,,,,,
-Tomate rouge d'été crue,sauce,100g,,,,,
-Camembert,autre,100g,300 kCal,19.8 g,24.26 g,0.46 g,0 g
-Huile de carthame riche en acide linoléique,autre,100g,885 kCal,0 g,100 g,0 g,0 g
-Saucisson de bière (porc et bœuf),autre,100g,276 kCal,14 g,22.53 g,4.27 g,0.9 g
-Carotte cuite,vegetable,100g,35 kCal,0.76 g,0.18 g,8.22 g,2.7 g
-Rhubarbe (compote),autre,100g,,,,,
-Bigorneau,autre,100g,135 kCal,26.1 g,1.2 g,5 g,0 g
-Roquefort,autre,100g,369 kCal,21.54 g,30.64 g,2 g,0 g
-Sandwich au poulet et fromage,autre,100g,277 kCal,12.9 g,17 g,18.24 g,0.95 g
-Fromage genre Bombel-Babybel,dairy,100g,,,,,
-Merguez,autre,100g,,,,,
-Pêche,fruit,100g,39 kCal,0.91 g,0.25 g,9.54 g,1.93 g
-Saucisse porc et bœuf,meat,100g,396 kCal,13.8 g,36.25 g,2.7 g,0 g
-Nachos au fromage,autre,100g,,,,,
-"Pizza viande et légumes (congelée, pâte lève-au-four)",autre,100g,271 kCal,12.63 g,11.75 g,28.78 g,2.3 g
-Escalope de veau,meat,100g,189 kCal,36.929 g,3.239 g,0 g,0 g
-Marjolaine (déshydratée),autre,100g,272 kCal,12.66 g,7.04 g,60.56 g,40.3 g
-Muscade en poudre,spice,100g,525 kCal,5.84 g,36.31 g,49.29 g,20.8 g
-Figue de barbarie,autre,100g,41 kCal,0.73 g,0.51 g,9.57 g,3.6 g
-Cuisse de dinde rôtie avec la peau,meat,100g,182 kCal,28.573 g,9.101 g,0 g,0 g
-Pamplemousse,autre,100g,42 kCal,0.77 g,0.14 g,10.66 g,1.6 g
-Amande rôtie à sec,autre,100g,598 kCal,22.09 g,52.83 g,19.29 g,11.8 g
-Gingembre frais,spice,100g,521 kCal,6.9 g,35 g,44.6 g,8.6 g
-Riz sauvage,cereal,100g,101 kCal,3.99 g,0.34 g,21.34 g,1.8 g
-Bière ordinaire,autre,100g,,,,,
-Poivron vert cru,vegetable,100g,20 kCal,0.86 g,0.17 g,4.64 g,1.41 g
-Blanquette de veau,meat,100g,97.2 kCal,15 g,2.8 g,3 g,0.5 g
-Coulommiers,autre,100g,,,,,
-Vin rouge,autre,100g,85 kCal,0.07 g,0 g,2.61 g,0 g
-Saucisse fumée,autre,100g,269 kCal,12.81 g,23.68 g,0.28 g,0.1 g
-Yaourt saveur vanille ou café,dairy,100g,92 kCal,4.1 g,1.9 g,15.49 g,0 g
-Ricotta au lait demi-écrémé,autre,100g,138 kCal,11.39 g,7.91 g,5.14 g,0 g
-Filet de poisson pané,autre,100g,232 kCal,14.66 g,12.29 g,16.97 g,0.5 g
-Pâte d'amandes,autre,100g,,,,,
-Romarin frais,autre,100g,131 kCal,3.31 g,5.86 g,20.7 g,14.1 g
-Sarrasin,cereal,100g,343 kCal,13.25 g,3.4 g,71.5 g,3.47 g
-Dinde rôtie avec la peau,meat,100g,157 kCal,29.916 g,7.097 g,0 g,0 g
-Céréales Nesquik,autre,100g,400 kCal,3.667 g,3 g,90 g,2 g
-Amande non blanchie,nuts,100g,576 kCal,21.22 g,49.42 g,21.67 g,12.2 g
-Cola,drink,100g,38 kCal,0.07 g,0.02 g,9.56 g,0 g
-Poivre blanc,spice,100g,296 kCal,10.4 g,2.12 g,68.61 g,26.2 g
-Oignon vert cru,autre,100g,32 kCal,1.83 g,0.19 g,7.34 g,2.6 g
-Thon au naturel (conserve),autre,100g,116 kCal,25.51 g,0.82 g,0 g,0 g
-Graine de courge rôtie,vegetable,100g,574 kCal,29.84 g,49.05 g,14.71 g,6.5 g
-Crème glacée au chocolat,autre,100g,216 kCal,3.8 g,11 g,28.2 g,1.2 g
-Soupe poulet et nouilles en sachet,meat,100g,23 kCal,0.84 g,0.55 g,3.67 g,0.1 g
-Rognons de porc cuits,meat,100g,151 kCal,25.4 g,4.7 g,0 g,0 g
-Flan à la vanille,autre,100g,130 kCal,1.45 g,3.78 g,22.6 g,0 g
-Ananas confit,fruit,100g,316 kCal,0.8 g,0.4 g,80 g,0.4 g
-Sucre d'orge,autre,100g,394 kCal,0 g,0.2 g,98 g,0 g
-Cervelle de bœuf,meat,100g,196 kCal,12.57 g,15.83 g,0 g,0 g
-Oignon en poudre,autre,100g,342 kCal,10.41 g,1.04 g,79.12 g,15.2 g
-Poulpe,autre,100g,164 kCal,29.82 g,2.08 g,4.4 g,0 g
-Sanglier,autre,100g,111 kCal,21.3 g,2.9 g,0 g,0 g
-Topinambour,autre,100g,73 kCal,2 g,0.01 g,17.44 g,1.6 g
-Graine de tournesol grillée,autre,100g,619 kCal,17.21 g,56.8 g,20.59 g,11.5 g
-Saint-Nectaire,autre,100g,,,,,
-Chorizo,autre,100g,455 kCal,24.1 g,38.27 g,1.86 g,0 g
-Salade de légumes sans sauce,autre,100g,16 kCal,1.25 g,0.07 g,3.22 g,0.74 g
-Sirop de maïs,cereal,100g,,,,,
-Poire confite,fruit,100g,,,,,
-Huile de noix,nuts,100g,885 kCal,0 g,100 g,0 g,0 g
-Mayonnaise commerciale allégée,sauce,100g,390 kCal,0.9 g,33.4 g,23.9 g,0 g
-Shiitaké cuit,autre,100g,56 kCal,1.56 g,0.22 g,14.39 g,2.1 g
-Thon blanc à l'huile (conserve),autre,100g,186 kCal,26.53 g,8.08 g,0 g,0 g
-Veau haché,autre,100g,172 kCal,24.38 g,7.56 g,0 g,0 g
-Saucisse fumée (porc et boeuf),autre,100g,320 kCal,12 g,28.73 g,2.42 g,0 g
-Seiche,seafood,100g,158 kCal,32.48 g,1.4 g,1.64 g,0 g
-Escargot cru,autre,100g,90 kCal,16.1 g,1.4 g,2 g,0 g
-Croquette de dinde panée,meat,100g,283 kCal,14 g,18 g,15.7 g,0.5 g
-Soupe minestrone en sachet,autre,100g,31 kCal,1.75 g,0.68 g,4.69 g,0.31 g
-Pieds de porc,meat,100g,140 kCal,11.63 g,10.02 g,0.01 g,0 g
-Poire au sirop,autre,100g,50 kCal,0.34 g,0.07 g,12.94 g,1.6 g
-Chou vert frisé congelé,vegetable,100g,28 kCal,2.66 g,0.46 g,4.9 g,2 g
-Cola décaféiné,drink,100g,41 kCal,0 g,0 g,10.58 g,0 g
-Chou cavalier cru,vegetable,100g,30 kCal,2.45 g,0.42 g,5.69 g,3.6 g
-Sauce aux champignons,autre,100g,50 kCal,1.26 g,2.71 g,5.47 g,0.4 g
-Croustilles de maïs (snack),cereal,100g,519 kCal,6.03 g,28.41 g,63.01 g,5.3 g
-Manioc,autre,100g,159 kCal,1.36 g,0.28 g,38.06 g,1.8 g
-Hamburger au fromage,autre,100g,251 kCal,12.8 g,12.7 g,21.2 g,1.02 g
-Bouchées de chocolat au lait,autre,100g,550 kCal,9.76 g,35.73 g,51 g,3.6 g
-Croque-Monsieur,autre,100g,,,,,
-Sandwich merguez-frites,autre,100g,,,,,
-Quatre-quart,autre,100g,389 kCal,5.2 g,17.9 g,52.5 g,1 g
-Curcuma en poudre,spice,100g,354 kCal,7.83 g,9.88 g,64.93 g,21.1 g
-Pizza au fromage (congelée),autre,100g,268 kCal,10.36 g,12.28 g,29.02 g,2.2 g
-Cervelle de veau,meat,100g,213 kCal,14.48 g,16.75 g,0 g,0 g
-Lasagnes,autre,100g,,,,,
-Oeuf à la coque,autre,100g,141 kCal,11.8 g,10.012 g,1.85 g,0 g
-Mulet,autre,100g,150 kCal,24.81 g,4.86 g,0 g,0 g
-Petits pois frais cuits,autre,100g,84 kCal,5.36 g,0.22 g,15.63 g,6.65 g
-Piment rouge séché,autre,100g,324 kCal,10.58 g,5.81 g,69.86 g,28.7 g
-Vinaigre,autre,100g,22 kCal,0 g,0 g,0.93 g,0 g
-Gelée de fruit,autre,100g,267 kCal,0.15 g,0.02 g,69.95 g,1 g
-Céréales Weetabix,autre,100g,371 kCal,10.571 g,2 g,82.857 g,12.571 g
-Yaourt aux fruits brassé,autre,100g,102 kCal,4.47 g,1.68 g,17.28 g,0 g
-Ail en poudre,autre,100g,331 kCal,16.55 g,0.73 g,72.73 g,9 g
-Soda à l'orange,autre,100g,48 kCal,0 g,0 g,12.3 g,0 g
-Haricots pinto (conserve),autre,100g,86 kCal,4.86 g,0.81 g,15.25 g,4.6 g
-Tomate farcie,sauce,100g,134 kCal,5.9 g,10.4 g,4.2 g,0 g
-Spaghetti en sauce,autre,100g,87 kCal,4.31 g,1.08 g,14.91 g,1.4 g
-Cheval,meat,100g,175 kCal,28.14 g,6.05 g,0 g,0 g
-Farine de blé avec levure,cereal,100g,354 kCal,9.89 g,0.97 g,74.22 g,2.7 g
-Nem,autre,100g,,,,,
-Sauge en poudre,autre,100g,315 kCal,10.63 g,12.75 g,60.73 g,40.3 g
-Côte de veau,meat,100g,228 kCal,23.96 g,13.96 g,0 g,0 g
-Jus de citron,drink,100g,25 kCal,0.38 g,0 g,8.63 g,0.4 g
-Olives vertes,autre,100g,146 kCal,1.03 g,15.32 g,3.84 g,3.3 g
-Mozzarella,autre,100g,300 kCal,22.17 g,22.35 g,2.19 g,0 g
-Graisse de bœuf,meat,100g,902 kCal,0 g,100 g,0 g,0 g
-Haricots beurre crus,dairy,100g,345 kCal,22 g,2.6 g,60.7 g,25.1 g
-Cacahuètes salées,autre,100g,585 kCal,23.68 g,49.66 g,21.51 g,8 g
-Pavot (graines),autre,100g,525 kCal,17.99 g,41.56 g,28.13 g,19.5 g
-Chou-rave cru,autre,100g,27 kCal,1.7 g,0.1 g,6.2 g,3.6 g
-Feuilles de pissenlit cuites,autre,100g,33 kCal,2 g,0.6 g,6.4 g,2.9 g
+nom,type,portion,calories,proteins,lipides,glucides,fibres
+Éperlan,seafood,100,251,21.44,12.51,12.11,3.32
+Bonbons à la menthe enrobés de chocolat,autre,100,384,2.19,7.17,80.99,2
+Féta,dairy,100,264,14.21,21.28,4.09,0
+Pain classique,autre,100,260,8.7,3.9,49.5,5.5
+Amande blanchie,nuts,100,581,21.94,50.62,19.94,10.4
+Morue charbonnière fumée,autre,100,257,17.65,20.14,0,0
+Langouste,seafood,100,143,26.41,1.94,3.12,0
+Haricots blancs cuits,autre,100,78,7.07,0.81,15.01,0.8
+Comté,autre,100,398,29.2,31.3,0,0
+Flan à la noix de coco,autre,100,389,0.9,2.3,91.2,4
+Gingembre (racine),spice,100,80,1.82,0.75,17.77,2
+Litchi séché,autre,100,277,3.8,1.2,70.7,4.6
+Roquette,autre,100,25,2.58,0.66,3.65,1.6
+Saucisse de Toulouse,autre,100,296,14,26.4,0.6,0
+Noix de Brésil,nuts,100,656,14.32,66.43,12.27,7.5
+Pêche au sirop,autre,100,44,0.63,0.03,11.57,1.3
+Shiitaké séché,autre,100,296,9.58,0.99,75.37,11.5
+Paprika,spice,100,289,14.76,12.95,55.74,37.4
+Sauce Mornay,sauce,100,,,,,
+Bison,meat,100,143,28.44,2.42,0,0
+Laitue-tige,autre,100,18,0.85,0.3,3.65,1.7
+Tamari (sauce soja),autre,100,,,,,
+Saucisse fumée (porc),autre,100,307,11.98,28.23,0.18,0
+Oignon cru,autre,100,40,1.1,0.1,9.34,1.7
+Truite,seafood,100,190,26.63,8.47,0,0
+Morue fumée,autre,100,85,18,0.9,0,0
+Oeuf poché,egg,100,144,11.755,9.974,0.977,0
+Pain de seigle foncé (Pumpernickel),cereal,100,250,8.7,3.1,47.5,6.5
+Saumon rose (conserve),seafood,100,139,16.2,7.4,0,0
+Saucisson de foie,autre,100,326,14.1,28.5,2.2,0
+Couscous sec,autre,100,376,12.76,0.64,77.43,5
+Glace de type Esquimau,autre,100,,,,,
+Graine de soja rôtie,sauce,100,472,35.22,25.4,33.55,17.7
+Twix,autre,100,503,4.91,24.85,64.8,1.1
+Lait de chèvre,dairy,100,69,3.56,4.14,4.45,0
+Mayonnaise commerciale,sauce,100,719,0.9,79.39,3.16,0
+Hamburger,autre,100,268,14.8,15.1,18.02,0.89
+Pourpier cuit,autre,100,18,1.49,0.19,3.55,
+Épinard (conserve),vegetable,100,19,2.11,0.37,2.92,1.6
+Haricots blancs (conserve),autre,100,94,4.75,0.37,21.14,4.1
+Pain de viande aux olives,autre,100,,,,,
+Petit-suisse,autre,100,136,9.4,9.45,3.3,0
+Rice Krispies,autre,100,384,6.9,0.5,84.9,1
+Biscuit barquette avec pulpe de fruit,autre,100,,,,,
+Tablette de chocolat Crunch,autre,100,500,5,26,67,1.9
+Chou rouge cru,vegetable,100,31,1.43,0.16,7.37,2.1
+Sauce aigre-douce,autre,100,122,0.48,2.38,24.79,0.8
+Tortilla nature,autre,100,489,7.79,23.36,65.56,5.3
+Jus d'ananas,drink,100,179,1.3,0.1,44.3,0.7
+Café instantané,drink,100,241,12.2,0.5,41.1,0
+Café expresso,drink,100,2,0.12,0.18,0,0
+Cassoulet,autre,100,,,,,
+Coquille à taco cuite,autre,100,467,7.08,20.83,62.72,4.6
+Haricots blancs crus,autre,100,67,6.15,0.7,13.05,1.45
+Liqueur de menthe,autre,100,371,0,0.3,41.6,0
+Crème glacée à la vanille,autre,100,249,3.5,16.2,22.29,0
+Sauce béarnaise,sauce,100,,,,,
+Beurre fermier,dairy,100,717,0.85,81.11,0.06,0
+Rognons de porc crus,meat,100,100,16.46,3.25,0,0
+Sablé,autre,100,502,6.1,24.1,64.5,1.8
+Rhum,autre,100,231,0,0,0,0
+Poivron vert cuit,vegetable,100,28,0.92,0.2,6.7,1.51
+crème fouettée  fraîche,dairy,100,328,2.08941,35,2.84583,0
+Oeuf (jaune),egg,100,366,15.896,32.6787,0.5266,0
+Beignet de crabe,seafood,100,266,18.75,17.25,8.52,0.4
+Caramel à tartiner,autre,100,252,1.5,0.1,65.9,0.9
+Lait entier,dairy,100,61,3.15,3.25,4.8,0
+Côte d'agneau,autre,100,,,,,
+Riz blanc glutineux cuit,cereal,100,97,2.02,0.19,21.09,1
+Pistache,nuts,100,572,21.35,45.97,27.65,10.3
+Cerise en conserve,fruit,100,36,0.77,0.1,8.94,1.1
+Café,drink,100,0,0.12,0.02,0,0
+Poireaux crus,autre,100,61,1.5,0.3,14.15,2.68
+Cumin (graines),spice,100,375,17.81,22.27,44.24,10.5
+Kumquat,autre,100,71,1.88,0.86,15.9,6.5
+Graine de tournesol séchée,autre,100,585,20.78,51.46,20,8.6
+Cœur d'agneau,autre,100,185,24.97,7.91,1.93,0
+Morue salée,autre,100,290,62.82,2.37,0,0
+Aubergine,vegetable,100,35,0.83,0.23,8.73,2.5
+Cacao en poudre non sucré (procédé néerlandais),autre,100,220,18.1,13.1,58.3,29.8
+Kit Kat,autre,100,519,6.51,25.99,64.59,1
+Riz croustillant,cereal,100,377,7.333,0.333,83.333,1
+Tarte aux pommes,autre,100,237,1.9,11,34,1.6
+Mars aux amandes,autre,100,467,8.1,23,62.7,2
+Pomme (avec la peau),fruit,100,52,0.26,0.17,13.81,1.9
+Turbot,autre,100,122,20.58,3.78,0,0
+Basilic (déshydraté),autre,100,251,14.37,3.98,60.96,40.5
+Chou gras cru,vegetable,100,43,4.2,0.8,7.3,4
+Blanc de dinde rôtie avec la peau,meat,100,136,30.854,5.402,0,0
+Pétoncles,autre,100,112,23.2,1.4,0,0
+Macédoine de légumes (conserve),autre,100,36,1.42,0.25,7.13,3.8
+Coriandre (graines),spice,100,298,12.37,17.77,54.99,41.9
+Aile de poulet rôti avec la peau,meat,100,290,26.86,19.46,0,0
+Pâtisson,autre,100,16,1.03,0.17,3.3,1.9
+Lait demi-écrémé 2% mat. gr.,dairy,100,50,3.3,1.98,4.8,0
+Pain aux céréales,autre,100,265,13.36,4.23,43.34,7.4
+Veau gras,autre,100,642,9.42,66.74,0,0
+Feuilles de pissenlit crues,autre,100,45,2.7,0.7,9.2,3.5
+Kiwi,fruit,100,61,1.14,0.52,14.66,3
+Veau maigre,autre,100,196,31.9,6.58,0,0
+Soufflé au fromage,autre,100,,,,,
+Noisette,nuts,100,646,15.03,62.4,17.6,9.4
+Flétan noir,autre,100,239,18.42,17.74,0,0
+Pain d'épices,autre,100,320,3,3.1,70,2
+Saucisson de bière,autre,100,238,14.24,18.8,2.06,0
+Double hamburger au fromage,autre,100,273,14.72,16.92,15.37,0.96
+Sauce hollandaise,sauce,100,,,,,
+Épinard cru,vegetable,100,23,2.86,0.39,3.63,2.2
+Lin (graine moulue),autre,100,534,19.8,41.6,28.88,27.9
+Haricots pinto cuits,autre,100,162,9.31,0.48,30.88,8.6
+Mure fraîche,autre,100,43,1.39,0.49,9.61,5.3
+Maquereau salé,autre,100,305,18.5,25.1,0,0
+Éclair,autre,100,,,,,
+Agneau (coupes diverses),autre,100,206,28.992,9.862,0,0
+Cresson de fontaine cru,autre,100,11,2.3,0.1,1.29,0.5
+Rutabaga,autre,100,39,1.29,0.22,8.74,1.8
+Fèves de soja germées à la vapeur,autre,100,81,8.47,4.45,6.53,0.8
+Rognon de veau,meat,100,163,26.32,5.66,0,0
+Son de blé,cereal,100,,,,,
+Cheerios,autre,100,395,11.67,6.33,73.33,9
+Morbier,autre,100,347,23.6,28.1,0,0
+Aneth (désydraté),autre,100,253,19.96,4.36,55.82,13.6
+Pâté de foie,autre,100,319,14.2,28,1.5,0
+Pain au son,autre,100,248,8.8,3.4,47.8,4
+Citron,autre,100,29,1.1,0.3,9.32,2.8
+Safran,spice,100,310,11.43,5.85,65.37,3.9
+Corned beef,autre,100,250,27.1,14.93,0,0
+Sel de table,autre,100,0,0,0,0,0
+Zeste d'orange confit,autre,100,,,,,
+Abricot confit,autre,100,,,,,
+Croissant,autre,100,406,8.2,21,45.8,2.6
+Chou à la crème,autre,100,,,,,
+Saucisse de veau,meat,100,341,13.99,31.7,0,0
+Saucisse knackwurst,autre,100,307,11.1,27.7,3.2,0
+Frites,autre,100,319,3.76,17.05,37.51,3.5
+Poire,fruit,100,,,,,
+Ris de veau,meat,100,125,22.67,3.11,0,0
+Gigot d'agneau,autre,100,200,29.774,8.96,0,0
+Cubes de veau (pour ragout),autre,100,188,34.94,4.31,0,0
+Vin blanc,autre,100,82,0.07,0,0.96,0
+Pois pigeon (cajan),autre,100,111,5.96,1.36,19.49,6.2
+Salade frisée,autre,100,15,1.36,0.15,2.79,1.3
+Canard rôti avec la peau,meat,100,337,18.99,28.35,0,0
+Beignet nature enrobé de chocolat,autre,100,452,4.93,25.25,51.33,1.9
+Noix de cajou rôtie à sec,autre,100,574,15.31,46.35,32.69,3
+Cœurs de palmier (conserve),autre,100,28,2.52,0.62,4.62,2.4
+Rognon d'agneau,autre,100,137,23.65,3.62,0.99,0
+Champignon enoki cru,autre,100,44,2.56,0.32,7.68,2.7
+Tofu,autre,100,116,8.15,8,5.15,
+Fève,autre,100,,,,,
+Saucisson de bologne,autre,100,247,15.3,19.87,0.73,0
+Aiglefin,autre,100,112,24.24,0.93,0,0
+Crème glacée à la fraise,autre,100,192,3.2,8.4,27.6,0.9
+Cornichons au vinaigre,autre,100,11,0.33,0.2,2.26,1.2
+Poivron jaune,vegetable,100,27,1,0.21,6.32,0.9
+Jus d'orange et de pamplemousse,drink,100,43,0.6,0.1,10.28,0.1
+Salade de fruit (conserve),autre,100,30,0.35,0.07,7.87,1
+Tapioca sec,autre,100,358,0.19,0.02,88.69,0.9
+Farine de seigle,cereal,100,354,9.39,1.77,77.49,14.6
+Flan pâtissier préparé (sachet),autre,100,112,4.13,2.83,17.61,0
+Figue confite,autre,100,,,,,
+Brochette d'agneau,autre,100,186,28.08,7.33,0,0
+Pain complet,autre,100,250,8.4,1.3,49.4,5.3
+Flan à la banane,autre,100,,,,,
+Framboise,fruit,100,53,1.2,0.65,11.94,6.5
+Haricots de lima,autre,100,123,6.81,0.32,23.64,5.3
+Mâche,autre,100,21,2,0.4,3.6,
+Mufffin aux raisins,autre,100,240,7.91,1.8,48.1,2.6
+Fruit'n Fibre,autre,100,,,,,
+Macaron,autre,100,404,3.6,12.7,72.45,1.8
+Lupins cuits,autre,100,,,,,
+Radis,vegetable,100,16,0.68,0.1,3.4,1.6
+Fromage fondu,dairy,100,334,24.73,25.01,2.1,0
+Petits pois et carottes (conserve),autre,100,38,2.17,0.27,8.48,2
+Gâteau au fromage blanc,autre,100,217,8.4,5.3,34,0.7
+Saucisse de Morteau,autre,100,,,,,
+Scarole,autre,100,17,1.25,0.2,3.35,3.1
+Zeste de pamplemousse confit,autre,100,,,,,
+Crevette panée et frite,seafood,100,242,21.39,12.28,11.47,0.4
+Moule cuite,seafood,100,172,23.8,4.48,7.39,0
+"Mets composés, chow mein, poulet, conserve",autre,100,92,3.118,4.833,9.846,1.22
+Sauce spaghetti,autre,100,87,1.78,2.69,13.76,2.6
+Farine de blé  à pain,autre,100,362,13.866,2.342,69.406,3.014
+Pain aux raisins,autre,100,,,,,
+Panais,autre,100,71,1.32,0.3,17.01,3.24
+Saucisse de Strasbourg,autre,100,,,,,
+Chausson à la viande,autre,100,254,13.7,20,3.9,0
+Double hamburger,autre,100,267,19.3,16.01,11.04,0.64
+Chou en salade,vegetable,100,78,1.29,2.61,12.41,1.5
+Laitue pommée,autre,100,14,0.9,0.14,2.97,1.2
+Patate douce (conserve),autre,100,91,1.65,0.2,21.12,1.8
+Chou de Chine cuit,vegetable,100,14,1.5,0.17,2.41,1.7
+Macédoine de légumes (congelée),autre,100,64,3.33,0.52,13.46,4
+Ciboulette,autre,100,30,3.27,0.73,4.35,2.5
+Sirop de grenadine,autre,100,268,0,0,66.91,0
+Quiche Lorraine,autre,100,,,,,
+Tostada au fromage avec haricots et bœuf,autre,100,,,,,
+Lait entier (au chocolat),autre,100,83,3.17,3.39,10.34,0.8
+Café décaféiné,drink,100,0,0.1,0,0,0
+Gin,autre,100,263,0,0,0,0
+Nouilles de riz cuites,cereal,100,109,0.91,0.2,24.9,1
+Gâteau de riz,autre,100,118,3.53,2.65,19.4,0.9
+Saucisse de bœuf,meat,100,332,18.21,27.98,0.35,0
+Oignon vert  cuit,autre,100,34,1.9,0.4,6.5,2.6
+Origan en poudre,autre,100,265,9,4.28,68.92,42.5
+Araignée de mer,autre,100,115,23.72,1.51,0,0
+Salade de pâtes aux fruits de mer,autre,100,91,3.94,5,7.67,0.62
+Friand à la viande,autre,100,189,17.5,12.77,1.04,0
+Pizza viande et légumes (congelée),autre,100,276,11.28,14.43,25.14,2.2
+Artichaut congelé,autre,100,45,3.11,0.5,9.18,4.6
+Litchi,autre,100,66,0.83,0.44,16.53,1.3
+M & M's ( marron),autre,100,492,4.33,21.13,71.19,2.8
+Blé soufflé,egg,100,397,15.02,2.71,78.2,11.3
+Palourde cuite,seafood,100,148,25.55,1.95,5.13,0
+Fromage allégé,dairy,100,200,23,6,4,0
+Perche rose,autre,100,121,23.88,2.09,0,0
+Échalote crue,autre,100,72,2.5,0.1,16.8,2.09
+Bâtonnets de poisson,autre,100,249,11.04,13.25,21.18,1.4
+Epaule de porc,meat,100,236,17.18,17.99,0,0
+Guimauves,autre,100,318,1.8,0.2,81.3,0.1
+Anchois à l'huile d'olive,autre,100,210,28.89,9.71,0,0
+Langue de bœuf en conserve,meat,100,267,19.3,20.3,0.3,0
+Saumon Atlantique (élevage),seafood,100,206,22.1,12.35,0,0
+Algue agar crue,autre,100,26,0.54,0.03,6.75,0.5
+Brie,autre,100,334,20.75,27.68,0.45,0
+Sauce chili,autre,100,104,2.5,0.3,19.79,5.9
+Oeuf frais,egg,100,145,11.7995,10.012,0.9812,0
+Jambon tranché,autre,100,163,16.6,8.6,3.83,1.3
+Roulé de dinde,meat,100,98,14.79,1.66,5.03,0
+Pain de seigle,cereal,100,258,8.5,3.3,48.3,5.8
+Mille-feuilles,autre,100,,,,,
+Riz brun grain moyen cuit,cereal,100,112,2.32,0.83,23.51,1.91
+Haricots rouges (conserve),autre,100,85,5.26,0.36,15.54,5.4
+Papaye,fruit,100,39,0.61,0.14,9.81,1.8
+Cuisses de grenouille,autre,100,252,17.4,11.7,18,0.348
+Aneth frais,autre,100,43,3.46,1.12,7.02,2.1
+Pois cajan,autre,100,121,6.76,0.38,23.25,6.7
+Burrito jambon et fromage,dairy,100,214,9.7,7,28.1,1.4
+Lapin mijoté,meat,100,206,30.38,8.41,0,0
+Émeu,autre,100,153,29.07,3.13,0,0
+Chocolat liquide,autre,100,472,12.1,47.7,36.2,18.1
+Huile de maïs,cereal,100,885,0,100,0,0
+Piment de cayenne,autre,100,318,12.01,17.27,56.63,27.2
+Calmar,autre,100,175,17.94,7.48,7.79,0
+Noix de Pécan rôtie à sec,autre,100,710,9.5,74.27,13.72,9.4
+Riz blanc grain moyen cuit,cereal,100,130,2.38,0.21,28.59,
+Sauce tomate,sauce,100,42,1.56,0.19,9.94,1.8
+Tripes de boeuf,meat,100,85,12.07,3.69,0,0
+Alcool de riz (saké),cereal,100,134,0.5,0,5,0
+Chou de Chine cru,vegetable,100,16,1.2,0.2,3.23,1.2
+Couscous cuit,autre,100,112,3.79,0.16,23.22,0.89
+Fromage des Pyrénées,dairy,100,,,,,
+Mars,autre,100,456,4.01,17.23,71.17,1
+Préparation pour crêpe au sarrasin,autre,100,340,10.9,2.7,71.3,8.5
+Riz blanc grain moyen sec,cereal,100,360,6.61,0.58,79.34,1.4
+Sauce barbecue,sauce,100,150,0,0.29,36.25,0.6
+Échalote lyophilisée,autre,100,348,12.3,0.5,80.7,9.2
+Soupe de légumes et bœuf en sachet,meat,100,21,1.16,0.44,3.17,0.3
+Cuisse de faisan,autre,100,134,22.2,4.3,0,0
+Espadon,autre,100,155,25.39,5.14,0,0
+Ratatouille,autre,100,53.1,1.1,3.77,3.7,2
+Pintade,autre,100,158,23.4,6.45,0,0
+Figue,autre,100,74,0.75,0.3,19.18,2.9
+Merlan (lieu noir),autre,100,118,24.92,1.26,0,0
+Amuse-gueule à base de maïs,autre,100,384,9.7,3.1,80.1,2.9
+Bœuf haché à point,autre,100,289,24.07,20.69,0,0
+Huile de sésame,autre,100,885,0,100,0,0
+Purée de sésame (tahin),autre,100,,,,,
+Autruche,autre,100,123,22.07,3.19,0,0
+Beignet nature,autre,100,418,5.87,23.55,45.63,1.6
+Fenugrec (graines),autre,100,323,23,6.41,58.35,24.6
+Perrier,autre,100,0,0,0,0,0
+Jambon de dinde,meat,100,104,17.07,1.66,4.21,0.5
+Châtaigne,autre,100,196,1.63,1.25,44.17,
+Pomme (sans la peau),fruit,100,48,0.27,0.13,12.76,1.3
+Pain au levain,autre,100,289,11.75,1.83,56.44,2.4
+Tortellinis au fromage,autre,100,307,13.5,7.23,47,1.9
+Champignon de Paris (conserve),autre,100,25,1.87,0.29,5.09,2.83
+Huile de lin,autre,100,885,0,100,0,0
+Spaghetti,autre,100,158,5.8,0.93,30.86,1.8
+Persil (déshydraté),autre,100,276,22.42,4.43,51.66,30.4
+Vinaigrette (huile et vinaigre),sauce,100,449,0,50.1,2.5,0
+Salade de chou,vegetable,100,153,0.95,9.91,14.89,1.6
+Câpres,autre,100,23,2.36,0.86,4.89,3.2
+Oeuf de caille,egg,100,159,13.05,11.09,0.41,0
+Pruneau au sirop,autre,100,105,0.87,0.2,27.8,3.8
+Tarte aux légumes,autre,100,,,,,
+Choux de Bruxelles,autre,100,36,2.55,0.5,7.1,3.57
+Foie de porc,meat,100,165,26.02,4.4,3.76,0
+Épinard cuit,vegetable,100,23,2.97,0.26,3.75,2.4
+Son d'avoine cuit,autre,100,40,3.21,0.86,11.44,2.1
+Lait de soja,sauce,100,,,,,
+Falafel,autre,100,,,,,
+Haricots mungo germés cuits,autre,100,21,2.03,0.09,4.19,0.8
+Cervelle d'agneau,autre,100,273,16.97,22.19,0,0
+Couscous (mouton),autre,100,,,,,
+Homard d'Amérique,seafood,100,98,20.5,0.59,1.28,0
+Beurre doux,dairy,100,717,0.85,81.11,0.06,0
+Chocolat chaud (poudre),autre,100,398,6.67,4,83.73,3.7
+Patate douce au four avec la peau,autre,100,90,2.01,0.15,20.71,3.3
+Barre granny tendre,autre,100,,,,,
+Rôti de viande froid,autre,100,353,12.59,32.16,2.33,0
+Sundae fraises,autre,100,175,4.09,5.13,29.18,0
+Raclette,autre,100,,,,,
+Chapon rôti,autre,100,229,28.96,11.65,0,0
+Chou gras cuit,vegetable,100,32,3.2,0.7,5,2.1
+Maïs doux,cereal,100,96,3.41,1.5,20.98,2.4
+Maquereau,autre,100,262,23.85,17.81,0,0
+Lait écrémé (poudre),dairy,100,363,36.16,0.77,51.98,0
+Bonbons durs aux édulcorants,autre,100,395,0,0,98.6,0
+Bacon grillé,autre,100,541,37.04,41.78,1.43,0
+Pain (baguette),autre,100,275,8.48,1.3,57.4,2.8
+Ananas en morceaux,autre,100,86,0.4,0.1,22.2,1.1
+Sandwich jambon œuf fromage,dairy,100,,,,,
+Chausson aux pommes,autre,100,,,,,
+Blanc de poulet pané et frit,meat,100,303,21.91,18.11,12.01,0.27
+Pâte à tartiner chocolat-noisettes,autre,100,541,5.41,29.73,62.16,5.4
+Pousses de bambou,autre,100,12,1.53,0.22,1.92,1
+Saucisse fumée (poulet),autre,100,223,15.51,16.19,2.74,0.4
+Écrevisse,autre,100,87,17.52,1.3,0,0
+Lait  concentré sucré,dairy,100,321,7.91,8.7,54.4,0
+Zeste de citron,autre,100,47,1.5,0.3,16,10.6
+Cervelas,autre,100,362,17.45,30.43,3.33,0
+Pain de viande (porc),autre,100,,,,,
+Cannelle en poudre,spice,100,247,3.99,1.24,80.59,53.1
+Pâte de fruit,autre,100,351,1.8,5.3,78.5,3.5
+Crêpe au beurre,autre,100,224,3.56,6.03,39.18,0.76
+Végétaline,autre,100,900,0,100,0,0
+Golden Grahams,autre,100,375,5,3.667,83.333,3
+Muesli (weetabix),autre,100,372,11,5,71,7.8
+Oeuf (blanc),egg,100,48,9.99,0,1.182,0
+Tabasco,autre,100,12,1.29,0.76,0.8,0.6
+Vodka,autre,100,231,0,0,0,0
+Mélasse,autre,100,290,0,0.1,74.73,0
+Oeufs de poisson,autre,100,204,28.62,8.23,1.92,0
+Biscuit aux figues,autre,100,348,3.7,7.3,70.9,4.6
+Saumon Atlantique (sauvage),seafood,100,182,25.44,8.13,0,0
+Saumon rouge,seafood,100,216,27.31,10.97,0,0
+Algue Kombu (varech),autre,100,43,1.68,0.56,9.57,1.3
+Lingue,autre,100,111,24.35,0.82,0,0
+Clou de girofle en poudre,autre,100,323,5.98,20.07,61.21,34.2
+Ravioli de bœuf  (conserve),meat,100,92,3.3,2.67,13.58,0.5
+Cantal,autre,100,,,,,
+Sandwich jambon fromage,dairy,100,,,,,
+Tostada au fromage et bœuf,autre,100,,,,,
+Glaçage au sucre,autre,100,,,,,
+Petits pois et carottes (congelés),autre,100,53,3.4,0.47,11.15,3.4
+Crabe rouge,seafood,100,79,15.05,0.935,1.43,0
+Bouillon ou consommé de bœuf (déshydraté),meat,100,3,0.21,0.08,0.25,0
+Gaufrette fourrée,autre,100,511,4.1,24.3,70.1,0.6
+Hareng fumé,autre,100,217,24.58,12.37,0,0
+Jus de tomate,sauce,100,52,4.48,1.92,4.93,0.5
+Fenouil cru,autre,100,31,1.24,0.2,7.29,3.1
+Moutarde jaune,autre,100,66,4.37,4.01,5.33,3.3
+Cocktail pina-colada (rhum),autre,100,,,,,
+"Maïs, beignet",autre,100,374,8.55,21.238,38.623,1.994
+Pain italien,autre,100,271,8.8,3.5,50,2.7
+Piment fort (conserve),autre,100,21,0.9,0.1,5.1,1.3
+Poivron,vegetable,100,18,0.8,0.3,3.9,1.2
+Biscuits petits animaux,autre,100,,,,,
+Poudre de cacao non sucré,autre,100,228,19.6,13.7,57.9,33.2
+Lait de riz enrichi,dairy,100,,,,,
+Sandwich au jambon de poulet,autre,100,263,12.18,21.5,4.24,0
+Spaghetti au blé complet,autre,100,124,5.33,0.54,26.54,3.23
+Tomme,autre,100,,,,,
+Pois cassés,autre,100,118,8.34,0.39,21.1,2.92
+Haricots roses,autre,100,149,9.06,0.49,27.91,5.3
+Chou rouge cuit,vegetable,100,29,1.51,0.09,6.94,2.6
+Bouillon ou consommé de poulet (déshydraté),meat,100,5,0.28,0.23,0.3,0
+Huile de soja,sauce,100,885,0,100,0,0
+Tisane,autre,100,1,0,0,0.2,0
+Pain de viande au poivre,autre,100,149,17.3,6.37,4.53,0
+Piment en poudre,autre,100,263,6.09,8.69,72.12,21.6
+Croquant au sésame,autre,100,517,11.6,33.3,50.3,7.7
+Chou-fleur,vegetable,100,23,1.84,0.45,4.11,2.3
+Hareng grillé,autre,100,203,23.03,11.59,0,0
+Morue charbonnière cuite,autre,100,250,17.19,19.62,0,0
+Palette de veau,meat,100,225,31.26,10.09,0,0
+Huile de palme,autre,100,885,0,100,0,0
+Radis orientaux crus (daikons),autre,100,18,0.6,0.1,4.1,1.6
+Beignet de palourde,seafood,100,311,11.9,14.9,30.9,1.16
+Crêpe nature (prête-à-manger),autre,100,225,5.33,5.17,39.29,2.4
+Biscuit au sucre,autre,100,478,5.1,21.1,67.9,0.8
+Jus de pomme,fruit,100,46,0.1,0.13,11.3,0.2
+Chocolat au lait,autre,100,38,1.65,0.21,8.98,1.9
+Sirop d'érable,autre,100,261,0,0.244,66.89,0
+Cresson cru,autre,100,32,2.6,0.7,5.5,1.1
+Fondue savoyarde,autre,100,229,14.23,13.47,3.77,0
+"Pastis, prêt à boire (1dose d'alcool pour 5 d'eau)",autre,100,44.7,0,0,0.16,0
+Noix de coco crue,nuts,100,354,3.33,33.49,15.23,9
+Vanille (extrait),autre,100,288,0.06,0.06,12.65,0
+Petits pois (congelés),autre,100,77,5.22,0.4,13.62,4.5
+Courgette cuite,vegetable,100,15,1.14,0.36,2.69,1
+Fenouil (graines),autre,100,345,15.8,14.87,52.29,39.8
+Cœur de veau,meat,100,186,29.12,6.75,0.13,0
+Haricots rouges maison,autre,100,124,9.13,0.09,22.41,9.3
+Pastèque,autre,100,30,0.61,0.15,7.55,0.4
+Saucisse fumée (bœuf),autre,100,330,11.24,29.57,4.06,0
+Gouda,autre,100,357,24.94,28,2.22,0
+Anis (graines),spice,100,337,17.6,15.9,50.02,14.6
+Longe de porc braisée,meat,100,239,27.23,13.62,0,0
+Huile d'avocat,autre,100,885,0,100,0,0
+Lait écrémé instantané (poudre),dairy,100,358,35.1,0.72,52.19,0
+Figue sèche,autre,100,249,3.3,0.93,63.87,9.8
+Huile de pépins de raisin,fruit,100,885,0,100,0,0
+Maïs doux (congelé),cereal,100,93,3.11,0.74,22.33,2.8
+Salsifis,autre,100,68,2.73,0.17,15.36,3.1
+Concombre cru,vegetable,100,16,0.65,0.11,3.63,0.73
+Limonade,autre,100,0,0,0,0,0
+Special K  plus (Kellog's),autre,100,,,,,
+Tripes à la mode de Caen,autre,100,,,,,
+Cacao en poudre,autre,100,486,16.8,23.71,51.39,29.8
+Abricot frais,autre,100,48,1.4,0.39,11.12,2
+Salami de dinde cuit,meat,100,172,19.3,9.21,1.55,0.1
+Gratin de pommes de terre,vegetable,100,132,5.06,7.59,11.27,1.8
+Pain de viande (boeuf),autre,100,,,,,
+Crispix,autre,100,399,7.3,1,87.2,1.8
+Fèves de soja germées sautées,sauce,100,125,13.1,7.1,9.4,0.8
+Graisse de canard,meat,100,883,0,99.8,0,0
+Rhubarbe,autre,100,21,0.9,0.2,4.54,1.8
+Sandwich au bifteck,autre,100,,,,,
+Thon rouge frais cuit,seafood,100,184,29.91,6.28,0,0
+Loup,autre,100,123,22.44,3.06,0,0
+Chouquette,autre,100,,,,,
+Jus de mandarine,drink,100,43,0.5,0.2,10.1,0.2
+Rillettes,autre,100,417,,39.8,0.1,0
+Huile d'olive,autre,100,885,0,100,0,0
+Cappucino,autre,100,32,0.2,1.1,5.6,0
+Poulet bouilli avec la peau,meat,100,219,24.68,12.56,0,0
+Sandwich au poulet,autre,100,175,12.5,10.55,6.75,0
+Yaourt nature brassé,dairy,100,68,5.12,2.07,6.91,0
+Pain au lait,autre,100,324,10,10.8,46.8,2.5
+Pâté de crevette ou homard,seafood,100,180,20.8,9.4,1.5,
+Carotte crue,vegetable,100,41,0.93,0.24,9.58,2.44
+Lait fermenté bifidus nature,dairy,100,66.5,3.9,2.92,5.4,0
+Bretzels durs (apéritif),autre,100,362,11.1,2.6,81.2,7.7
+Coquille St-Jacques,autre,100,215,18.07,10.94,10.13,0
+"Tomate, purée (en conserve)",autre,100,38,1.65,0.33,8.98,1.9
+Truite arc-en-ciel,seafood,100,150,22.92,5.82,0,0
+Mirabelle,autre,100,52.7,0.72,0.2,12,2.3
+Moka,autre,100,27,0.3,1,4.5,0.1
+Haricots verts,autre,100,29.4,2,0.17,3,4
+"Pizza au fromage (congelée, pâte lève-au-four)",autre,100,260,12.37,8.78,32.91,2.5
+Yaourt nature allégé,dairy,100,51,5.04,0.1,7.26,0
+Jus de carotte,vegetable,100,24,0.95,0.15,4.7,0.8
+Flocons de maïs givrés,cereal,100,393,4.667,0.333,90,1.667
+Salade de fruits tropicaux (conserve),autre,100,86,0.41,0.1,22.36,1.3
+Tostada et guacamole,autre,100,,,,,
+Banane Plantain cuite,fruit,100,116,0.79,0.18,31.15,2.3
+Chocolat chaud maison,autre,100,77,3.52,2.34,10.74,1
+Epaule de porc rôtie,meat,100,292,23.28,21.39,0,0
+Fromage de tête,dairy,100,157,13.83,10.9,0,0
+Brochet,autre,100,95,21,0.7,0,0
+Pruneau,autre,100,339,3.7,0.73,89.07,
+Bulgur cuit,autre,100,83,3.08,0.24,18.58,2.85
+Menthe verte fraîche,autre,100,44,3.29,0.73,8.41,6.8
+Hoummos maison,autre,100,177,4.86,8.59,20.12,4
+Ormeau frit,autre,100,189,19.63,6.78,11.05,0
+Langue de veau,meat,100,202,25.85,10.1,0,0
+Sorbet à l'orange,autre,100,144,1.1,2,30.4,1.3
+Corn Flakes,autre,100,389,7,0.7,86.2,2.6
+Graisse de mouton,autre,100,902,0,100,0,0
+Cuisse de poulet rôti avec la peau,meat,100,232,25.96,13.46,0,0
+Beurre salé,dairy,100,717,0.85,81.11,0.06,0
+Olives,autre,100,115,0.84,10.68,6.26,3.2
+Chou vert frisé cru,vegetable,100,50,3.3,0.7,10.01,2.44
+Lait de brebis,dairy,100,,,,,
+Mandarine,autre,100,53,0.81,0.31,13.34,1.8
+Flétan,autre,100,140,26.69,2.94,0,0
+Glaçage à la vanille,autre,100,,,,,
+Laurier (feuille),autre,100,314,7.61,8.36,74.97,26.3
+Mélange apéritif oriental à base de riz,autre,100,,,,,
+Nectar de pêche,fruit,100,54,0.27,0.02,13.92,0.6
+Noix de Grenoble,nuts,100,655,15.23,65.21,13.71,6.7
+Huître cuite,seafood,100,137,14.1,4.91,7.82,0
+Saucisse de dinde,meat,100,196,23.89,10.44,0,0
+Grenade,fruit,100,83,1.67,1.17,18.7,4
+Lait demi-écrémé 1% mat.gr.,dairy,100,42,3.37,0.97,4.99,0
+Rouleau de printemps,autre,100,105,5.2,1.96,16.6,1.2
+Cœurs de palmier crus,autre,100,115,2.7,0.2,25.61,1.5
+Beurre allégé doux,dairy,100,499,3.3,55.1,0,0
+Biscuit fourré au chocolat (BN),autre,100,470,5.61,19.78,70.67,2.8
+Avocat,autre,100,160,2,14.66,8.53,6.7
+Céleri-rave cuit,autre,100,27,0.96,0.19,5.9,1.2
+Raisin,fruit,100,67,0.63,0.35,17.15,0.9
+Cardamome en poudre,autre,100,312,10.76,6.7,68.47,28
+Farine de riz brun,cereal,100,,,,,
+Citrouille,autre,100,34,1.1,0.28,8.09,2.9
+Confiture de fruit,autre,100,278,0.37,0.07,68.86,1.1
+Lait écrémé,dairy,100,34,3.37,0.08,4.96,0
+Haricots blancs maison,autre,100,155,5.54,5.15,21.63,5.5
+Sandwich au fromage et œufs,autre,100,,,,,
+Ricotta au lait entier,autre,100,174,11.26,12.98,3.04,0
+Croissant au fromage,autre,100,,,,,
+Chou-fleur cru,vegetable,100,25,1.92,0.28,4.97,1.75
+Farine de pois chiches,autre,100,361,16.92,31.78,0.18,0
+Huile d'arachide,autre,100,885,0,100,0,0
+Sandwich grec aux crudités,autre,100,,,,,
+Mérou,autre,100,118,24.84,1.3,0,0
+Crevettes panées,autre,100,277,11.51,15.18,24.39,0.26
+Bœuf haché cru,meat,100,293,16.55,24.7,0,0
+Vin doux,autre,100,133,0.1,0,10.6,0
+Avoine,cereal,100,389,16.89,6.9,66.27,10.6
+Flan pâtissier,autre,100,210,5.5,11.6,20.8,1.6
+Sucre de table,autre,100,400,0,0,100,0
+Gomme à mâcher,autre,100,,,,,
+Salami sec,autre,100,407,22.58,33.72,1.6,0
+Ciboulette lyophilisée,autre,100,311,21.2,3.5,64.29,26.2
+Pomme de terre bouillie (sans la peau),vegetable,100,86,1.71,0.1,20.01,1.4
+Riz brun grain moyen sec,cereal,100,362,7.5,2.68,76.17,3.4
+Moutarde brune,autre,100,91,5.9,6.3,5.3,3.2
+Riz blanc grain court cuit,cereal,100,130,2.36,0.19,28.73,
+Cerises confites,autre,100,,,,,
+Bette,autre,100,20,1.88,0.08,4.13,2.1
+Reblochon,autre,100,322,19.7,27,0,0
+Groseille à maquereau,autre,100,44,0.88,0.58,10.18,4.3
+Haricots beurre cuits,dairy,100,144,9.16,1.08,25.27,10.4
+Port-Salut,autre,100,352,23.78,28.2,0.57,0
+Endive,autre,100,17,0.9,0.1,4,3.1
+Haricots mungo germés crus,autre,100,30,3.04,0.18,5.94,1.8
+Huile de noix de coco,nuts,100,863,0,100,0,0
+Navet,autre,100,28,0.9,0.1,6.43,1.8
+Fèves de soja cuites,sauce,100,141,12.35,6.4,11.05,4.2
+Céleri-rave cru,autre,100,42,1.5,0.3,9.2,1.8
+Bacon de dinde,meat,100,382,29.6,27.9,3.1,0
+Pâte feuilletée (prête-à-cuire),autre,100,551,7.3,38.1,45.1,1.5
+Whisky,autre,100,231,0,0,0,0
+"Mets composés, mini ravioli au boeuf, sauce aux tomates et viande, conserve",autre,100,92,3.27,3.24,12.36,1
+After Eight,autre,100,432,1.67,11.9,79.53,2.4
+Prune Reine-Claude,autre,100,53,0.8,0.2,12,2.4
+Ormeau cru,autre,100,105,17.1,0.76,6.01,0
+Artichaut cru,autre,100,47,3.27,0.15,10.51,4.58
+Esturgeon,seafood,100,135,20.7,5.18,0,0
+Poire asiatique,fruit,100,42,0.5,0.23,10.65,3.6
+Huître crue,seafood,100,68,7.05,2.46,3.91,0
+Riz blanc grain court sec,cereal,100,358,6.5,0.52,79.15,2.8
+Pomélo,autre,100,38,0.76,0.04,9.62,1
+Caille,autre,100,192,19.63,12.05,0,0
+Brocoli,vegetable,100,35,2.38,0.41,7.18,2.4
+Choucroute garnie,autre,100,,,,,
+Préparation pour flan au chocolat,autre,100,362,2.6,2.1,89.3,4.5
+Farine de blé à gâteau,autre,100,368,9.461,2.549,74.79,2.964
+Tomate rouge d'hiver crue,sauce,100,21,0.85,0.33,4.64,1.2
+Tablette de chocolat (à dessert),autre,100,501,12.9,52.31,29.84,16.6
+Corn Pops,autre,100,384,4,0.6,90.5,8
+Soupe minestrone en boîte,autre,100,53,2.13,1.17,8.64,2.4
+Gruyère,autre,100,413,29.81,32.34,0.36,0
+Soupe aux asperges en sachet,autre,100,23,0.88,0.69,3.57,0.15
+Crème de légumes en sachet,dairy,100,41,0.73,2.19,4.73,0.2
+Farine de blé complète,cereal,100,369,14.639,3.24,68.509,8.894
+Aneth (graines),autre,100,305,15.98,14.54,55.17,21.1
+Jus d'orange,drink,100,45,0.7,0.2,10.4,0.2
+Jus de pamplemousse,drink,100,46,0.58,0.09,11.13,0.1
+Cornichons sucrés,autre,100,91,0.58,0.41,21.15,1
+Yaourt normal sur lit de fruits,dairy,100,115,3.86,3,17.76,0
+Lapin rôti,meat,100,197,29.06,8.05,0,0
+Langue de bœuf,meat,100,284,19.29,22.3,0,0
+Choucroute,autre,100,,,,,
+Glaçage au chocolat,autre,100,,,,,
+Oeufs brouillés,autre,100,153,10.388,11.394,3.047,0
+Salade de légumes et crevettes,autre,100,45,6.15,1.05,2.8,0.45
+Datte séchée,autre,100,282,2.45,0.39,75.03,8
+Vinaigrette commerciale,sauce,100,457,0.77,44.81,15.58,0
+Mozarella,autre,100,319,21.6,24.64,2.47,0
+Pita,autre,100,275,9.1,1.2,55.7,2.2
+Salade de légumes et poulet,meat,100,48,8,1,1.71,0.4
+Flan au caramel préparé (sachet),autre,100,103,2.99,1.72,18.82,0
+Petits pois (conserve),autre,100,53,3.19,0.3,9.75,3.3
+Riz brun grain long cuit,cereal,100,111,2.58,0.9,22.96,1.48
+Thymus de bœuf,meat,100,319,21.85,24.98,0,0
+Thon rouge frais cru,seafood,100,144,23.33,4.9,0,0
+Quinoa cuit,cereal,100,120,4.4,1.92,21.3,2.8
+Sardine à l'huile (conserve),autre,100,208,24.62,11.45,0,0
+Flan au citron,autre,100,107,2.76,1.71,20.2,0
+Maïs doux (conserve),cereal,100,64,1.95,0.5,15.41,1.7
+Confiture allégée,autre,100,132,0.3,0.3,53.6,2.5
+Queue de porc,meat,100,396,17,35.8,0,0
+Yaourt aux fruits allégé,autre,100,95,4.4,0.2,19,0
+Huile de tournesol,autre,100,885,0,100,0,0
+Zeste d'orange,autre,100,97,1.5,0.2,25,10.6
+Orange,fruit,100,49,0.91,0.15,12.54,2.2
+Coriandre (brins),spice,100,23,2.13,0.52,3.67,2.8
+Thé,drink,100,1,0,0,0.3,0
+Salami cuit,autre,100,301,15.75,25,2,0
+Chou-rave cuit,autre,100,29,1.8,0.11,6.69,1.1
+Huile de colza,autre,100,885,0,100,0,0
+Tostada au fromage avec haricots,autre,100,155,6.67,6.85,18.42,3.02
+Estragon (déshydraté),autre,100,296,22.77,7.24,50.22,7.4
+Sundae chocolat,autre,100,180,3.57,5.46,30.17,0
+Macaroni au blé complet,autre,100,124,5.33,0.54,26.54,2.8
+Croissant au jambon,autre,100,284,10.5,16.6,23.1,2
+Cassonade,autre,100,380,0.12,0,98.09,0
+Confiture d'abricot,autre,100,242,0.7,0.2,64.4,0.3
+Cuisse de poulet bouilli avec la peau,meat,100,220,24.17,12.92,0,0
+Pizza au poivron,autre,100,296,11.21,15.2,28.51,2.2
+Raifort (sauce),autre,100,48,1.18,0.69,11.29,3.3
+Courgette crue,vegetable,100,17,1.21,0.32,3.11,1
+Salade de pommes de terre,vegetable,100,143,2.68,8.2,11.17,1.3
+Semoule de blé dur,cereal,100,360,12.68,1.05,72.83,3.9
+Foie d'agneau,autre,100,238,25.53,12.65,3.78,0
+Chocolat à croquer,autre,100,,,,,
+Poulet frit (sans peau),meat,100,219,30.57,9.12,1.69,0.1
+Lait fermier,dairy,100,64,3.28,3.66,4.65,0
+Boudin,autre,100,379,14.6,34.5,1.29,0
+Saucisson de foie et de bacon,autre,100,297,15,24,4.3,0
+Yaourt allégé sur lit de fruits,dairy,100,62,4.3,0.19,10.77,0
+Cari en poudre,autre,100,325,12.66,13.81,58.15,33.2
+Ananas,fruit,100,50,0.54,0.12,13.12,1.4
+Graine de sésame grillée,autre,100,565,16.96,48,25.74,14
+Chou cuit,vegetable,100,23,1.27,0.06,5.51,1.7
+Huître panée et frite,seafood,100,197,8.77,12.58,11.62,0
+"Bœuf oriental, légumes et riz",meat,100,74,4.96,1.08,11.05,0.51
+Nachos au fromage et chili con carne,autre,100,,,,,
+Melon,fruit,100,34,0.84,0.19,8.16,0.69
+Romarin (déshydraté),autre,100,332,4.88,15.22,64.06,42.6
+Myrtille,fruit,100,57,0.74,0.33,14.49,2.59
+Poulet mijoté,meat,100,179,24.56,8.18,0,0
+Truite saumonée,seafood,100,133,21.46,4.63,0,0
+Huile de palmiste,autre,100,863,0,100,0,0
+Préparation pour crêpe au froment,autre,100,344,12.8,1.5,71,
+Chou cavalier cuit,vegetable,100,26,2.11,0.36,4.91,2.8
+Tortilla prêt-à-cuire,autre,100,218,5.7,2.85,44.64,6.3
+Carvi (graines),autre,100,333,19.77,14.59,49.9,38
+Limonade au citron,autre,100,39,0.05,0.02,10.14,0
+Moule crue,seafood,100,86,11.9,2.24,3.69,0
+Artichaut cuit,autre,100,53,2.89,0.34,11.95,8.6
+Raifort,autre,100,,,,,
+Snickers,autre,100,491,7.53,23.85,61.51,2.3
+Soupe à l'oignon en sachet,autre,100,12,0.32,0.01,2.77,0.3
+Galette de riz,cereal,100,387,8.2,2.8,81.5,4.2
+Champignon,autre,100,28,2.17,0.47,5.29,2.2
+Foie de morue,autre,100,425,5.6,42,6,0
+Céleri (graines),vegetable,100,392,18.07,25.27,41.35,11.8
+Courge,vegetable,100,56,0.66,0.34,14.34,
+Sorbet allégé en sucre,autre,100,24,0.5,0.1,6.2,0
+Asperge en conserve,vegetable,100,15,1.8,0.18,2.47,1
+Coing,autre,100,27.7,0.4,0.1,6.3,3.2
+Fruits au sirop (conserve),autre,100,32,0.42,0.05,8.51,1
+Carpe,autre,100,162,22.86,7.17,0,0
+Eau du robinet,autre,100,0,0,0,0,0
+Cocktail daiquiri (rhum),autre,100,186,0.06,0.06,6.94,0.1
+Farine de sarrasin,cereal,100,,,,,
+Seigle,cereal,100,335,14.76,2.5,69.76,13.56
+Thym (déshydraté),autre,100,276,9.11,7.43,63.94,37
+Pain au raisin,autre,100,274,7.9,4.4,52.3,4.3
+Fève de café enrobée de chocolat noir,drink,100,540,7.5,30,59.95,7.5
+Potée auvergnate,autre,100,159,8.4,12,4.4,1.4
+Pois mange-tout crus,autre,100,42,2.8,0.2,7.55,1.77
+Omelette,egg,100,,,,,
+Pain au chocolat,autre,100,401,7.4,19.7,48.6,2
+Brioche nature,autre,100,,,,,
+Miso (soja fermenté),autre,100,,,,,
+Riz blanc glutineux sec,cereal,100,370,6.81,0.55,81.68,2.8
+Pois carrés cuits,autre,100,38,5.31,0.66,3.21,
+Saumon rouge (conserve),seafood,100,166,16.8,10.1,0,0
+Oignon cuit,autre,100,44,1.36,0.19,10.15,1.7
+crème fraîche 30% M. G.,dairy,100,,,,,
+Barre granny dure,autre,100,,,,,
+Chips goût barbecue,sauce,100,491,7.7,32.4,52.8,4.4
+Purée de pommes de terre maison,vegetable,100,113,1.96,4.2,16.94,1.5
+Patate douce bouillie,autre,100,77,1.37,0.14,17.72,2.5
+Huile de germe de blé,cereal,100,885,0,100,0,0
+Raisin de Corinthe sec,fruit,100,283,4.08,0.27,74.08,6.8
+Abricot séché,autre,100,241,3.39,0.51,62.64,7.3
+Tarte au citron meringuée,autre,100,268,1.5,8.7,47.2,1.2
+Barbue de rivière élevage,autre,100,152,18.72,8.02,0,0
+Braunschweiger,autre,100,327,14.5,28.5,3.1,0
+Conque,autre,100,130,26.3,1.2,1.7,0
+Halvah nature,autre,100,469,12.49,21.52,60.49,4.5
+Cerfeuil (déshydraté),autre,100,237,23.2,3.9,49.1,11.3
+Cornet de glace à la vanille,autre,100,166,4.24,4.86,26.36,0.1
+Nectar de poire,fruit,100,60,0.11,0.01,15.76,0.6
+Menthe poivrée fraîche,autre,100,70,3.75,0.94,14.89,8
+Caramel,autre,100,348,0,0,91.6,0
+Sirop d'agave,autre,100,,,,,
+Canneberge séchée sucrée,autre,100,308,0.07,1.37,82.36,5.7
+Asperge fraîche,vegetable,100,22,2.4,0.22,4.11,2
+Choucroute (conserve),autre,100,19,0.91,0.14,4.28,2.9
+Cerises au marasquin,autre,100,165,0.22,0.21,41.97,3.2
+Cresson cuit,autre,100,23,1.9,0.6,3.8,0.7
+Gésier de poulet mijoté,meat,100,154,30.39,2.68,0,0
+Poulet rôti (sans peau),meat,100,190,28.93,7.41,0,0
+Rognon de bœuf,meat,100,159,27.27,4.65,0,0
+Galettes de maïs,cereal,100,387,8.1,2.4,83.4,1.9
+Boisson aux agrumes,autre,100,46,0.34,0.03,11.42,0.1
+Sauce chili  en conserve,autre,100,,,,,
+Pâtes maison,cereal,100,124,4.37,0.98,25.12,1.19
+Bacon cru,autre,100,222,16.3,16.45,0.9,0
+Salami de boeuf sec,meat,100,385,23.2,30.05,3.8,0
+Cerise,fruit,100,50,1,0.3,12.18,1.6
+Sauce béchamel,autre,100,96.3,2.5,6.3,7.4,0.2
+Mousse d'Irlande crue (algue),autre,100,49,1.51,0.16,12.29,1.3
+Tarte au chocolat,autre,100,304,2.6,19.4,33.6,2
+Pois mange-tout,autre,100,42,3.27,0.23,7.05,2.8
+Banane Plantain crue,fruit,100,122,1.3,0.37,31.89,2.3
+Chou cru,vegetable,100,25,1.28,0.1,5.8,1.8
+Pomme de terre bouillie (avec la peau),vegetable,100,86,1,0,19,1
+Mortadelle,autre,100,311,16.37,25.39,3.05,0
+Bran Flakes (Kellogg's),autre,100,382,11,2.2,79,15
+Sauce tartare,autre,100,668,1.008,73.249,4.196,0.332
+Chocolat amer à cuire,autre,100,,,,,
+Vin rosé,autre,100,71,0.2,0,1.4,0
+Bœuf froid tranché (fin),meat,100,117,17.94,3.4,2.59,0
+Croutons nature,autre,100,,,,,
+Céleri cru,vegetable,100,16,0.69,0.17,2.97,1.5
+Quatre-quart au beurre,autre,100,388,5.5,19.9,48.8,0.5
+Haricots de lima (conserve),autre,100,71,4.07,0.29,13.33,3.6
+Menthe verte déshydratée,autre,100,285,19.93,6.03,52.04,29.8
+Chili con carne (conserve),autre,100,121,7.09,5.26,11.43,3.9
+Saucisson épicé,autre,100,186,16.3,11.5,3.3,0
+Thon à l'huile (en conserve),autre,100,198,29.13,8.21,0,0
+Maïs jaune sec,cereal,100,365,9.42,4.74,74.26,7.3
+Yaourt à boire,autre,100,70,2.4,1.5,11.7,0
+Poudre de noix de coco,nuts,100,660,6.88,64.53,23.65,16.3
+Cola allégé,drink,100,2,0.11,0.03,0.29,0
+Biscuit petit beurre,dairy,100,467,6.1,18.8,68.9,0.8
+Moutarde jaune (graines),autre,100,508,26.08,36.24,28.09,12.2
+Sole (poisson plat),autre,100,117,24.16,1.53,0,0
+Fromage de chèvre sec,dairy,100,452,30.52,35.59,2.17,0
+Chili en poudre,autre,100,314,12.26,16.76,54.66,34.2
+Cardon,autre,100,22,0.76,0.11,5.33,1.7
+Farine de maïs,cereal,100,361,6.93,3.86,76.85,7.3
+Foie de veau,meat,100,193,27.37,6.51,4.47,0
+Kaki,autre,100,70,0.58,0.19,18.59,3.6
+Surimi,autre,100,99,15.18,0.9,6.85,0
+Dragée,autre,100,475,10,17.93,68.26,2.5
+Sucre glace,autre,100,389,0,0,99.77,0
+Foie de bœuf,meat,100,192,29.08,5.26,5.13,0
+Blanc de dinde rôtie,meat,100,112,13.5,3,7.7,0.4
+Persil lyophilisé,autre,100,271,31.3,5.2,42.38,32.7
+Special K,autre,100,386,16.1,1.4,75.5,1.4
+Farine de riz blanc,cereal,100,,,,,
+Abricot en conserve,autre,100,27,0.71,0.16,6.39,1.6
+Brioche aux raisins secs,autre,100,372,6.2,16.4,50.9,2.4
+Graisse de porc (saindoux),meat,100,902,0,100,0,0
+Blanc de poulet rôti avec la peau,meat,100,222,29.02,10.85,0,0
+Fécule de maïs,cereal,100,,,,,
+Bonbon enrobé de chocolat,autre,100,367,2.2,9.3,80.4,2.1
+Sarriette en poudre,autre,100,272,6.73,5.91,68.73,45.7
+Saucisse bratwurst,autre,100,245,14.1,19.3,2.6,0
+Soupe aux champignons en sachet,autre,100,33,0.66,1.82,4.4,0.2
+Noix de macadamia,nuts,100,718,7.91,75.77,14.22,8.6
+Beurre allégé demi-sel,dairy,100,509,3.3,55.1,0,0
+Basilic frais,autre,100,22,3.15,0.64,2.65,1.6
+Fromage de chèvre frais,dairy,100,268,18.52,21.08,0.89,0
+Jambon,autre,100,178,22.62,9.02,0,0
+Palourde crue,seafood,100,74,12.77,0.97,2.57,0
+Préparation pour flan au citron,autre,100,363,0.1,0.5,91.8,0.1
+Prune au sirop,autre,100,41,0.39,0.01,11.03,0.9
+Goyave,autre,100,68,2.55,0.95,14.32,5.4
+Parmesan râpé,autre,100,432,38.46,28.61,4.06,0
+Tomate verte crue,sauce,100,23,1.2,0.2,5.1,1.1
+Pommes de terre rissolées,vegetable,100,265,3,12.52,35.11,3.2
+Maquereau espagnol,autre,100,201,25.73,10.12,0,0
+Bouchée à la reine,autre,100,,,,,
+Cédrat confit,autre,100,,,,,
+Prune,autre,100,46,0.7,0.28,11.42,1.6
+Saucisson de bologne (dinde),autre,100,209,11.42,16.05,4.68,0.5
+Flocons de maïs,cereal,100,390,7,0.667,86.667,2.667
+Lièvre,autre,100,192,30,8,0,0
+Saumon rose,seafood,100,149,25.56,4.42,0,0
+Chocolat au lait et riz soufflé,autre,100,511,7.64,29.37,59.67,3.3
+Froot Loops,autre,100,400,4.7,2.8,89.1,7.6
+Groseille,fruit,100,56,1.4,0.2,13.8,4.3
+Noix de Pécan,nuts,100,691,9.17,71.97,14.04,9.6
+Bière légère,autre,100,,,,,
+Bar,autre,100,124,23.63,2.56,0,0
+Thym frais,autre,100,101,5.56,1.68,24.45,14
+Strudel aux pommes,autre,100,,,,,
+Caviar,autre,100,252,24.6,17.9,4,0
+Colin,autre,100,115,23.48,1.69,0,0
+Saucisse de bière (bœuf),autre,100,254,14.1,19.7,4.1,0
+Persil frais,autre,100,36,2.97,0.79,6.33,3.3
+Yaourt nature,dairy,100,63,5.25,1.55,7.04,0
+Poireaux cuits,autre,100,31,0.81,0.2,7.62,1
+Pâtes aux œufs maison,autre,100,130,5.28,1.74,23.54,2.19
+Épaule d'agneau rôtie,autre,100,,,,,
+Bouchées Kit Kat,autre,100,,,,,
+Pigeonneaux,autre,100,294,18.47,23.8,0,0
+Ail cru,autre,100,149,6.36,0.5,33.06,2.1
+Truite arc-en-ciel (élevage),seafood,100,169,24.27,7.2,0,0
+Pignon,autre,100,673,13.69,68.37,13.08,3.7
+Gingembre en poudre,spice,100,347,9.12,5.95,70.79,12.5
+Munster,autre,100,368,23.41,30.04,1.12,0
+Fruit de la passion,autre,100,97,2.2,0.7,23.38,10.4
+Muffin nature,autre,100,227,8.87,1.69,44.17,3.5
+Semoule de maïs,cereal,100,362,8.12,3.59,76.89,7.3
+Maïs soufflé givré,egg,100,402,5,1,90,1.333
+Lait entier (poudre),dairy,100,496,26.32,26.71,38.42,0
+Viande de grison,autre,100,153,31.1,1.94,2.76,0
+Madeleine,autre,100,,,,,
+Sundae caramel,autre,100,196,4.71,5.98,31.81,0
+Emmental français,autre,100,,,,,
+Oeuf au plat,autre,100,193,12.871,14.811,1.106,0
+Oie rôtie avec la peau,autre,100,305,25.16,21.92,0,0
+Gauffre nature,autre,100,291,7.9,14.1,32.9,1.47
+Country Crisp aux fruits (Jordans),autre,100,,,,,
+Flan au chocolat,autre,100,142,2.09,4.6,23.01,0
+Soupe de tomates en sachet,autre,100,38,0.93,0.61,7.17,0.4
+Crème fouettée (bombe),dairy,100,258,3.2,22.22,12.49,0
+Champignon de Paris cru,autre,100,22,3.09,0.34,3.28,1
+Jus de raisin,fruit,100,,,,,
+Bœuf bourguignon,meat,100,,,,,
+Biscuit fourré au chocolat (BN) COPY,autre,100,,,,,
+Enchilada fromage et bœuf,meat,100,,,,,
+Épinard congelé,vegetable,100,34,4.01,0.87,4.8,3.7
+Hot-dog,autre,100,,,,,
+Marmelade d'orange,autre,100,246,0.3,0,66.3,0.7
+Poivrons farcis (bœuf),autre,100,73,3.72,2.57,8.73,1.2
+Rôti de porc cuit,meat,100,459,28.95,36.7,1.05,0
+Chèvre,autre,100,143,27.1,3.03,0,0
+Sauce salsa,autre,100,27,1.54,0.16,6.26,1.6
+Algue Nori crue,autre,100,35,5.81,0.28,5.11,0.3
+Banane,fruit,100,89,1.09,0.33,22.84,1.74
+Yaourt nature au lait entier,autre,100,71,4.73,2.79,6.68,0
+All Bran (Kellogg's),autre,100,262,12,3.3,76,33.6
+Épaule d'agneau grillée,autre,100,205,26.68,10.936,0,0
+Pois chiches,autre,100,164,8.86,2.59,27.42,4.56
+Parmesan pâte dure,autre,100,392,35.75,25.83,3.22,0
+Taco et chili con carne,autre,100,,,,,
+Cerise guigne en conserve,fruit,100,46,0.77,0.13,11.76,1.5
+Miel,autre,100,304,0.3,0,82.4,0.2
+Millet cuit,cereal,100,119,3.51,1,23.67,2.93
+Poulet bouilli (sans peau),meat,100,177,27.29,6.71,0,0
+Nectar de papaye,fruit,100,57,0.17,0.15,14.51,0.6
+crème fraîche^légère,dairy,100,,,,,
+Fromage de chèvre demi-sec,dairy,100,364,21.58,29.84,2.54,0
+Pot-au-feu,autre,100,,,,,
+Morue Atlantique,autre,100,105,22.83,0.86,0,0
+Purée de pommes de terre,vegetable,100,83,2.31,1.21,16.12,1.18
+Taco,autre,100,217,12.08,12.02,15.63,
+Cuisse de porc rôtie,meat,100,273,26.83,17.61,0,0
+Biscuit à l'avoine,autre,100,450,6.2,18.1,68.7,2.8
+Huile de noisette,nuts,100,885,0,100,0,0
+Hachis Parmentier,autre,100,,,,,
+Gingembre confit,spice,100,340,0.3,0.2,87.1,
+Amuse-gueule à base de maïs goût fromage,autre,100,526,9.3,33.2,51.6,9.9
+Céleri cuit,vegetable,100,18,0.83,0.16,4,1.44
+Huile de carthame riche en acide oléique,autre,100,885,0,100,0,0
+Esturgeon fumé,seafood,100,173,31.2,4.4,0,0
+Salami de boeuf cuit,meat,100,261,12.6,22.2,1.9,0
+Chipolata,autre,100,339,19.43,28.36,0,0
+Lentilles,cereal,100,116,9.02,0.38,20.13,4.25
+Maïs doux cru,cereal,100,86,3.27,1.35,18.7,2
+Mangue,fruit,100,65,0.51,0.27,17,1.8
+Paëlla,autre,100,,,,,
+Poivre noir,spice,100,255,10.95,3.26,64.81,26.5
+Jus de fruit de la passion,drink,100,,,,,
+Sorbet au citron,autre,100,128,0.4,0,32.6,0
+Fraise,fruit,100,33,0.67,0.3,7.68,2.24
+Zeste de citron confit,autre,100,,,,,
+Roulé de poulet,meat,100,134,14.59,7.65,1.79,0
+Yaourt glacé,dairy,100,159,4,5.6,24.2,0
+Chevreuil,autre,100,158,30.21,3.19,0,0
+Crêpe nature maison,autre,100,227,6.4,9.7,28.3,1.21
+Soupe de poireaux en sachet,autre,100,28,0.83,0.81,4.5,1.2
+Hareng mariné,autre,100,262,14.19,18,9.64,0
+Bonbon au caramel,autre,100,382,4.6,8.1,77,0
+Vinaigrette maison,sauce,100,631,0.1,70.2,3.4,0
+Cerise guigne,fruit,100,63,1.06,0.2,16.01,2.1
+Cœur de bœuf,meat,100,165,28.48,4.73,0.15,0
+Soupe de pois cassés,autre,100,49,2.83,0.58,8.37,1.1
+Burrito fromage et bœuf,meat,100,,,,,
+Haricots blancs petits (conserve),autre,100,113,7.53,0.43,20.45,5.1
+Pourpier cru,autre,100,16,1.3,0.1,3.43,
+Nouilles chinoises,autre,100,527,8.38,30.76,57.54,3.9
+Saucisse de bologne (bœuf),autre,100,264,12.9,20.8,5.3,0
+Milky Way,autre,100,444,3.2,17.5,71.22,2.9
+M & M's (jaune),autre,100,516,9.57,26.13,60.48,3.7
+Cassis,autre,100,63,1.4,0.41,15.38,
+Laitue romaine,autre,100,17,1.23,0.3,3.29,2.1
+Orge cuit,cereal,100,123,2.26,0.44,28.22,2.46
+Igname,autre,100,116,1.49,0.14,27.48,3.9
+Edam,autre,100,357,24.99,27.8,1.43,0
+Hamburger au poisson et fromage,autre,100,286,11.26,15.63,26.03,1.33
+Betterave,autre,100,30,0.73,0.09,7.14,1.2
+Tourteau,autre,100,99,16.2,1.9,3.11,0
+Skittles,autre,100,405,0.19,4.37,90.78,0
+Crevette,seafood,100,99,20.91,1.08,0,0
+Jambon haché,autre,100,263,16.28,20.68,1.84,0
+Fromage bleu,dairy,100,353,21.4,28.74,2.34,0
+Blé soufflé givré,egg,100,376,5.667,3.333,86.667,3.333
+Boudoir,autre,100,,,,,
+Chewing gum sans sucre,autre,100,268,0,0.4,94.8,2.4
+Chou vert frisé cuit,vegetable,100,28,1.9,0.4,5.63,2
+Tablette de chocolat,autre,100,507,3.9,34.2,60.4,5.5
+Poulet pané et frit,meat,100,297,15.59,18.82,16.32,0.9
+Pastrami,autre,100,147,17.78,5.84,0.36,0
+Thon albacore,seafood,100,139,29.97,1.22,0,0
+Mure au sirop,autre,100,92,1.31,0.14,23.1,3.4
+Neufchatel,autre,100,253,9.15,22.78,3.59,0
+Pilon de poulet pané et frit,meat,100,291,20.32,18.04,10.61,0.24
+Tapioca,autre,100,369,0.1,0.1,94.3,0.2
+Nougat,autre,100,398,3.33,1.67,92.39,3.3
+Emmental,autre,100,380,26.93,27.8,5.38,0
+Nectarine,autre,100,44,1.06,0.32,10.55,1.7
+Sardines aux tomates (conserve),autre,100,185,20.86,10.45,0.54,0.1
+Sauce blanche,autre,100,147,3.84,10.63,9.17,0.2
+Croutons assaisonnés,autre,100,,,,,
+Barbue de rivière sauvage,autre,100,105,18.47,2.85,0,0
+Smacks (Kellog's),autre,100,,,,,
+Fruits confits,autre,100,,,,,
+Poulet rôti avec la peau,meat,100,239,27.3,13.6,0,0
+Anguille,seafood,100,236,23.65,14.95,0,0
+Nèfle du Japon,autre,100,47,0.43,0.2,12.14,1.7
+Hamburger au poisson,autre,100,,,,,
+Tomate rouge d'été crue,sauce,100,,,,,
+Camembert,autre,100,300,19.8,24.26,0.46,0
+Huile de carthame riche en acide linoléique,autre,100,885,0,100,0,0
+Saucisson de bière (porc et bœuf),autre,100,276,14,22.53,4.27,0.9
+Carotte cuite,vegetable,100,35,0.76,0.18,8.22,2.7
+Rhubarbe (compote),autre,100,,,,,
+Bigorneau,autre,100,135,26.1,1.2,5,0
+Roquefort,autre,100,369,21.54,30.64,2,0
+Sandwich au poulet et fromage,autre,100,277,12.9,17,18.24,0.95
+Fromage genre Bombel-Babybel,dairy,100,,,,,
+Merguez,autre,100,,,,,
+Pêche,fruit,100,39,0.91,0.25,9.54,1.93
+Saucisse porc et bœuf,meat,100,396,13.8,36.25,2.7,0
+Nachos au fromage,autre,100,,,,,
+"Pizza viande et légumes (congelée, pâte lève-au-four)",autre,100,271,12.63,11.75,28.78,2.3
+Escalope de veau,meat,100,189,36.929,3.239,0,0
+Marjolaine (déshydratée),autre,100,272,12.66,7.04,60.56,40.3
+Muscade en poudre,spice,100,525,5.84,36.31,49.29,20.8
+Figue de barbarie,autre,100,41,0.73,0.51,9.57,3.6
+Cuisse de dinde rôtie avec la peau,meat,100,182,28.573,9.101,0,0
+Pamplemousse,autre,100,42,0.77,0.14,10.66,1.6
+Amande rôtie à sec,autre,100,598,22.09,52.83,19.29,11.8
+Gingembre frais,spice,100,521,6.9,35,44.6,8.6
+Riz sauvage,cereal,100,101,3.99,0.34,21.34,1.8
+Bière ordinaire,autre,100,,,,,
+Poivron vert cru,vegetable,100,20,0.86,0.17,4.64,1.41
+Blanquette de veau,meat,100,97.2,15,2.8,3,0.5
+Coulommiers,autre,100,,,,,
+Vin rouge,autre,100,85,0.07,0,2.61,0
+Saucisse fumée,autre,100,269,12.81,23.68,0.28,0.1
+Yaourt saveur vanille ou café,dairy,100,92,4.1,1.9,15.49,0
+Ricotta au lait demi-écrémé,autre,100,138,11.39,7.91,5.14,0
+Filet de poisson pané,autre,100,232,14.66,12.29,16.97,0.5
+Pâte d'amandes,autre,100,,,,,
+Romarin frais,autre,100,131,3.31,5.86,20.7,14.1
+Sarrasin,cereal,100,343,13.25,3.4,71.5,3.47
+Dinde rôtie avec la peau,meat,100,157,29.916,7.097,0,0
+Céréales Nesquik,autre,100,400,3.667,3,90,2
+Amande non blanchie,nuts,100,576,21.22,49.42,21.67,12.2
+Cola,drink,100,38,0.07,0.02,9.56,0
+Poivre blanc,spice,100,296,10.4,2.12,68.61,26.2
+Oignon vert cru,autre,100,32,1.83,0.19,7.34,2.6
+Thon au naturel (conserve),autre,100,116,25.51,0.82,0,0
+Graine de courge rôtie,vegetable,100,574,29.84,49.05,14.71,6.5
+Crème glacée au chocolat,autre,100,216,3.8,11,28.2,1.2
+Soupe poulet et nouilles en sachet,meat,100,23,0.84,0.55,3.67,0.1
+Rognons de porc cuits,meat,100,151,25.4,4.7,0,0
+Flan à la vanille,autre,100,130,1.45,3.78,22.6,0
+Ananas confit,fruit,100,316,0.8,0.4,80,0.4
+Sucre d'orge,autre,100,394,0,0.2,98,0
+Cervelle de bœuf,meat,100,196,12.57,15.83,0,0
+Oignon en poudre,autre,100,342,10.41,1.04,79.12,15.2
+Poulpe,autre,100,164,29.82,2.08,4.4,0
+Sanglier,autre,100,111,21.3,2.9,0,0
+Topinambour,autre,100,73,2,0.01,17.44,1.6
+Graine de tournesol grillée,autre,100,619,17.21,56.8,20.59,11.5
+Saint-Nectaire,autre,100,,,,,
+Chorizo,autre,100,455,24.1,38.27,1.86,0
+Salade de légumes sans sauce,autre,100,16,1.25,0.07,3.22,0.74
+Sirop de maïs,cereal,100,,,,,
+Poire confite,fruit,100,,,,,
+Huile de noix,nuts,100,885,0,100,0,0
+Mayonnaise commerciale allégée,sauce,100,390,0.9,33.4,23.9,0
+Shiitaké cuit,autre,100,56,1.56,0.22,14.39,2.1
+Thon blanc à l'huile (conserve),autre,100,186,26.53,8.08,0,0
+Veau haché,autre,100,172,24.38,7.56,0,0
+Saucisse fumée (porc et boeuf),autre,100,320,12,28.73,2.42,0
+Seiche,seafood,100,158,32.48,1.4,1.64,0
+Escargot cru,autre,100,90,16.1,1.4,2,0
+Croquette de dinde panée,meat,100,283,14,18,15.7,0.5
+Soupe minestrone en sachet,autre,100,31,1.75,0.68,4.69,0.31
+Pieds de porc,meat,100,140,11.63,10.02,0.01,0
+Poire au sirop,autre,100,50,0.34,0.07,12.94,1.6
+Chou vert frisé congelé,vegetable,100,28,2.66,0.46,4.9,2
+Cola décaféiné,drink,100,41,0,0,10.58,0
+Chou cavalier cru,vegetable,100,30,2.45,0.42,5.69,3.6
+Sauce aux champignons,autre,100,50,1.26,2.71,5.47,0.4
+Croustilles de maïs (snack),cereal,100,519,6.03,28.41,63.01,5.3
+Manioc,autre,100,159,1.36,0.28,38.06,1.8
+Hamburger au fromage,autre,100,251,12.8,12.7,21.2,1.02
+Bouchées de chocolat au lait,autre,100,550,9.76,35.73,51,3.6
+Croque-Monsieur,autre,100,,,,,
+Sandwich merguez-frites,autre,100,,,,,
+Quatre-quart,autre,100,389,5.2,17.9,52.5,1
+Curcuma en poudre,spice,100,354,7.83,9.88,64.93,21.1
+Pizza au fromage (congelée),autre,100,268,10.36,12.28,29.02,2.2
+Cervelle de veau,meat,100,213,14.48,16.75,0,0
+Lasagnes,autre,100,,,,,
+Oeuf à la coque,autre,100,141,11.8,10.012,1.85,0
+Mulet,autre,100,150,24.81,4.86,0,0
+Petits pois frais cuits,autre,100,84,5.36,0.22,15.63,6.65
+Piment rouge séché,autre,100,324,10.58,5.81,69.86,28.7
+Vinaigre,autre,100,22,0,0,0.93,0
+Gelée de fruit,autre,100,267,0.15,0.02,69.95,1
+Céréales Weetabix,autre,100,371,10.571,2,82.857,12.571
+Yaourt aux fruits brassé,autre,100,102,4.47,1.68,17.28,0
+Ail en poudre,autre,100,331,16.55,0.73,72.73,9
+Soda à l'orange,autre,100,48,0,0,12.3,0
+Haricots pinto (conserve),autre,100,86,4.86,0.81,15.25,4.6
+Tomate farcie,sauce,100,134,5.9,10.4,4.2,0
+Spaghetti en sauce,autre,100,87,4.31,1.08,14.91,1.4
+Cheval,meat,100,175,28.14,6.05,0,0
+Farine de blé avec levure,cereal,100,354,9.89,0.97,74.22,2.7
+Nem,autre,100,,,,,
+Sauge en poudre,autre,100,315,10.63,12.75,60.73,40.3
+Côte de veau,meat,100,228,23.96,13.96,0,0
+Jus de citron,drink,100,25,0.38,0,8.63,0.4
+Olives vertes,autre,100,146,1.03,15.32,3.84,3.3
+Mozzarella,autre,100,300,22.17,22.35,2.19,0
+Graisse de bœuf,meat,100,902,0,100,0,0
+Haricots beurre crus,dairy,100,345,22,2.6,60.7,25.1
+Cacahuètes salées,autre,100,585,23.68,49.66,21.51,8
+Pavot (graines),autre,100,525,17.99,41.56,28.13,19.5
+Chou-rave cru,autre,100,27,1.7,0.1,6.2,3.6
+Feuilles de pissenlit cuites,autre,100,33,2,0.6,6.4,2.9
