@@ -1,0 +1,1022 @@
+nom,type,portion,calories,proteins,lipides,glucides,fibres
+Chou gras cuit,vegetable,100,32,3.2,0.7,5,2.1
+Roulé de poulet,meat,100,134,14.59,7.65,1.79,0
+Spaghetti en sauce,sauce,100,87,4.31,1.08,14.91,1.4
+Snickers,autre,100,491,7.53,23.85,61.51,2.3
+Rice Krispies,autre,100,384,6.9,0.5,84.9,1
+Bœuf froid tranché (fin),meat,100,117,17.94,3.4,2.59,0
+Boudoir,autre,100,0,0,0,0,0
+Graisse de canard,autre,100,883,0,99.8,0,0
+Hoummos maison,autre,100,177,4.86,8.59,20.12,4
+Betterave,vegetable,100,30,0.73,0.09,7.14,1.2
+Sel de table,spice,100,0,0,0,0,0
+Noix de macadamia,nuts,100,718,7.91,75.77,14.22,8.6
+Quatre-quart au beurre,autre,100,388,5.5,19.9,48.8,0.5
+Haricots blancs petits (conserve),vegetable,100,113,7.53,0.43,20.45,5.1
+Salami cuit,meat,100,301,15.75,25,2,0
+Cocktail daiquiri (rhum),drink,100,186,0.06,0.06,6.94,0.1
+Croissant,autre,100,406,8.2,21,45.8,2.6
+Special K,autre,100,386,16.1,1.4,75.5,1.4
+Datte séchée,fruit,100,282,2.45,0.39,75.03,8
+Coing,fruit,100,27.7,0.4,0.1,6.3,3.2
+Lait écrémé,dairy,100,34,3.37,0.08,4.96,0
+Rutabaga,vegetable,100,39,1.29,0.22,8.74,1.8
+Crème fouettée (bombe),dairy,100,258,3.2,22.22,12.49,0
+Crabe rouge,seafood,100,79,15.05,0.935,1.43,0
+Autruche,meat,100,123,22.07,3.19,0,0
+Huile de sésame,autre,100,885,0,100,0,0
+Bouchées de chocolat au lait,autre,100,550,9.76,35.73,51,3.6
+Papaye,fruit,100,39,0.61,0.14,9.81,1.8
+Haricots rouges maison,vegetable,100,124,9.13,0.09,22.41,9.3
+Chili con carne (conserve),autre,100,121,7.09,5.26,11.43,3.9
+Pois cassés,vegetable,100,118,8.34,0.39,21.1,2.92
+Cocktail pina-colada (rhum),drink,100,0,0,0,0,0
+Merlan (lieu noir),seafood,100,118,24.92,1.26,0,0
+Salade de légumes sans sauce,sauce,100,16,1.25,0.07,3.22,0.74
+Saucisse de dinde,meat,100,196,23.89,10.44,0,0
+Coquille St-Jacques,seafood,100,215,18.07,10.94,10.13,0
+Persil (déshydraté),spice,100,276,22.42,4.43,51.66,30.4
+Poudre de noix de coco,nuts,100,660,6.88,64.53,23.65,16.3
+Pastèque,fruit,100,30,0.61,0.15,7.55,0.4
+Cerise en conserve,fruit,100,36,0.77,0.1,8.94,1.1
+Saucisse de bologne (bœuf),meat,100,264,12.9,20.8,5.3,0
+Pain au lait,autre,100,324,10,10.8,46.8,2.5
+Poulet bouilli avec la peau,meat,100,219,24.68,12.56,0,0
+Cantal,dairy,100,0,0,0,0,0
+Mélasse,autre,100,290,0,0.1,74.73,0
+Tapioca sec,autre,100,358,0.19,0.02,88.69,0.9
+Feuilles de pissenlit crues,vegetable,100,45,2.7,0.7,9.2,3.5
+Saint-Nectaire,autre,100,0,0,0,0,0
+Banane Plantain cuite,fruit,100,116,0.79,0.18,31.15,2.3
+Oeufs de poisson,vegetable,100,204,28.62,8.23,1.92,0
+Épinard cuit,vegetable,100,23,2.97,0.26,3.75,2.4
+Nectar de papaye,fruit,100,57,0.17,0.15,14.51,0.6
+Shiitaké séché,vegetable,100,296,9.58,0.99,75.37,11.5
+Fondue savoyarde,autre,100,229,14.23,13.47,3.77,0
+Vin rosé,drink,100,71,0.2,0,1.4,0
+Galette de riz,cereal,100,387,8.2,2.8,81.5,4.2
+Choux de Bruxelles,vegetable,100,36,2.55,0.5,7.1,3.57
+Boudin,autre,100,379,14.6,34.5,1.29,0
+Marjolaine (déshydratée),autre,100,272,12.66,7.04,60.56,40.3
+Salade frisée,autre,100,15,1.36,0.15,2.79,1.3
+Crème de légumes en sachet,dairy,100,41,0.73,2.19,4.73,0.2
+Oignon vert  cuit,vegetable,100,34,1.9,0.4,6.5,2.6
+Vinaigrette maison,sauce,100,631,0.1,70.2,3.4,0
+Échalote lyophilisée,vegetable,100,348,12.3,0.5,80.7,9.2
+Sauce barbecue,seafood,100,150,0,0.29,36.25,0.6
+Tablette de chocolat (à dessert),autre,100,501,12.9,52.31,29.84,16.6
+Curcuma en poudre,spice,100,354,7.83,9.88,64.93,21.1
+Estragon (déshydraté),spice,100,296,22.77,7.24,50.22,7.4
+Jus d'orange et de pamplemousse,drink,100,43,0.6,0.1,10.28,0.1
+Cheerios,autre,100,395,11.67,6.33,73.33,9
+Chèvre,autre,100,143,27.1,3.03,0,0
+Filet de poisson pané,seafood,100,232,14.66,12.29,16.97,0.5
+Beurre allégé demi-sel,dairy,100,509,3.3,55.1,0,0
+Huile de noix de coco,autre,100,863,0,100,0,0
+Figue,fruit,100,74,0.75,0.3,19.18,2.9
+Cervelle de veau,meat,100,213,14.48,16.75,0,0
+Foie de veau,meat,100,193,27.37,6.51,4.47,0
+Pizza au poivron,autre,100,296,11.21,15.2,28.51,2.2
+Prune,fruit,100,46,0.7,0.28,11.42,1.6
+Poire confite,fruit,100,0,0,0,0,0
+Chou en salade,vegetable,100,78,1.29,2.61,12.41,1.5
+Tomme,autre,100,0,0,0,0,0
+Ananas en morceaux,fruit,100,86,0.4,0.1,22.2,1.1
+Huile de noix,autre,100,885,0,100,0,0
+Epaule de porc rôtie,meat,100,292,23.28,21.39,0,0
+Huile de soja,autre,100,885,0,100,0,0
+Poivron vert cru,vegetable,100,20,0.86,0.17,4.64,1.41
+Sandwich au poulet et fromage,autre,100,277,12.9,17,18.24,0.95
+Beignet de crabe,autre,100,266,18.75,17.25,8.52,0.4
+Pois cajan,vegetable,100,121,6.76,0.38,23.25,6.7
+Gratin de pommes de terre,vegetable,100,132,5.06,7.59,11.27,1.8
+Abricot en conserve,fruit,100,27,0.71,0.16,6.39,1.6
+Épaule d'agneau rôtie,meat,100,0,0,0,0,0
+Morbier,seafood,100,347,23.6,28.1,0,0
+Son d'avoine cuit,cereal,100,40,3.21,0.86,11.44,2.1
+Country Crisp aux fruits (Jordans),autre,100,0,0,0,0,0
+Cornet de glace à la vanille,autre,100,166,4.24,4.86,26.36,0.1
+Colin,seafood,100,115,23.48,1.69,0,0
+Vin rouge,drink,100,85,0.07,0,2.61,0
+Oeuf frais,egg,100,145,11.7995,10.012,0.9812,0
+Nachos au fromage et chili con carne,autre,100,0,0,0,0,0
+Croutons nature,autre,100,0,0,0,0,0
+Bacon cru,meat,100,222,16.3,16.45,0.9,0
+Bonbon enrobé de chocolat,autre,100,367,2.2,9.3,80.4,2.1
+Graine de soja rôtie,sauce,100,472,35.22,25.4,33.55,17.7
+Whisky,drink,100,231,0,0,0,0
+Moule crue,seafood,100,86,11.9,2.24,3.69,0
+Riz blanc grain moyen cuit,cereal,100,130,2.38,0.21,28.59,0
+Oeuf (jaune),egg,100,366,15.896,32.6787,0.5266,0
+Bœuf bourguignon,meat,100,0,0,0,0,0
+Kit Kat,autre,100,519,6.51,25.99,64.59,1
+Quiche Lorraine,autre,100,0,0,0,0,0
+Canneberge séchée sucrée,fruit,100,308,0.07,1.37,82.36,5.7
+Frites,autre,100,319,3.76,17.05,37.51,3.5
+Myrtille,fruit,100,57,0.74,0.33,14.49,2.59
+Pizza viande et légumes (congelée),autre,100,276,11.28,14.43,25.14,2.2
+Jus de pamplemousse,fruit,100,46,0.58,0.09,11.13,0.1
+Cornichons sucrés,vegetable,100,91,0.58,0.41,21.15,1
+Coriandre (brins),spice,100,23,2.13,0.52,3.67,2.8
+Amuse-gueule à base de maïs,autre,100,384,9.7,3.1,80.1,2.9
+Hamburger au fromage,autre,100,251,12.8,12.7,21.2,1.02
+Saucisson de bologne (dinde),meat,100,209,11.42,16.05,4.68,0.5
+Huile de palme,autre,100,885,0,100,0,0
+Tomate rouge d'hiver crue,sauce,100,21,0.85,0.33,4.64,1.2
+Saucisse fumée (porc),meat,100,307,11.98,28.23,0.18,0
+Artichaut cuit,vegetable,100,53,2.89,0.34,11.95,8.6
+Chou rouge cru,vegetable,100,31,1.43,0.16,7.37,2.1
+Araignée de mer,seafood,100,115,23.72,1.51,0,0
+Macédoine de légumes (congelée),autre,100,64,3.33,0.52,13.46,4
+Fèves de soja cuites,vegetable,100,141,12.35,6.4,11.05,4.2
+Jus d'ananas,fruit,100,179,1.3,0.1,44.3,0.7
+Cuisses de grenouille,autre,100,252,17.4,11.7,18,0.348
+Zeste d'orange confit,fruit,100,0,0,0,0,0
+Ris de veau,meat,100,125,22.67,3.11,0,0
+Mérou,autre,100,118,24.84,1.3,0,0
+Skittles,autre,100,405,0.19,4.37,90.78,0
+Tostada et guacamole,autre,100,0,0,0,0,0
+Choucroute garnie,vegetable,100,0,0,0,0,0
+Flétan noir,seafood,100,239,18.42,17.74,0,0
+Sucre de table,autre,100,400,0,0,100,0
+Pain italien,autre,100,271,8.8,3.5,50,2.7
+Fruits au sirop (conserve),fruit,100,32,0.42,0.05,8.51,1
+Salade de fruit (conserve),fruit,100,30,0.35,0.07,7.87,1
+Port-Salut,autre,100,352,23.78,28.2,0.57,0
+Artichaut congelé,vegetable,100,45,3.11,0.5,9.18,4.6
+Shiitaké cuit,vegetable,100,56,1.56,0.22,14.39,2.1
+Brioche aux raisins secs,autre,100,372,6.2,16.4,50.9,2.4
+Marmelade d'orange,fruit,100,246,0.3,0,66.3,0.7
+Chou cavalier cru,vegetable,100,30,2.45,0.42,5.69,3.6
+Salami de dinde cuit,meat,100,172,19.3,9.21,1.55,0.1
+Sauce salsa,sauce,100,27,1.54,0.16,6.26,1.6
+Pâte de fruit,fruit,100,351,1.8,5.3,78.5,3.5
+Pain aux raisins,autre,100,0,0,0,0,0
+Riz blanc glutineux sec,cereal,100,370,6.81,0.55,81.68,2.8
+Salade de pâtes aux fruits de mer,cereal,100,91,3.94,5,7.67,0.62
+Châtaigne,nuts,100,196,1.63,1.25,44.17,0
+Sauce spaghetti,sauce,100,87,1.78,2.69,13.76,2.6
+Chouquette,autre,100,0,0,0,0,0
+Asperge en conserve,vegetable,100,15,1.8,0.18,2.47,1
+Haricots verts,vegetable,100,29.4,2,0.17,3,4
+Oignon en poudre,vegetable,100,342,10.41,1.04,79.12,15.2
+Sardines aux tomates (conserve),seafood,100,185,20.86,10.45,0.54,0.1
+Semoule de maïs,cereal,100,362,8.12,3.59,76.89,7.3
+Préparation pour flan au citron,autre,100,363,0.1,0.5,91.8,0.1
+Reblochon,dairy,100,322,19.7,27,0,0
+Rognon de bœuf,meat,100,159,27.27,4.65,0,0
+Céleri cuit,vegetable,100,18,0.83,0.16,4,1.44
+Chocolat liquide,autre,100,472,12.1,47.7,36.2,18.1
+Rouleau de printemps,autre,100,105,5.2,1.96,16.6,1.2
+Barre granny dure,autre,100,0,0,0,0,0
+Lapin mijoté,meat,100,206,30.38,8.41,0,0
+Yaourt aux fruits brassé,dairy,100,102,4.47,1.68,17.28,0
+crème fraîche 30% M. G.,dairy,100,0,0,0,0,0
+Pruneau au sirop,fruit,100,105,0.87,0.2,27.8,3.8
+Yaourt saveur vanille ou café,dairy,100,92,4.1,1.9,15.49,0
+Biscuit aux figues,autre,100,348,3.7,7.3,70.9,4.6
+Froot Loops,autre,100,400,4.7,2.8,89.1,7.6
+Câpres,spice,100,23,2.36,0.86,4.89,3.2
+Fromage de tête,dairy,100,157,13.83,10.9,0,0
+Yaourt nature au lait entier,dairy,100,71,4.73,2.79,6.68,0
+Maïs jaune sec,cereal,100,365,9.42,4.74,74.26,7.3
+Oeuf à la coque,egg,100,141,11.8,10.012,1.85,0
+Sauce béarnaise,sauce,100,0,0,0,0,0
+Crêpe nature maison,autre,100,227,6.4,9.7,28.3,1.21
+Menthe poivrée fraîche,autre,100,70,3.75,0.94,14.89,8
+Gomme à mâcher,autre,100,0,0,0,0,0
+Piment en poudre,spice,100,263,6.09,8.69,72.12,21.6
+Riz brun grain moyen cuit,cereal,100,112,2.32,0.83,23.51,1.91
+Oeuf (blanc),egg,100,48,9.99,0,1.182,0
+Tapioca,autre,100,369,0.1,0.1,94.3,0.2
+Bouillon ou consommé de bœuf (déshydraté),meat,100,3,0.21,0.08,0.25,0
+Merguez,meat,100,0,0,0,0,0
+Blanc de poulet rôti avec la peau,meat,100,222,29.02,10.85,0,0
+Pâté de crevette ou homard,autre,100,180,20.8,9.4,1.5,0
+Huile d'arachide,autre,100,885,0,100,0,0
+Artichaut cru,vegetable,100,47,3.27,0.15,10.51,4.58
+Cassis,fruit,100,63,1.4,0.41,15.38,0
+Biscuits petits animaux,autre,100,0,0,0,0,0
+Lait écrémé (poudre),dairy,100,363,36.16,0.77,51.98,0
+Côte d'agneau,meat,100,0,0,0,0,0
+Cacao en poudre,autre,100,486,16.8,23.71,51.39,29.8
+Thé,drink,100,1,0,0,0.3,0
+Kaki,fruit,100,70,0.58,0.19,18.59,3.6
+Sandwich au fromage et œufs,autre,100,0,0,0,0,0
+Moutarde jaune,sauce,100,66,4.37,4.01,5.33,3.3
+Pain de viande (boeuf),autre,100,0,0,0,0,0
+Strudel aux pommes,autre,100,0,0,0,0,0
+Pastrami,meat,100,147,17.78,5.84,0.36,0
+Romarin frais,spice,100,131,3.31,5.86,20.7,14.1
+Salsifis,autre,100,68,2.73,0.17,15.36,3.1
+Tostada au fromage avec haricots,autre,100,155,6.67,6.85,18.42,3.02
+Chou vert frisé cru,vegetable,100,50,3.3,0.7,10.01,2.44
+Crevette,seafood,100,99,20.91,1.08,0,0
+Mangue,fruit,100,65,0.51,0.27,17,1.8
+Rillettes,autre,100,417,0,39.8,0.1,0
+Courge,vegetable,100,56,0.66,0.34,14.34,0
+Échalote crue,vegetable,100,72,2.5,0.1,16.8,2.09
+Sauce chili  en conserve,sauce,100,0,0,0,0,0
+Cerfeuil (déshydraté),autre,100,237,23.2,3.9,49.1,11.3
+Foie de porc,meat,100,165,26.02,4.4,3.76,0
+Taco et chili con carne,autre,100,0,0,0,0,0
+Graisse de porc (saindoux),autre,100,902,0,100,0,0
+Persil frais,spice,100,36,2.97,0.79,6.33,3.3
+Escalope de veau,meat,100,189,36.929,3.239,0,0
+Aneth (désydraté),spice,100,253,19.96,4.36,55.82,13.6
+Cacahuètes salées,autre,100,585,23.68,49.66,21.51,8
+Café expresso,drink,100,2,0.12,0.18,0,0
+Maquereau salé,seafood,100,305,18.5,25.1,0,0
+Piment de cayenne,spice,100,318,12.01,17.27,56.63,27.2
+Canard rôti avec la peau,meat,100,337,18.99,28.35,0,0
+Tomate verte crue,sauce,100,23,1.2,0.2,5.1,1.1
+Céleri-rave cru,vegetable,100,42,1.5,0.3,9.2,1.8
+Mâche,nuts,100,21,2,0.4,3.6,0
+Sauce aux champignons,sauce,100,50,1.26,2.71,5.47,0.4
+Lait de brebis,dairy,100,0,0,0,0,0
+Crème glacée au chocolat,dairy,100,216,3.8,11,28.2,1.2
+Miel,autre,100,304,0.3,0,82.4,0.2
+Bière légère,drink,100,0,0,0,0,0
+Jus de citron,fruit,100,25,0.38,0,8.63,0.4
+Salade de légumes et poulet,meat,100,48,8,1,1.71,0.4
+Banane,fruit,100,89,1.09,0.33,22.84,1.74
+Cœur d'agneau,meat,100,185,24.97,7.91,1.93,0
+Céleri-rave cuit,vegetable,100,27,0.96,0.19,5.9,1.2
+Saucisse fumée (porc et boeuf),meat,100,320,12,28.73,2.42,0
+Potée auvergnate,autre,100,159,8.4,12,4.4,1.4
+Gauffre nature,autre,100,291,7.9,14.1,32.9,1.47
+Biscuit fourré au chocolat (BN),autre,100,470,5.61,19.78,70.67,2.8
+Zeste de citron,fruit,100,47,1.5,0.3,16,10.6
+Abricot frais,fruit,100,48,1.4,0.39,11.12,2
+Orge cuit,cereal,100,123,2.26,0.44,28.22,2.46
+Muesli (weetabix),autre,100,372,11,5,71,7.8
+Palette de veau,meat,100,225,31.26,10.09,0,0
+Olives,fruit,100,115,0.84,10.68,6.26,3.2
+Soupe de tomates en sachet,autre,100,38,0.93,0.61,7.17,0.4
+Laitue romaine,vegetable,100,17,1.23,0.3,3.29,2.1
+Tortellinis au fromage,autre,100,307,13.5,7.23,47,1.9
+Yaourt nature allégé,dairy,100,51,5.04,0.1,7.26,0
+Chou-rave cru,vegetable,100,27,1.7,0.1,6.2,3.6
+Double hamburger,autre,100,267,19.3,16.01,11.04,0.64
+Mufffin aux raisins,autre,100,240,7.91,1.8,48.1,2.6
+Tomate rouge d'été crue,sauce,100,0,0,0,0,0
+Pignon,autre,100,673,13.69,68.37,13.08,3.7
+Veau haché,meat,100,172,24.38,7.56,0,0
+Fromage allégé,dairy,100,200,23,6,4,0
+Flan à la noix de coco,autre,100,389,0.9,2.3,91.2,4
+Pois chiches,vegetable,100,164,8.86,2.59,27.42,4.56
+Saucisson de foie et de bacon,meat,100,297,15,24,4.3,0
+Veau maigre,meat,100,196,31.9,6.58,0,0
+Graine de tournesol séchée,spice,100,585,20.78,51.46,20,8.6
+Brochette d'agneau,meat,100,186,28.08,7.33,0,0
+Chocolat amer à cuire,autre,100,0,0,0,0,0
+Beurre salé,dairy,100,717,0.85,81.11,0.06,0
+Piment rouge séché,spice,100,324,10.58,5.81,69.86,28.7
+Glace de type Esquimau,autre,100,0,0,0,0,0
+Sandwich jambon fromage,autre,100,0,0,0,0,0
+Pot-au-feu,autre,100,0,0,0,0,0
+Poulet frit (sans peau),meat,100,219,30.57,9.12,1.69,0.1
+Bouillon ou consommé de poulet (déshydraté),meat,100,5,0.28,0.23,0.3,0
+Beurre doux,dairy,100,717,0.85,81.11,0.06,0
+Soupe de légumes et bœuf en sachet,autre,100,21,1.16,0.44,3.17,0.3
+Fève de café enrobée de chocolat noir,vegetable,100,540,7.5,30,59.95,7.5
+Pain d'épices,autre,100,320,3,3.1,70,2
+Hamburger,autre,100,268,14.8,15.1,18.02,0.89
+Tourteau,seafood,100,99,16.2,1.9,3.11,0
+Truite arc-en-ciel (élevage),seafood,100,169,24.27,7.2,0,0
+Choucroute (conserve),vegetable,100,19,0.91,0.14,4.28,2.9
+Alcool de riz (saké),cereal,100,134,0.5,0,5,0
+Cresson cru,vegetable,100,32,2.6,0.7,5.5,1.1
+Jambon tranché,meat,100,163,16.6,8.6,3.83,1.3
+Bacon de dinde,meat,100,382,29.6,27.9,3.1,0
+Langue de bœuf,meat,100,284,19.29,22.3,0,0
+Roulé de dinde,meat,100,98,14.79,1.66,5.03,0
+Gelée de fruit,fruit,100,267,0.15,0.02,69.95,1
+Parmesan pâte dure,dairy,100,392,35.75,25.83,3.22,0
+Couscous sec,autre,100,376,12.76,0.64,77.43,5
+Gésier de poulet mijoté,meat,100,154,30.39,2.68,0,0
+Huître cuite,seafood,100,137,14.1,4.91,7.82,0
+Oeuf au plat,egg,100,193,12.871,14.811,1.106,0
+Café instantané,drink,100,241,12.2,0.5,41.1,0
+Petits pois et carottes (conserve),vegetable,100,38,2.17,0.27,8.48,2
+Pousses de bambou,autre,100,12,1.53,0.22,1.92,1
+Menthe verte déshydratée,autre,100,285,19.93,6.03,52.04,29.8
+Haricots beurre crus,vegetable,100,345,22,2.6,60.7,25.1
+Poulet pané et frit,meat,100,297,15.59,18.82,16.32,0.9
+Sauce Mornay,sauce,100,0,0,0,0,0
+Soupe aux champignons en sachet,autre,100,33,0.66,1.82,4.4,0.2
+Oignon cuit,vegetable,100,44,1.36,0.19,10.15,1.7
+Poivron,vegetable,100,18,0.8,0.3,3.9,1.2
+Chou de Chine cru,vegetable,100,16,1.2,0.2,3.23,1.2
+Préparation pour crêpe au sarrasin,autre,100,340,10.9,2.7,71.3,8.5
+Cheval,meat,100,175,28.14,6.05,0,0
+Enchilada fromage et bœuf,meat,100,0,0,0,0,0
+Hamburger au poisson et fromage,autre,100,286,11.26,15.63,26.03,1.33
+Paëlla,autre,100,0,0,0,0,0
+Nem,autre,100,0,0,0,0,0
+Piment fort (conserve),spice,100,21,0.9,0.1,5.1,1.3
+Seigle,cereal,100,335,14.76,2.5,69.76,13.56
+Raisin de Corinthe sec,fruit,100,283,4.08,0.27,74.08,6.8
+Sandwich grec aux crudités,autre,100,0,0,0,0,0
+Mars aux amandes,autre,100,467,8.1,23,62.7,2
+Aile de poulet rôti avec la peau,spice,100,290,26.86,19.46,0,0
+Amande blanchie,nuts,100,581,21.94,50.62,19.94,10.4
+Céleri cru,vegetable,100,16,0.69,0.17,2.97,1.5
+Salami sec,meat,100,407,22.58,33.72,1.6,0
+Amande non blanchie,nuts,100,576,21.22,49.42,21.67,12.2
+Beurre fermier,dairy,100,717,0.85,81.11,0.06,0
+Aneth frais,spice,100,43,3.46,1.12,7.02,2.1
+Huile de noisette,autre,100,885,0,100,0,0
+Boisson aux agrumes,drink,100,46,0.34,0.03,11.42,0.1
+Fécule de maïs,cereal,100,0,0,0,0,0
+Pain de seigle foncé (Pumpernickel),autre,100,250,8.7,3.1,47.5,6.5
+Persil lyophilisé,spice,100,271,31.3,5.2,42.38,32.7
+Ciboulette,autre,100,30,3.27,0.73,4.35,2.5
+Pêche,fruit,100,39,0.91,0.25,9.54,1.93
+Yaourt normal sur lit de fruits,fruit,100,115,3.86,3,17.76,0
+Écrevisse,seafood,100,87,17.52,1.3,0,0
+Flan au citron,autre,100,107,2.76,1.71,20.2,0
+Pomélo,autre,100,38,0.76,0.04,9.62,1
+Glaçage à la vanille,autre,100,0,0,0,0,0
+Morue salée,seafood,100,290,62.82,2.37,0,0
+Macaroni au blé complet,autre,100,124,5.33,0.54,26.54,2.8
+Saucisse de bœuf,meat,100,332,18.21,27.98,0.35,0
+Noix de cajou rôtie à sec,nuts,100,574,15.31,46.35,32.69,3
+Camembert,dairy,100,300,19.8,24.26,0.46,0
+crème fraîche^légère,dairy,100,0,0,0,0,0
+Crème glacée à la vanille,dairy,100,249,3.5,16.2,22.29,0
+Cresson de fontaine cru,vegetable,100,11,2.3,0.1,1.29,0.5
+Chou-rave cuit,vegetable,100,29,1.8,0.11,6.69,1.1
+Aubergine,vegetable,100,35,0.83,0.23,8.73,2.5
+Chou de Chine cuit,vegetable,100,14,1.5,0.17,2.41,1.7
+Esturgeon fumé,seafood,100,173,31.2,4.4,0,0
+Crêpe nature (prête-à-manger),autre,100,225,5.33,5.17,39.29,2.4
+Fruits confits,fruit,100,0,0,0,0,0
+Fève,vegetable,100,0,0,0,0,0
+Huile de maïs,autre,100,885,0,100,0,0
+Poulet mijoté,meat,100,179,24.56,8.18,0,0
+Pain aux céréales,autre,100,265,13.36,4.23,43.34,7.4
+Poivrons farcis (bœuf),meat,100,73,3.72,2.57,8.73,1.2
+Jus de fruit de la passion,fruit,100,0,0,0,0,0
+Saucisse bratwurst,meat,100,245,14.1,19.3,2.6,0
+Gaufrette fourrée,autre,100,511,4.1,24.3,70.1,0.6
+Morue fumée,seafood,100,85,18,0.9,0,0
+Biscuit fourré au chocolat (BN) COPY,autre,100,0,0,0,0,0
+Oie rôtie avec la peau,meat,100,305,25.16,21.92,0,0
+Pain de viande aux olives,autre,100,0,0,0,0,0
+Radis,vegetable,100,16,0.68,0.1,3.4,1.6
+Biscuit à l'avoine,autre,100,450,6.2,18.1,68.7,2.8
+Tostada au fromage et bœuf,autre,100,0,0,0,0,0
+Banane Plantain crue,fruit,100,122,1.3,0.37,31.89,2.3
+Côte de veau,meat,100,228,23.96,13.96,0,0
+Litchi,fruit,100,66,0.83,0.44,16.53,1.3
+Pain au raisin,autre,100,274,7.9,4.4,52.3,4.3
+Brochet,autre,100,95,21,0.7,0,0
+Biscuit petit beurre,autre,100,467,6.1,18.8,68.9,0.8
+Chocolat au lait,autre,100,38,1.65,0.21,8.98,1.9
+Salade de fruits tropicaux (conserve),fruit,100,86,0.41,0.1,22.36,1.3
+Salade de pommes de terre,vegetable,100,143,2.68,8.2,11.17,1.3
+Chou cuit,vegetable,100,23,1.27,0.06,5.51,1.7
+Poire au sirop,fruit,100,50,0.34,0.07,12.94,1.6
+Bretzels durs (apéritif),autre,100,362,11.1,2.6,81.2,7.7
+Salami de boeuf sec,meat,100,385,23.2,30.05,3.8,0
+Glaçage au sucre,autre,100,0,0,0,0,0
+Laurier (feuille),spice,100,314,7.61,8.36,74.97,26.3
+Turbot,seafood,100,122,20.58,3.78,0,0
+Rôti de porc cuit,meat,100,459,28.95,36.7,1.05,0
+Pâte feuilletée (prête-à-cuire),autre,100,551,7.3,38.1,45.1,1.5
+Cerises confites,fruit,100,0,0,0,0,0
+Hachis Parmentier,autre,100,0,0,0,0,0
+Huile de lin,autre,100,885,0,100,0,0
+Café décaféiné,drink,100,0,0.1,0,0,0
+Chapon rôti,autre,100,229,28.96,11.65,0,0
+Cappucino,drink,100,32,0.2,1.1,5.6,0
+Foie d'agneau,meat,100,238,25.53,12.65,3.78,0
+Pavot (graines),spice,100,525,17.99,41.56,28.13,19.5
+Cassonade,autre,100,380,0.12,0,98.09,0
+Poivron jaune,vegetable,100,27,1,0.21,6.32,0.9
+Poivron vert cuit,vegetable,100,28,0.92,0.2,6.7,1.51
+Vanille (extrait),autre,100,288,0.06,0.06,12.65,0
+Thon rouge frais cru,seafood,100,144,23.33,4.9,0,0
+Bigorneau,seafood,100,135,26.1,1.2,5,0
+Champignon de Paris (conserve),vegetable,100,25,1.87,0.29,5.09,2.83
+Oeufs brouillés,egg,100,153,10.388,11.394,3.047,0
+Vin doux,drink,100,133,0.1,0,10.6,0
+Blanc de dinde rôtie,meat,100,112,13.5,3,7.7,0.4
+Ratatouille,autre,100,53.1,1.1,3.77,3.7,2
+Chou à la crème,vegetable,100,0,0,0,0,0
+Flan au chocolat,autre,100,142,2.09,4.6,23.01,0
+Glaçage au chocolat,autre,100,0,0,0,0,0
+Manioc,cereal,100,159,1.36,0.28,38.06,1.8
+Flan à la vanille,autre,100,130,1.45,3.78,22.6,0
+Bonbon au caramel,autre,100,382,4.6,8.1,77,0
+Sanglier,meat,100,111,21.3,2.9,0,0
+Pâtisson,nuts,100,16,1.03,0.17,3.3,1.9
+Riz sauvage,cereal,100,101,3.99,0.34,21.34,1.8
+Raisin,fruit,100,67,0.63,0.35,17.15,0.9
+Vinaigrette (huile et vinaigre),autre,100,449,0,50.1,2.5,0
+Nectarine,fruit,100,44,1.06,0.32,10.55,1.7
+Taco,autre,100,217,12.08,12.02,15.63,0
+Champignon de Paris cru,vegetable,100,22,3.09,0.34,3.28,1
+Cresson cuit,vegetable,100,23,1.9,0.6,3.8,0.7
+Cervelas,autre,100,362,17.45,30.43,3.33,0
+Jus de tomate,sauce,100,52,4.48,1.92,4.93,0.5
+Crevettes panées,seafood,100,277,11.51,15.18,24.39,0.26
+Agneau (coupes diverses),meat,100,206,28.992,9.862,0,0
+Aiglefin,seafood,100,112,24.24,0.93,0,0
+Lièvre,meat,100,192,30,8,0,0
+Lingue,autre,100,111,24.35,0.82,0,0
+Riz brun grain moyen sec,cereal,100,362,7.5,2.68,76.17,3.4
+Biscuit au sucre,autre,100,478,5.1,21.1,67.9,0.8
+Noix de coco crue,nuts,100,354,3.33,33.49,15.23,9
+Nèfle du Japon,fruit,100,47,0.43,0.2,12.14,1.7
+Carotte crue,vegetable,100,41,0.93,0.24,9.58,2.44
+Noisette,nuts,100,646,15.03,62.4,17.6,9.4
+Dinde rôtie avec la peau,meat,100,157,29.916,7.097,0,0
+Mandarine,fruit,100,53,0.81,0.31,13.34,1.8
+Ail en poudre,spice,100,331,16.55,0.73,72.73,9
+Spaghetti,autre,100,158,5.8,0.93,30.86,1.8
+Tortilla nature,autre,100,489,7.79,23.36,65.56,5.3
+Riz blanc grain moyen sec,cereal,100,360,6.61,0.58,79.34,1.4
+Mozzarella,dairy,100,300,22.17,22.35,2.19,0
+Gingembre confit,spice,100,340,0.3,0.2,87.1,0
+Ricotta au lait demi-écrémé,dairy,100,138,11.39,7.91,5.14,0
+Amuse-gueule à base de maïs goût fromage,autre,100,526,9.3,33.2,51.6,9.9
+Ail cru,spice,100,149,6.36,0.5,33.06,2.1
+Gingembre frais,spice,100,521,6.9,35,44.6,8.6
+Huile de carthame riche en acide linoléique,autre,100,885,0,100,0,0
+Riz blanc grain court cuit,cereal,100,130,2.36,0.19,28.73,0
+Soda à l'orange,drink,100,48,0,0,12.3,0
+Tarte au chocolat,autre,100,304,2.6,19.4,33.6,2
+Espadon,seafood,100,155,25.39,5.14,0,0
+Farine de riz blanc,cereal,100,0,0,0,0,0
+Saucisse de Morteau,meat,100,0,0,0,0,0
+Soupe de pois cassés,autre,100,49,2.83,0.58,8.37,1.1
+Rognon d'agneau,meat,100,137,23.65,3.62,0.99,0
+Sauce tartare,sauce,100,668,1.008,73.249,4.196,0.332
+Gingembre (racine),spice,100,80,1.82,0.75,17.77,2
+Éperlan,seafood,100,251,21.44,12.51,12.11,3.32
+Graine de sésame grillée,spice,100,565,16.96,48,25.74,14
+Liqueur de menthe,drink,100,371,0,0.3,41.6,0
+Lentilles,cereal,100,116,9.02,0.38,20.13,4.25
+Maïs doux (conserve),cereal,100,64,1.95,0.5,15.41,1.7
+"Bœuf oriental, légumes et riz",cereal,100,74,4.96,1.08,11.05,0.51
+Caviar,seafood,100,252,24.6,17.9,4,0
+Nectar de pêche,fruit,100,54,0.27,0.02,13.92,0.6
+Maïs doux cru,cereal,100,86,3.27,1.35,18.7,2
+Figue confite,fruit,100,0,0,0,0,0
+Palourde cuite,seafood,100,148,25.55,1.95,5.13,0
+Saucisse porc et bœuf,meat,100,396,13.8,36.25,2.7,0
+Pois pigeon (cajan),vegetable,100,111,5.96,1.36,19.49,6.2
+Farine de blé  à pain,cereal,100,362,13.866,2.342,69.406,3.014
+Tripes à la mode de Caen,autre,100,0,0,0,0,0
+Cœur de veau,meat,100,186,29.12,6.75,0.13,0
+Tamari (sauce soja),sauce,100,0,0,0,0,0
+Choucroute,vegetable,100,0,0,0,0,0
+Petits pois et carottes (congelés),vegetable,100,53,3.4,0.47,11.15,3.4
+Maïs doux (congelé),cereal,100,93,3.11,0.74,22.33,2.8
+M & M's (jaune),autre,100,516,9.57,26.13,60.48,3.7
+Mayonnaise commerciale allégée,sauce,100,390,0.9,33.4,23.9,0
+Raclette,autre,100,0,0,0,0,0
+Jambon,meat,100,178,22.62,9.02,0,0
+Maïs soufflé givré,cereal,100,402,5,1,90,1.333
+Sundae caramel,autre,100,196,4.71,5.98,31.81,0
+Tisane,drink,100,1,0,0,0.2,0
+Fèves de soja germées à la vapeur,vegetable,100,81,8.47,4.45,6.53,0.8
+Barre granny tendre,autre,100,0,0,0,0,0
+Blé soufflé,cereal,100,397,15.02,2.71,78.2,11.3
+Quatre-quart,autre,100,389,5.2,17.9,52.5,1
+Truite,seafood,100,190,26.63,8.47,0,0
+Fèves de soja germées sautées,vegetable,100,125,13.1,7.1,9.4,0.8
+Amande rôtie à sec,nuts,100,598,22.09,52.83,19.29,11.8
+Bonbons à la menthe enrobés de chocolat,autre,100,384,2.19,7.17,80.99,2
+Concombre cru,vegetable,100,16,0.65,0.11,3.63,0.73
+Nectar de poire,fruit,100,60,0.11,0.01,15.76,0.6
+Émeu,autre,100,153,29.07,3.13,0,0
+Bâtonnets de poisson,seafood,100,249,11.04,13.25,21.18,1.4
+Cerise,fruit,100,50,1,0.3,12.18,1.6
+Préparation pour flan au chocolat,autre,100,362,2.6,2.1,89.3,4.5
+Cédrat confit,autre,100,0,0,0,0,0
+Sundae chocolat,autre,100,180,3.57,5.46,30.17,0
+Tortilla prêt-à-cuire,autre,100,218,5.7,2.85,44.64,6.3
+Bœuf haché à point,meat,100,289,24.07,20.69,0,0
+Foie de morue,seafood,100,425,5.6,42,6,0
+Rôti de viande froid,meat,100,353,12.59,32.16,2.33,0
+Sole (poisson plat),seafood,100,117,24.16,1.53,0,0
+Spaghetti au blé complet,autre,100,124,5.33,0.54,26.54,3.23
+Chou-fleur cru,vegetable,100,25,1.92,0.28,4.97,1.75
+Laitue pommée,vegetable,100,14,0.9,0.14,2.97,1.2
+Mure au sirop,fruit,100,92,1.31,0.14,23.1,3.4
+Haricots mungo germés crus,vegetable,100,30,3.04,0.18,5.94,1.8
+Saucisse fumée (bœuf),meat,100,330,11.24,29.57,4.06,0
+Bacon grillé,meat,100,541,37.04,41.78,1.43,0
+Escargot cru,autre,100,90,16.1,1.4,2,0
+Conque,autre,100,130,26.3,1.2,1.7,0
+"Mets composés, chow mein, poulet, conserve",autre,100,92,3.118,4.833,9.846,1.22
+Ormeau cru,seafood,100,105,17.1,0.76,6.01,0
+Pâtes maison,cereal,100,124,4.37,0.98,25.12,1.19
+Safran,spice,100,310,11.43,5.85,65.37,3.9
+Sauce hollandaise,sauce,100,0,0,0,0,0
+Gin,autre,100,263,0,0,0,0
+Jus de pomme,fruit,100,46,0.1,0.13,11.3,0.2
+Yaourt nature,dairy,100,63,5.25,1.55,7.04,0
+Sorbet allégé en sucre,autre,100,24,0.5,0.1,6.2,0
+Groseille,fruit,100,56,1.4,0.2,13.8,4.3
+Maquereau,seafood,100,262,23.85,17.81,0,0
+Neufchatel,autre,100,253,9.15,22.78,3.59,0
+Croissant au jambon,autre,100,284,10.5,16.6,23.1,2
+Farine de blé avec levure,cereal,100,354,9.89,0.97,74.22,2.7
+Flocons de maïs givrés,cereal,100,393,4.667,0.333,90,1.667
+Haricots pinto cuits,vegetable,100,162,9.31,0.48,30.88,8.6
+Sauce blanche,sauce,100,147,3.84,10.63,9.17,0.2
+Nougat,autre,100,398,3.33,1.67,92.39,3.3
+Chou vert frisé cuit,vegetable,100,28,1.9,0.4,5.63,2
+Anguille,seafood,100,236,23.65,14.95,0,0
+Melon,fruit,100,34,0.84,0.19,8.16,0.69
+Tablette de chocolat,autre,100,507,3.9,34.2,60.4,5.5
+Sarriette en poudre,autre,100,272,6.73,5.91,68.73,45.7
+Pistache,nuts,100,572,21.35,45.97,27.65,10.3
+Palourde crue,seafood,100,74,12.77,0.97,2.57,0
+Yaourt glacé,dairy,100,159,4,5.6,24.2,0
+Chorizo,autre,100,455,24.1,38.27,1.86,0
+Morue charbonnière fumée,seafood,100,257,17.65,20.14,0,0
+Flan au caramel préparé (sachet),autre,100,103,2.99,1.72,18.82,0
+Chou cavalier cuit,vegetable,100,26,2.11,0.36,4.91,2.8
+Clou de girofle en poudre,autre,100,323,5.98,20.07,61.21,34.2
+Poulpe,seafood,100,164,29.82,2.08,4.4,0
+Emmental français,dairy,100,0,0,0,0,0
+Scarole,vegetable,100,17,1.25,0.2,3.35,3.1
+Bouchées Kit Kat,autre,100,0,0,0,0,0
+Lait écrémé instantané (poudre),dairy,100,358,35.1,0.72,52.19,0
+Soufflé au fromage,autre,100,0,0,0,0,0
+Comté,dairy,100,398,29.2,31.3,0,0
+Goyave,fruit,100,68,2.55,0.95,14.32,5.4
+"Pastis, prêt à boire (1dose d'alcool pour 5 d'eau)",drink,100,44.7,0,0,0.16,0
+Mélange apéritif oriental à base de riz,autre,100,0,0,0,0,0
+Saumon Atlantique (élevage),seafood,100,206,22.1,12.35,0,0
+Groseille à maquereau,fruit,100,44,0.88,0.58,10.18,4.3
+Graine de courge rôtie,vegetable,100,574,29.84,49.05,14.71,6.5
+Lapin rôti,meat,100,197,29.06,8.05,0,0
+Fruit'n Fibre,fruit,100,0,0,0,0,0
+Vodka,drink,100,231,0,0,0,0
+Haricots beurre cuits,vegetable,100,144,9.16,1.08,25.27,10.4
+Calmar,seafood,100,175,17.94,7.48,7.79,0
+Pâtes aux œufs maison,cereal,100,130,5.28,1.74,23.54,2.19
+Graine de tournesol grillée,spice,100,619,17.21,56.8,20.59,11.5
+Poivre noir,spice,100,255,10.95,3.26,64.81,26.5
+Blé soufflé givré,cereal,100,376,5.667,3.333,86.667,3.333
+Pintade,meat,100,158,23.4,6.45,0,0
+Esturgeon,seafood,100,135,20.7,5.18,0,0
+Confiture d'abricot,fruit,100,242,0.7,0.2,64.4,0.3
+Purée de pommes de terre maison,vegetable,100,113,1.96,4.2,16.94,1.5
+Lin (graine moulue),spice,100,534,19.8,41.6,28.88,27.9
+Pain classique,autre,100,260,8.7,3.9,49.5,5.5
+Zeste de citron confit,fruit,100,0,0,0,0,0
+Saucisson de foie,meat,100,326,14.1,28.5,2.2,0
+Seiche,seafood,100,158,32.48,1.4,1.64,0
+Tarte aux pommes,autre,100,237,1.9,11,34,1.6
+Perche rose,autre,100,121,23.88,2.09,0,0
+Muffin nature,autre,100,227,8.87,1.69,44.17,3.5
+Saucisse knackwurst,meat,100,307,11.1,27.7,3.2,0
+Poireaux crus,vegetable,100,61,1.5,0.3,14.15,2.68
+Cerises au marasquin,fruit,100,165,0.22,0.21,41.97,3.2
+Poulet rôti avec la peau,meat,100,239,27.3,13.6,0,0
+Saumon rouge (conserve),seafood,100,166,16.8,10.1,0,0
+Courgette cuite,vegetable,100,15,1.14,0.36,2.69,1
+Asperge fraîche,vegetable,100,22,2.4,0.22,4.11,2
+Carvi (graines),spice,100,333,19.77,14.59,49.9,38
+Orange,fruit,100,49,0.91,0.15,12.54,2.2
+Longe de porc braisée,meat,100,239,27.23,13.62,0,0
+Saucisse de Toulouse,meat,100,296,14,26.4,0.6,0
+Café,drink,100,0,0.12,0.02,0,0
+Edam,dairy,100,357,24.99,27.8,1.43,0
+Saucisson de bière,drink,100,238,14.24,18.8,2.06,0
+Lait entier,dairy,100,61,3.15,3.25,4.8,0
+Thym (déshydraté),spice,100,276,9.11,7.43,63.94,37
+Hareng mariné,seafood,100,262,14.19,18,9.64,0
+Corn Pops,autre,100,384,4,0.6,90.5,8
+Chipolata,meat,100,339,19.43,28.36,0,0
+Limonade au citron,autre,100,39,0.05,0.02,10.14,0
+Gâteau de riz,cereal,100,118,3.53,2.65,19.4,0.9
+Pois carrés cuits,vegetable,100,38,5.31,0.66,3.21,0
+Ananas,fruit,100,50,0.54,0.12,13.12,1.4
+Roquefort,dairy,100,369,21.54,30.64,2,0
+Pita,autre,100,275,9.1,1.2,55.7,2.2
+Blanquette de veau,meat,100,97.2,15,2.8,3,0.5
+Crêpe au beurre,autre,100,224,3.56,6.03,39.18,0.76
+Saumon Atlantique (sauvage),seafood,100,182,25.44,8.13,0,0
+Petits pois (congelés),vegetable,100,77,5.22,0.4,13.62,4.5
+Oignon vert cru,vegetable,100,32,1.83,0.19,7.34,2.6
+Fromage genre Bombel-Babybel,dairy,100,0,0,0,0,0
+Pommes de terre rissolées,vegetable,100,265,3,12.52,35.11,3.2
+Mirabelle,autre,100,52.7,0.72,0.2,12,2.3
+Céréales Weetabix,autre,100,371,10.571,2,82.857,12.571
+Petits pois (conserve),vegetable,100,53,3.19,0.3,9.75,3.3
+Gigot d'agneau,meat,100,200,29.774,8.96,0,0
+Perrier,drink,100,0,0,0,0,0
+Munster,dairy,100,368,23.41,30.04,1.12,0
+Jus de raisin,drink,100,0,0,0,0,0
+Foie de bœuf,meat,100,192,29.08,5.26,5.13,0
+"Mets composés, mini ravioli au boeuf, sauce aux tomates et viande, conserve",autre,100,92,3.27,3.24,12.36,1
+Haricots roses,vegetable,100,149,9.06,0.49,27.91,5.3
+Pizza au fromage (congelée),autre,100,268,10.36,12.28,29.02,2.2
+Pourpier cru,autre,100,16,1.3,0.1,3.43,0
+Queue de porc,meat,100,396,17,35.8,0,0
+Fenugrec (graines),spice,100,323,23,6.41,58.35,24.6
+Morue charbonnière cuite,seafood,100,250,17.19,19.62,0,0
+Avocat,fruit,100,160,2,14.66,8.53,6.7
+Pain au son,autre,100,248,8.8,3.4,47.8,4
+Poireaux cuits,vegetable,100,31,0.81,0.2,7.62,1
+Saucisse de veau,meat,100,341,13.99,31.7,0,0
+Soupe aux asperges en sachet,autre,100,23,0.88,0.69,3.57,0.15
+Kiwi,fruit,100,61,1.14,0.52,14.66,3
+Saumon rose,seafood,100,149,25.56,4.42,0,0
+Farine de blé complète,cereal,100,369,14.639,3.24,68.509,8.894
+Basilic (déshydraté),spice,100,251,14.37,3.98,60.96,40.5
+Brioche nature,autre,100,0,0,0,0,0
+Lasagnes,autre,100,0,0,0,0,0
+Épinard congelé,vegetable,100,34,4.01,0.87,4.8,3.7
+Pourpier cuit,autre,100,18,1.49,0.19,3.55,0
+Fromage de chèvre sec,dairy,100,452,30.52,35.59,2.17,0
+Figue sèche,fruit,100,249,3.3,0.93,63.87,9.8
+Smacks (Kellog's),autre,100,0,0,0,0,0
+Huile d'olive,autre,100,885,0,100,0,0
+Rhum,drink,100,231,0,0,0,0
+Fenouil cru,autre,100,31,1.24,0.2,7.29,3.1
+Sandwich jambon œuf fromage,autre,100,0,0,0,0,0
+Bonbons durs aux édulcorants,autre,100,395,0,0,98.6,0
+Huile de carthame riche en acide oléique,autre,100,885,0,100,0,0
+Moka,autre,100,27,0.3,1,4.5,0.1
+Yaourt à boire,dairy,100,70,2.4,1.5,11.7,0
+Bouchée à la reine,autre,100,0,0,0,0,0
+Langue de bœuf en conserve,meat,100,267,19.3,20.3,0.3,0
+Saucisson de bologne,meat,100,247,15.3,19.87,0.73,0
+Croustilles de maïs (snack),cereal,100,519,6.03,28.41,63.01,5.3
+Halvah nature,autre,100,469,12.49,21.52,60.49,4.5
+Céleri (graines),vegetable,100,392,18.07,25.27,41.35,11.8
+Pain de viande (porc),autre,100,0,0,0,0,0
+Purée de pommes de terre,vegetable,100,83,2.31,1.21,16.12,1.18
+Hot-dog,autre,100,0,0,0,0,0
+Flan à la banane,autre,100,0,0,0,0,0
+Basilic frais,spice,100,22,3.15,0.64,2.65,1.6
+Sauce aigre-douce,sauce,100,122,0.48,2.38,24.79,0.8
+Algue agar crue,autre,100,26,0.54,0.03,6.75,0.5
+Caramel à tartiner,autre,100,252,1.5,0.1,65.9,0.9
+Cuisse de poulet bouilli avec la peau,meat,100,220,24.17,12.92,0,0
+Soupe minestrone en boîte,autre,100,53,2.13,1.17,8.64,2.4
+Lait  concentré sucré,dairy,100,321,7.91,8.7,54.4,0
+Pain (baguette),autre,100,275,8.48,1.3,57.4,2.8
+Coulommiers,dairy,100,0,0,0,0,0
+Poire,fruit,100,0,0,0,0,0
+Corned beef,meat,100,250,27.1,14.93,0,0
+Jambon haché,meat,100,263,16.28,20.68,1.84,0
+Tarte au citron meringuée,autre,100,268,1.5,8.7,47.2,1.2
+Igname,autre,100,116,1.49,0.14,27.48,3.9
+Galettes de maïs,cereal,100,387,8.1,2.4,83.4,1.9
+Caille,meat,100,192,19.63,12.05,0,0
+Pain complet,autre,100,250,8.4,1.3,49.4,5.3
+Épinard (conserve),vegetable,100,19,2.11,0.37,2.92,1.6
+Tarte aux légumes,autre,100,0,0,0,0,0
+Ravioli de bœuf  (conserve),autre,100,92,3.3,2.67,13.58,0.5
+Saucisson de bière (porc et bœuf),meat,100,276,14,22.53,4.27,0.9
+Beurre allégé doux,dairy,100,499,3.3,55.1,0,0
+Rognon de veau,meat,100,163,26.32,5.66,0,0
+Noix de Pécan rôtie à sec,nuts,100,710,9.5,74.27,13.72,9.4
+Fromage de chèvre frais,dairy,100,268,18.52,21.08,0.89,0
+Saucisse de Strasbourg,meat,100,0,0,0,0,0
+Special K  plus (Kellog's),autre,100,0,0,0,0,0
+Mure fraîche,fruit,100,43,1.39,0.49,9.61,5.3
+Pilon de poulet pané et frit,meat,100,291,20.32,18.04,10.61,0.24
+Mousse d'Irlande crue (algue),autre,100,49,1.51,0.16,12.29,1.3
+Abricot séché,fruit,100,241,3.39,0.51,62.64,7.3
+Aneth (graines),spice,100,305,15.98,14.54,55.17,21.1
+Lait de soja,dairy,100,0,0,0,0,0
+Miso (soja fermenté),sauce,100,0,0,0,0,0
+Saucisse fumée,meat,100,269,12.81,23.68,0.28,0.1
+Gingembre en poudre,spice,100,347,9.12,5.95,70.79,12.5
+Pomme (sans la peau),fruit,100,48,0.27,0.13,12.76,1.3
+Courgette crue,vegetable,100,17,1.21,0.32,3.11,1
+Fromage des Pyrénées,dairy,100,0,0,0,0,0
+Cacao en poudre non sucré (procédé néerlandais),autre,100,220,18.1,13.1,58.3,29.8
+Langouste,seafood,100,143,26.41,1.94,3.12,0
+Haricots pinto (conserve),vegetable,100,86,4.86,0.81,15.25,4.6
+Pois mange-tout,vegetable,100,42,3.27,0.23,7.05,2.8
+Cassoulet,autre,100,0,0,0,0,0
+Riz blanc grain court sec,cereal,100,358,6.5,0.52,79.15,2.8
+Tabasco,sauce,100,12,1.29,0.76,0.8,0.6
+Gouda,dairy,100,357,24.94,28,2.22,0
+Lait de chèvre,dairy,100,69,3.56,4.14,4.45,0
+Pâté de foie,autre,100,319,14.2,28,1.5,0
+Farine de maïs,cereal,100,361,6.93,3.86,76.85,7.3
+Sorbet à l'orange,autre,100,144,1.1,2,30.4,1.3
+Huile d'avocat,autre,100,885,0,100,0,0
+Eau du robinet,drink,100,0,0,0,0,0
+Langue de veau,meat,100,202,25.85,10.1,0,0
+Flan pâtissier,autre,100,210,5.5,11.6,20.8,1.6
+Truite arc-en-ciel,seafood,100,150,22.92,5.82,0,0
+Haricots rouges (conserve),vegetable,100,85,5.26,0.36,15.54,5.4
+Haricots de lima,vegetable,100,123,6.81,0.32,23.64,5.3
+Féta,dairy,100,264,14.21,21.28,4.09,0
+Haricots de lima (conserve),vegetable,100,71,4.07,0.29,13.33,3.6
+"Pizza viande et légumes (congelée, pâte lève-au-four)",autre,100,271,12.63,11.75,28.78,2.3
+Cari en poudre,spice,100,325,12.66,13.81,58.15,33.2
+Chevreuil,autre,100,158,30.21,3.19,0,0
+Sardine à l'huile (conserve),seafood,100,208,24.62,11.45,0,0
+Prune Reine-Claude,fruit,100,53,0.8,0.2,12,2.4
+Saucisse de bière (bœuf),meat,100,254,14.1,19.7,4.1,0
+Prune au sirop,fruit,100,41,0.39,0.01,11.03,0.9
+Tofu,autre,100,116,8.15,8,5.15,0
+Carotte cuite,vegetable,100,35,0.76,0.18,8.22,2.7
+Soupe poulet et nouilles en sachet,autre,100,23,0.84,0.55,3.67,0.1
+Roquette,vegetable,100,25,2.58,0.66,3.65,1.6
+Thon à l'huile (en conserve),seafood,100,198,29.13,8.21,0,0
+Rognons de porc crus,meat,100,100,16.46,3.25,0,0
+"Tomate, purée (en conserve)",sauce,100,38,1.65,0.33,8.98,1.9
+Flétan,seafood,100,140,26.69,2.94,0,0
+Olives vertes,fruit,100,146,1.03,15.32,3.84,3.3
+Pain de viande au poivre,autre,100,149,17.3,6.37,4.53,0
+Huître panée et frite,seafood,100,197,8.77,12.58,11.62,0
+Cerise guigne en conserve,fruit,100,46,0.77,0.13,11.76,1.5
+Sauce béchamel,sauce,100,96.3,2.5,6.3,7.4,0.2
+Limonade,autre,100,0,0,0,0,0
+Origan en poudre,autre,100,265,9,4.28,68.92,42.5
+Pigeonneaux,meat,100,294,18.47,23.8,0,0
+Cola allégé,drink,100,2,0.11,0.03,0.29,0
+Saucisson épicé,meat,100,186,16.3,11.5,3.3,0
+Saumon rouge,seafood,100,216,27.31,10.97,0,0
+Chocolat chaud (poudre),autre,100,398,6.67,4,83.73,3.7
+Yaourt nature brassé,dairy,100,68,5.12,2.07,6.91,0
+Riz blanc glutineux cuit,cereal,100,97,2.02,0.19,21.09,1
+Jambon de dinde,meat,100,104,17.07,1.66,4.21,0.5
+Salade de chou,vegetable,100,153,0.95,9.91,14.89,1.6
+Cola,drink,100,38,0.07,0.02,9.56,0
+Lait fermier,dairy,100,64,3.28,3.66,4.65,0
+Sorbet au citron,autre,100,128,0.4,0,32.6,0
+Cuisse de porc rôtie,meat,100,273,26.83,17.61,0,0
+Cuisse de poulet rôti avec la peau,meat,100,232,25.96,13.46,0,0
+Fenouil (graines),spice,100,345,15.8,14.87,52.29,39.8
+Flocons de maïs,cereal,100,390,7,0.667,86.667,2.667
+Poire asiatique,fruit,100,42,0.5,0.23,10.65,3.6
+Maïs doux,cereal,100,96,3.41,1.5,20.98,2.4
+Croquette de dinde panée,autre,100,283,14,18,15.7,0.5
+"Pizza au fromage (congelée, pâte lève-au-four)",autre,100,260,12.37,8.78,32.91,2.5
+Sirop de maïs,cereal,100,0,0,0,0,0
+Chewing gum sans sucre,autre,100,268,0,0.4,94.8,2.4
+Mars,autre,100,456,4.01,17.23,71.17,1
+Croquant au sésame,autre,100,517,11.6,33.3,50.3,7.7
+Couscous cuit,autre,100,112,3.79,0.16,23.22,0.89
+Moule cuite,seafood,100,172,23.8,4.48,7.39,0
+Laitue-tige,vegetable,100,18,0.85,0.3,3.65,1.7
+Farine de blé à gâteau,cereal,100,368,9.461,2.549,74.79,2.964
+Anchois à l'huile d'olive,autre,100,210,28.89,9.71,0,0
+Zeste de pamplemousse confit,fruit,100,0,0,0,0,0
+Lait de riz enrichi,cereal,100,0,0,0,0,0
+Viande de grison,meat,100,153,31.1,1.94,2.76,0
+Mortadelle,meat,100,311,16.37,25.39,3.05,0
+Raifort,autre,100,0,0,0,0,0
+Rhubarbe,vegetable,100,21,0.9,0.2,4.54,1.8
+Farine de pois chiches,vegetable,100,361,16.92,31.78,0.18,0
+Pêche au sirop,fruit,100,44,0.63,0.03,11.57,1.3
+Saumon rose (conserve),seafood,100,139,16.2,7.4,0,0
+Purée de sésame (tahin),autre,100,0,0,0,0,0
+Millet cuit,cereal,100,119,3.51,1,23.67,2.93
+Thon blanc à l'huile (conserve),seafood,100,186,26.53,8.08,0,0
+Algue Kombu (varech),autre,100,43,1.68,0.56,9.57,1.3
+Semoule de blé dur,cereal,100,360,12.68,1.05,72.83,3.9
+Pruneau,fruit,100,339,3.7,0.73,89.07,0
+Cœurs de palmier crus,autre,100,115,2.7,0.2,25.61,1.5
+Salami de boeuf cuit,meat,100,261,12.6,22.2,1.9,0
+Haricots blancs (conserve),vegetable,100,94,4.75,0.37,21.14,4.1
+Madeleine,autre,100,0,0,0,0,0
+Crème glacée à la fraise,dairy,100,192,3.2,8.4,27.6,0.9
+Champignon,vegetable,100,28,2.17,0.47,5.29,2.2
+Chou vert frisé congelé,vegetable,100,28,2.66,0.46,4.9,2
+Pain au levain,autre,100,289,11.75,1.83,56.44,2.4
+Radis orientaux crus (daikons),vegetable,100,18,0.6,0.1,4.1,1.6
+Chocolat au lait et riz soufflé,autre,100,511,7.64,29.37,59.67,3.3
+Hareng grillé,seafood,100,203,23.03,11.59,0,0
+Citron,fruit,100,29,1.1,0.3,9.32,2.8
+Mulet,seafood,100,150,24.81,4.86,0,0
+Gruyère,autre,100,413,29.81,32.34,0.36,0
+Morue Atlantique,seafood,100,105,22.83,0.86,0,0
+Cervelle d'agneau,meat,100,273,16.97,22.19,0,0
+Confiture de fruit,fruit,100,278,0.37,0.07,68.86,1.1
+Croutons assaisonnés,autre,100,0,0,0,0,0
+Pâte à tartiner chocolat-noisettes,autre,100,541,5.41,29.73,62.16,5.4
+Pétoncles,spice,100,112,23.2,1.4,0,0
+Huile de colza,autre,100,885,0,100,0,0
+Dragée,autre,100,475,10,17.93,68.26,2.5
+Abricot confit,fruit,100,0,0,0,0,0
+Jus de mandarine,fruit,100,43,0.5,0.2,10.1,0.2
+Oignon cru,vegetable,100,40,1.1,0.1,9.34,1.7
+Framboise,fruit,100,53,1.2,0.65,11.94,6.5
+Burrito jambon et fromage,meat,100,214,9.7,7,28.1,1.4
+Oeuf poché,egg,100,144,11.755,9.974,0.977,0
+Salade de légumes et crevettes,seafood,100,45,6.15,1.05,2.8,0.45
+Soupe de poireaux en sachet,autre,100,28,0.83,0.81,4.5,1.2
+Tostada au fromage avec haricots et bœuf,autre,100,0,0,0,0,0
+Tripes de boeuf,meat,100,85,12.07,3.69,0,0
+Guimauves,autre,100,318,1.8,0.2,81.3,0.1
+"Maïs, beignet",autre,100,374,8.55,21.238,38.623,1.994
+Maquereau espagnol,seafood,100,201,25.73,10.12,0,0
+Raifort (sauce),sauce,100,48,1.18,0.69,11.29,3.3
+Golden Grahams,autre,100,375,5,3.667,83.333,3
+Graisse de bœuf,autre,100,902,0,100,0,0
+Pois mange-tout crus,vegetable,100,42,2.8,0.2,7.55,1.77
+Corn Flakes,autre,100,389,7,0.7,86.2,2.6
+Graisse de mouton,autre,100,902,0,100,0,0
+Moutarde brune,sauce,100,91,5.9,6.3,5.3,3.2
+Barbue de rivière sauvage,seafood,100,105,18.47,2.85,0,0
+Épinard cru,vegetable,100,23,2.86,0.39,3.63,2.2
+Mozarella,autre,100,319,21.6,24.64,2.47,0
+Sauce chili,sauce,100,104,2.5,0.3,19.79,5.9
+Thym frais,spice,100,101,5.56,1.68,24.45,14
+Brie,dairy,100,334,20.75,27.68,0.45,0
+Hamburger au poisson,autre,100,0,0,0,0,0
+Kumquat,autre,100,71,1.88,0.86,15.9,6.5
+Yaourt allégé sur lit de fruits,fruit,100,62,4.3,0.19,10.77,0
+Son de blé,cereal,100,0,0,0,0,0
+Flan pâtissier préparé (sachet),autre,100,112,4.13,2.83,17.61,0
+Pâte d'amandes,nuts,100,0,0,0,0,0
+Blanc de dinde rôtie avec la peau,meat,100,136,30.854,5.402,0,0
+Sarrasin,cereal,100,343,13.25,3.4,71.5,3.47
+Cœur de bœuf,meat,100,165,28.48,4.73,0.15,0
+Sundae fraises,fruit,100,175,4.09,5.13,29.18,0
+Éclair,autre,100,0,0,0,0,0
+Beignet nature enrobé de chocolat,autre,100,452,4.93,25.25,51.33,1.9
+Haricots blancs crus,vegetable,100,67,6.15,0.7,13.05,1.45
+Ananas confit,fruit,100,316,0.8,0.4,80,0.4
+Parmesan râpé,dairy,100,432,38.46,28.61,4.06,0
+Thon rouge frais cuit,seafood,100,184,29.91,6.28,0,0
+Topinambour,nuts,100,73,2,0.01,17.44,1.6
+Tablette de chocolat Crunch,autre,100,500,5,26,67,1.9
+Zeste d'orange,fruit,100,97,1.5,0.2,25,10.6
+Emmental,dairy,100,380,26.93,27.8,5.38,0
+Chips goût barbecue,sauce,100,491,7.7,32.4,52.8,4.4
+Feuilles de pissenlit cuites,vegetable,100,33,2,0.6,6.4,2.9
+Vinaigre,sauce,100,22,0,0,0.93,0
+crème fouettée  fraîche,dairy,100,328,2.08941,35,2.84583,0
+Gâteau au fromage blanc,autre,100,217,8.4,5.3,34,0.7
+Ormeau frit,seafood,100,189,19.63,6.78,11.05,0
+Moutarde jaune (graines),sauce,100,508,26.08,36.24,28.09,12.2
+Braunschweiger,autre,100,327,14.5,28.5,3.1,0
+Champignon enoki cru,vegetable,100,44,2.56,0.32,7.68,2.7
+Macaron,autre,100,404,3.6,12.7,72.45,1.8
+Chocolat chaud maison,autre,100,77,3.52,2.34,10.74,1
+Cola décaféiné,drink,100,41,0,0,10.58,0
+Pain au chocolat,autre,100,401,7.4,19.7,48.6,2
+Omelette,egg,100,0,0,0,0,0
+Fromage de chèvre demi-sec,dairy,100,364,21.58,29.84,2.54,0
+Bière ordinaire,drink,100,0,0,0,0,0
+Menthe verte fraîche,autre,100,44,3.29,0.73,8.41,6.8
+Epaule de porc,meat,100,236,17.18,17.99,0,0
+Noix de Pécan,nuts,100,691,9.17,71.97,14.04,9.6
+Huile de palmiste,autre,100,863,0,100,0,0
+Cerise guigne,fruit,100,63,1.06,0.2,16.01,2.1
+Lupins cuits,autre,100,0,0,0,0,0
+Patate douce (conserve),vegetable,100,91,1.65,0.2,21.12,1.8
+Blanc de poulet pané et frit,meat,100,303,21.91,18.11,12.01,0.27
+Sandwich au poulet,autre,100,175,12.5,10.55,6.75,0
+Truite saumonée,seafood,100,133,21.46,4.63,0,0
+Confiture allégée,autre,100,132,0.3,0.3,53.6,2.5
+Beignet de palourde,autre,100,311,11.9,14.9,30.9,1.16
+Cœurs de palmier (conserve),autre,100,28,2.52,0.62,4.62,2.4
+Saucisse fumée (poulet),meat,100,223,15.51,16.19,2.74,0.4
+Céréales Nesquik,autre,100,400,3.667,3,90,2
+Huile de tournesol,autre,100,885,0,100,0,0
+Huile de pépins de raisin,autre,100,885,0,100,0,0
+Surimi,seafood,100,99,15.18,0.9,6.85,0
+Bar,seafood,100,124,23.63,2.56,0,0
+Thon au naturel (conserve),seafood,100,116,25.51,0.82,0,0
+Noix de Grenoble,nuts,100,655,15.23,65.21,13.71,6.7
+Sandwich au jambon de poulet,autre,100,263,12.18,21.5,4.24,0
+Coriandre (graines),spice,100,298,12.37,17.77,54.99,41.9
+Litchi séché,fruit,100,277,3.8,1.2,70.7,4.6
+Chou-fleur,vegetable,100,23,1.84,0.45,4.11,2.3
+Barbue de rivière élevage,seafood,100,152,18.72,8.02,0,0
+Sirop d'érable,autre,100,261,0,0.244,66.89,0
+Nouilles chinoises,autre,100,527,8.38,30.76,57.54,3.9
+Chou gras cru,vegetable,100,43,4.2,0.8,7.3,4
+Crevette panée et frite,seafood,100,242,21.39,12.28,11.47,0.4
+Cornichons au vinaigre,vegetable,100,11,0.33,0.2,2.26,1.2
+Mille-feuilles,autre,100,0,0,0,0,0
+Sauce tomate,sauce,100,42,1.56,0.19,9.94,1.8
+Friand à la viande,autre,100,189,17.5,12.77,1.04,0
+Chou cru,vegetable,100,25,1.28,0.1,5.8,1.8
+Romarin (déshydraté),spice,100,332,4.88,15.22,64.06,42.6
+Lait demi-écrémé 2% mat. gr.,dairy,100,50,3.3,1.98,4.8,0
+Poulet bouilli (sans peau),meat,100,177,27.29,6.71,0,0
+Macédoine de légumes (conserve),autre,100,36,1.42,0.25,7.13,3.8
+Brocoli,vegetable,100,35,2.38,0.41,7.18,2.4
+Haricots blancs maison,vegetable,100,155,5.54,5.15,21.63,5.5
+Carpe,seafood,100,162,22.86,7.17,0,0
+Cardamome en poudre,spice,100,312,10.76,6.7,68.47,28
+Navet,vegetable,100,28,0.9,0.1,6.43,1.8
+Muscade en poudre,spice,100,525,5.84,36.31,49.29,20.8
+Oeuf de caille,egg,100,159,13.05,11.09,0.41,0
+Haricots mungo germés cuits,vegetable,100,21,2.03,0.09,4.19,0.8
+Petit-suisse,dairy,100,136,9.4,9.45,3.3,0
+Burrito fromage et bœuf,meat,100,0,0,0,0,0
+Sauge en poudre,autre,100,315,10.63,12.75,60.73,40.3
+Sucre d'orge,cereal,100,394,0,0.2,98,0
+Hareng fumé,seafood,100,217,24.58,12.37,0,0
+Anis (graines),spice,100,337,17.6,15.9,50.02,14.6
+Nachos au fromage,autre,100,0,0,0,0,0
+Endive,vegetable,100,17,0.9,0.1,4,3.1
+Farine de seigle,cereal,100,354,9.39,1.77,77.49,14.6
+Bison,meat,100,143,28.44,2.42,0,0
+Poivre blanc,spice,100,296,10.4,2.12,68.61,26.2
+Soupe à l'oignon en sachet,autre,100,12,0.32,0.01,2.77,0.3
+Biscuit barquette avec pulpe de fruit,autre,100,0,0,0,0,0
+Végétaline,autre,100,900,0,100,0,0
+Beignet nature,autre,100,418,5.87,23.55,45.63,1.6
+Épaule d'agneau grillée,meat,100,205,26.68,10.936,0,0
+Cuisse de dinde rôtie avec la peau,meat,100,182,28.573,9.101,0,0
+Croissant au fromage,autre,100,0,0,0,0,0
+Chili en poudre,autre,100,314,12.26,16.76,54.66,34.2
+Rhubarbe (compote),vegetable,100,0,0,0,0,0
+Nouilles de riz cuites,cereal,100,109,0.91,0.2,24.9,1
+Fruit de la passion,fruit,100,97,2.2,0.7,23.38,10.4
+Thymus de bœuf,meat,100,319,21.85,24.98,0,0
+Avoine,cereal,100,389,16.89,6.9,66.27,10.6
+Coquille à taco cuite,autre,100,467,7.08,20.83,62.72,4.6
+Riz brun grain long cuit,cereal,100,111,2.58,0.9,22.96,1.48
+Sirop de grenadine,autre,100,268,0,0,66.91,0
+Cardon,autre,100,22,0.76,0.11,5.33,1.7
+Chausson aux pommes,autre,100,0,0,0,0,0
+Patate douce bouillie,vegetable,100,77,1.37,0.14,17.72,2.5
+Yaourt aux fruits allégé,dairy,100,95,4.4,0.2,19,0
+Panais,autre,100,71,1.32,0.3,17.01,3.24
+Ricotta au lait entier,dairy,100,174,11.26,12.98,3.04,0
+Cumin (graines),spice,100,375,17.81,22.27,44.24,10.5
+Couscous (mouton),autre,100,0,0,0,0,0
+Fromage bleu,dairy,100,353,21.4,28.74,2.34,0
+Huile de germe de blé,autre,100,885,0,100,0,0
+Cuisse de faisan,meat,100,134,22.2,4.3,0,0
+Fromage fondu,dairy,100,334,24.73,25.01,2.1,0
+Pamplemousse,fruit,100,42,0.77,0.14,10.66,1.6
+Homard d'Amérique,seafood,100,98,20.5,0.59,1.28,0
+Twix,autre,100,503,4.91,24.85,64.8,1.1
+Vin blanc,drink,100,82,0.07,0,0.96,0
+Lait fermenté bifidus nature,dairy,100,66.5,3.9,2.92,5.4,0
+Pomme de terre bouillie (avec la peau),vegetable,100,86,1,0,19,1
+Rognons de porc cuits,meat,100,151,25.4,4.7,0,0
+Cervelle de bœuf,meat,100,196,12.57,15.83,0,0
+Paprika,spice,100,289,14.76,12.95,55.74,37.4
+Chou rouge cuit,vegetable,100,29,1.51,0.09,6.94,2.6
+Poulet rôti (sans peau),meat,100,190,28.93,7.41,0,0
+Sandwich merguez-frites,autre,100,0,0,0,0,0
+Chocolat à croquer,autre,100,0,0,0,0,0
+After Eight,autre,100,432,1.67,11.9,79.53,2.4
+Mayonnaise commerciale,sauce,100,719,0.9,79.39,3.16,0
+Vinaigrette commerciale,sauce,100,457,0.77,44.81,15.58,0
+Sucre glace,autre,100,389,0,0,99.77,0
+Cubes de veau (pour ragout),autre,100,188,34.94,4.31,0,0
+Farine de sarrasin,cereal,100,0,0,0,0,0
+Jus d'orange,drink,100,45,0.7,0.2,10.4,0.2
+Pomme de terre bouillie (sans la peau),vegetable,100,86,1.71,0.1,20.01,1.4
+Soupe minestrone en sachet,autre,100,31,1.75,0.68,4.69,0.31
+Jus de carotte,vegetable,100,24,0.95,0.15,4.7,0.8
+Falafel,autre,100,0,0,0,0,0
+Bette,autre,100,20,1.88,0.08,4.13,2.1
+Figue de barbarie,seafood,100,41,0.73,0.51,9.57,3.6
+Pomme (avec la peau),fruit,100,52,0.26,0.17,13.81,1.9
+Croque-Monsieur,autre,100,0,0,0,0,0
+Pieds de porc,meat,100,140,11.63,10.02,0.01,0
+All Bran (Kellogg's),autre,100,262,12,3.3,76,33.6
+Quinoa cuit,cereal,100,120,4.4,1.92,21.3,2.8
+Riz croustillant,cereal,100,377,7.333,0.333,83.333,1
+Bran Flakes (Kellogg's),autre,100,382,11,2.2,79,15
+Chausson à la viande,autre,100,254,13.7,20,3.9,0
+Farine de riz brun,cereal,100,0,0,0,0,0
+Caramel,autre,100,348,0,0,91.6,0
+Milky Way,autre,100,444,3.2,17.5,71.22,2.9
+Thon albacore,seafood,100,139,29.97,1.22,0,0
+Tomate farcie,sauce,100,134,5.9,10.4,4.2,0
+Ciboulette lyophilisée,autre,100,311,21.2,3.5,64.29,26.2
+M & M's ( marron),autre,100,492,4.33,21.13,71.19,2.8
+Veau gras,meat,100,642,9.42,66.74,0,0
+Lait entier (poudre),dairy,100,496,26.32,26.71,38.42,0
+Citrouille,autre,100,34,1.1,0.28,8.09,2.9
+Patate douce au four avec la peau,vegetable,100,90,2.01,0.15,20.71,3.3
+Bulgur cuit,autre,100,83,3.08,0.24,18.58,2.85
+Poudre de cacao non sucré,autre,100,228,19.6,13.7,57.9,33.2
+Sirop d'agave,autre,100,0,0,0,0,0
+Préparation pour crêpe au froment,autre,100,344,12.8,1.5,71,0
+Lait demi-écrémé 1% mat.gr.,dairy,100,42,3.37,0.97,4.99,0
+Petits pois frais cuits,vegetable,100,84,5.36,0.22,15.63,6.65
+Sablé,autre,100,502,6.1,24.1,64.5,1.8
+Crispix,autre,100,399,7.3,1,87.2,1.8
+Fraise,fruit,100,33,0.67,0.3,7.68,2.24
+Pain de seigle,autre,100,258,8.5,3.3,48.3,5.8
+Cannelle en poudre,spice,100,247,3.99,1.24,80.59,53.1
+Huître crue,seafood,100,68,7.05,2.46,3.91,0
+Noix de Brésil,nuts,100,656,14.32,66.43,12.27,7.5
+Lait entier (au chocolat),dairy,100,83,3.17,3.39,10.34,0.8
+Haricots blancs cuits,vegetable,100,78,7.07,0.81,15.01,0.8
+Loup,autre,100,123,22.44,3.06,0,0
+Bœuf haché cru,meat,100,293,16.55,24.7,0,0
+Sandwich au bifteck,autre,100,0,0,0,0,0
+Grenade,fruit,100,83,1.67,1.17,18.7,4
+Algue Nori crue,autre,100,35,5.81,0.28,5.11,0.3
+Double hamburger au fromage,autre,100,273,14.72,16.92,15.37,0.96
