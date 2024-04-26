@@ -23,9 +23,9 @@ J'ai conçu un script récupérant les liens sur la page "https://www.lanutritio
 
 ### Éxécution
 
-Je conseil d'utiliser ``python3 scrapper.py && python3 parser.py && python3 to_csv.py && python3 analyse.py `` pour éxécuter tous les programmes liés au traitement de donnés de manière à ne pas les éxécuter individuellement.
+Je conseil d'utiliser ```python3 scrapper.py && python3 parser.py && python3 to_csv.py && python3 analyse.py ``` pour éxécuter tous les programmes liés au traitement de donnés de manière à ne pas les éxécuter individuellement.
 
-``python3 kmoyen.py`` permet d'éxécuter le programme contenant l'analyse de clustering
+```python3 kmoyen.py``` permet d'éxécuter le programme contenant l'analyse de clustering
 
 
 ### Avertissement
