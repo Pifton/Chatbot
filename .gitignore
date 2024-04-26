@@ -1,3 +1,2 @@
-src/
-crap/
-program-ab/
+__pycache__/
+.gitignore
