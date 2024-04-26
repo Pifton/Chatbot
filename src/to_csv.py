@@ -14,7 +14,7 @@ def extract_aliment_info(aliment):
     return nom, aliment_type, portion, calories, proteins, lipides, glucides, fibres
 
 # Charger le fichier XML
-tree = ET.parse('aliments.xml')
+tree = ET.parse('../data/aliments.xml')
 root = tree.getroot()
 
 # Ouvrir un fichier CSV en mode écriture

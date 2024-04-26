@@ -101,6 +101,7 @@ for liens in links_from_start_page:
      scraper(liens)
      test += 1
      print(test," | ",liens)
+print("Toutes les données ont été extraites avec succès dans le fichier texte !")
 
 
 """ if isinstance(links_from_start_page, str):
